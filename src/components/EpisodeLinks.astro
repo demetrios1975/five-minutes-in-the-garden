@@ -1,0 +1,73 @@
+---
+import { getEpisodeLinks } from "../lib/episodeLinks";
+import type { EpisodeData } from "../lib/episodeLinks";
+
+type Props = {
+  title?: string;
+  variant?: "default" | "about";
+  ep?: EpisodeData; // optional; About page can omit
+};
+
+const { title = "Listen", variant = "default", ep = {} } = Astro.props as Props;
+
+const links = getEpisodeLinks(ep);
+---
+
+<section class={`listen listen--${variant}`} aria-label="Podcast links">
+  <p class="listen__label">{title}</p>
+
+  <nav class="listen__links">
+    {links.map((l) => (
+      <a
+        class={`listen__btn listen__btn--${l.id}`}
+        href={l.href}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {l.label} →
+      </a>
+    ))}
+  </nav>
+</section>
+
+<style>
+  .listen__label{
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.75;
+    margin: 0 0 0.75rem;
+  }
+
+  .listen__links{
+    display: flex;
+    flex-wrap: wrap;
+    gap: .75rem;
+    align-items: center;
+  }
+
+  .listen__btn{
+    display: inline-flex;
+    align-items: center;
+    padding: .55rem 1rem;
+    border-radius: 999px;
+    border: 1px solid rgba(0,0,0,.18);
+    text-decoration: none;
+    color: inherit;
+    font-family: var(--font-serif);
+    background: rgba(255,255,255,.65);
+    transition: transform .12s ease, background .12s ease;
+  }
+
+  .listen__btn:hover{
+    transform: translateY(-1px);
+    background: rgba(255,255,255,.95);
+  }
+
+  /* Optional: calmer About variant */
+  .listen--about .listen__btn{
+    padding: .5rem .9rem;
+    opacity: .95;
+  }
+</style>

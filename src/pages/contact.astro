@@ -1,0 +1,317 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="Contact — Five Minutes in the Garden">
+  <main class="page">
+    <header class="page-header">
+      <p class="eyebrow">Contact</p>
+      <h1 class="title">Get in touch</h1>
+      <p class="lede">
+        If you’d like to reach out—whether with a question, a reflection, or a quiet note—you’re welcome.
+      </p>
+    </header>
+
+    <hr class="divider" />
+
+    <section class="section section--wide" aria-label="Send a message">
+      <h2 class="section-title">Send a message</h2>
+      <p class="muted">
+        This form is simple by design. If you include an email address, I’ll do my best to respond.
+      </p>
+
+      <form method="POST" class="contact-form">
+        <div class="field-row">
+          <label class="field">
+            <span class="label">Your name <span class="hint">(optional)</span></span>
+            <input class="input" type="text" name="name" autocomplete="name" />
+          </label>
+
+          <label class="field">
+            <span class="label">Email <span class="hint">(optional)</span></span>
+            <input
+              class="input"
+              type="email"
+              name="email"
+              autocomplete="email"
+              inputmode="email"
+              placeholder="you@example.com"
+            />
+          </label>
+        </div>
+
+        <label class="field">
+          <span class="label">Message</span>
+          <textarea
+            class="textarea"
+            name="message"
+            rows="6"
+            required
+            placeholder="Write your note here… Take your time"
+          ></textarea>
+        </label>
+
+        
+
+        <div class="actions">
+          <button class="btn" type="submit">Send message</button>
+          <p class="small muted">
+            Note: Messages are read personally. Please allow a little time for reply.
+          </p>
+        </div>
+      </form>
+    </section>
+
+    <hr class="divider" />
+
+    <section class="section" aria-label="Email">
+      <h2 class="section-title">Email</h2>
+      <p>
+        You can also email me directly:
+      </p>
+
+      <p class="email-line">
+        <a href="mailto:contact@fiveminutesinthegarden.com">
+          contact@fiveminutesinthegarden.com →
+        </a>
+      </p>
+
+      <p class="small muted">
+        If you don’t hear back right away, please don’t take it as disregard—sometimes it simply means I’m offline.
+      </p>
+    </section>
+
+    <hr class="divider" />
+
+    <section class="section" aria-label="Explore">
+      <h2 class="section-title">Explore</h2>
+      <nav class="links">
+        <a href="/episodes">Browse all episodes →</a>
+        <a href="/about">About →</a>
+        <a href="/">Home →</a>
+      </nav>
+    </section>
+  </main>
+
+  <style>
+    .page {
+      max-width: min(900px, 92vw);
+      margin: 0 auto;
+      padding: 1.5rem 0 3rem;
+      font-size: 1.25rem; /* matches your About page bump */
+    }
+
+    .page-header {
+      max-width: 46rem;
+    }
+
+    .eyebrow {
+      font-family: var(--font-sans);
+      font-size: 0.75rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      opacity: 0.6;
+      margin: 0 0 0.75rem;
+    }
+
+    .title {
+      font-family: var(--font-serif);
+      font-weight: 600;
+      letter-spacing: 0.01em;
+      margin: 0 0 0.75rem;
+      line-height: 1.15;
+      font-size: clamp(2rem, 3.2vw, 2.6rem);
+    }
+
+    .lede {
+      font-family: var(--font-serif);
+      font-size: 1.15em;
+      line-height: 1.7;
+      margin: 0;
+      opacity: 0.95;
+    }
+
+    .divider {
+      border: 0;
+      height: 1px;
+      background: linear-gradient(
+        to right,
+        transparent,
+        rgba(0, 0, 0, 0.16),
+        transparent
+      );
+      margin: 1.75rem 0 1.5rem;
+    }
+
+    .section {
+      margin: 1.25rem 0 1.5rem;
+      max-width: 46rem;
+    }
+
+    .section--wide {
+      max-width: 60rem; /* gives the form more breathing room */
+    }
+
+    .section-title {
+      font-family: var(--font-sans);
+      font-size: 0.85rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      opacity: 0.75;
+      margin: 0 0 0.75rem;
+    }
+
+    .section p {
+      line-height: 1.75;
+      margin: 0.75rem 0 0;
+    }
+
+    .muted {
+      opacity: 0.8;
+    }
+
+    .small {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      margin-top: 0.9rem;
+    }
+
+    /* -----------------------------
+       FORM
+       ----------------------------- */
+
+    .contact-form {
+      margin-top: 1rem;
+      display: grid;
+      gap: 1rem;
+    }
+
+    .field-row {
+      display: grid;
+      gap: 1rem;
+    }
+
+    @media (min-width: 860px) {
+      .field-row {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    .field {
+      display: grid;
+      gap: 0.4rem;
+    }
+
+    .label {
+      font-family: var(--font-sans);
+      font-size: 0.85rem;
+      letter-spacing: 0.06em;
+      opacity: 0.85;
+    }
+
+    .hint {
+      letter-spacing: 0.02em;
+      opacity: 0.65;
+      font-weight: 400;
+      margin-left: 0.25rem;
+    }
+
+    .input,
+    .textarea {
+      font-family: var(--font-serif);
+      font-size: 1rem;
+      line-height: 1.4;
+      padding: 0.7rem 0.8rem;
+      border-radius: 14px;
+      border: 1px solid rgba(0, 0, 0, 0.14);
+      background: rgba(255, 255, 255, 0.75);
+      color: inherit;
+      outline: none;
+    }
+
+    .textarea {
+      resize: vertical;
+      min-height: 12rem;
+    }
+
+    .input:focus,
+    .textarea:focus {
+      border-color: rgba(0, 0, 0, 0.28);
+      box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.06);
+    }
+
+    
+    .actions {
+      display: grid;
+      gap: 0.6rem;
+      align-items: start;
+    }
+
+    .btn {
+      justify-self: start;
+      display: inline-flex;
+      align-items: center;
+      padding: 0.65rem 1.05rem;
+      border-radius: 999px;
+      border: 1px solid rgba(0, 0, 0, 0.18);
+      background: rgba(0, 0, 0, 0.02);
+      color: inherit;
+      font-family: var(--font-serif);
+      font-size: 1rem;
+      text-decoration: none;
+      cursor: pointer;
+      transition: transform 150ms ease, box-shadow 150ms ease;
+    }
+
+    .btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 10px 22px rgba(0, 0, 0, 0.12);
+    }
+
+    /* -----------------------------
+       EMAIL LINE
+       ----------------------------- */
+
+    .email-line {
+      margin-top: 0.75rem;
+      font-family: var(--font-serif);
+      font-size: 1.05em;
+    }
+
+    .email-line a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .email-line a:hover {
+      text-decoration: underline;
+    }
+
+    /* -----------------------------
+       EXPLORE LINKS
+       ----------------------------- */
+
+    .links {
+      display: grid;
+      gap: 0.75rem;
+      margin-top: 0.75rem;
+      font-family: var(--font-sans);
+    }
+
+    .links a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .links a:hover {
+      text-decoration: underline;
+    }
+
+    input:focus,
+textarea:focus {
+  outline: none;
+  border-color: rgba(0, 0, 0, 0.35);
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.06);
+}
+  </style>
+</BaseLayout>

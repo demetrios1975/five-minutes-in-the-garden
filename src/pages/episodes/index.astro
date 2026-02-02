@@ -1,0 +1,363 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+
+const episodes = (await getCollection("episodes")) as CollectionEntry<"episodes">[];
+
+episodes.sort(
+  (a: CollectionEntry<"episodes">, b: CollectionEntry<"episodes">) =>
+    b.data.episode - a.data.episode
+);
+
+const latest = episodes[0];
+const rest = episodes.slice(1);
+
+// Try: frontmatter art/image → /episode-art/ep-17.jpg → /episode-art/17.jpg
+function getArtSrc(ep: CollectionEntry<"episodes">): string {
+  const data: any = ep.data;
+
+  // optional overrides if you ever want them later
+  if (data.art) return data.art;
+  if (data.image) return data.image;
+
+  const n = data.episode;
+  return `/episode-art/episode-${n}.jpg`;
+}
+
+function getAlt(ep: CollectionEntry<"episodes">): string {
+  return `Episode ${ep.data.episode} artwork`;
+}
+---
+
+<BaseLayout title="Episodes — Five Minutes in the Garden">
+  <main class="page">
+    <header class="page-header">
+      <p class="eyebrow">Five Minutes in the Garden</p>
+      <h1 class="title">Episodes</h1>
+      <p class="lede">Browse the latest episodes and devotionals.</p>
+    </header>
+
+    <hr class="divider" />
+
+    {/* LATEST */}
+    {latest && (
+      <section class="section" aria-label="Latest episode">
+        <h2 class="section-title">Latest</h2>
+
+        <article class="card card--featured">
+          <div class="card__media">
+            <img
+              class="thumb thumb--featured"
+              src={getArtSrc(latest)}
+              alt={getAlt(latest)}
+              loading="lazy"
+              onerror="this.onerror=null; this.src=`/episode-art/${this.dataset.fallback}`;"
+              data-fallback={`${latest.data.episode}.jpg`}
+            />
+          </div>
+
+          <div class="card__body">
+            <p class="kicker">Episode {latest.data.episode}</p>
+
+            <h3 class="card__title">
+              <a href={`/episodes/${latest.slug}`}>{latest.data.title}</a>
+            </h3>
+
+            <p class="meta">
+              {latest.data.passage} · {latest.data.date}
+            </p>
+
+            {latest.data.summary && (
+              <p class="summary">{latest.data.summary}</p>
+            )}
+
+            <a class="cta" href={`/episodes/${latest.slug}`}>Read →</a>
+          </div>
+        </article>
+      </section>
+    )}
+
+    <hr class="divider" />
+
+    {/* ALL EPISODES */}
+    <section class="section" aria-label="All episodes">
+      <h2 class="section-title">All episodes</h2>
+
+      <div class="list">
+        {rest.map((ep) => (
+          <article class="row">
+            <a class="row__media" href={`/episodes/${ep.slug}`} aria-label={`Open Episode ${ep.data.episode}`}>
+              <img
+  class="thumb"
+  src={getArtSrc(ep)}
+  alt={getAlt(ep)}
+  loading="lazy"
+/>
+            </a>
+
+            <div class="row__main">
+              <p class="kicker">Episode {ep.data.episode}</p>
+
+              <h3 class="row__title">
+                <a href={`/episodes/${ep.slug}`}>{ep.data.title}</a>
+              </h3>
+
+              <p class="meta">
+                {ep.data.passage} · {ep.data.date}
+              </p>
+
+              {ep.data.summary && (
+                <p class="summary">{ep.data.summary}</p>
+              )}
+            </div>
+
+            <div class="row__action">
+              <a class="cta cta--small" href={`/episodes/${ep.slug}`}>Read →</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+<section class="section section--narrow" aria-label="Explore">
+  <h2 class="section-title">Explore</h2>
+  <nav class="links">
+    <a href="/">Home →</a>
+    <a href="/about">About →</a>
+    <a href="/contact">Contact →</a>
+  </nav>
+</section>
+
+  </main>
+
+  <style>
+  .page {
+  max-width: min(1100px, 94vw); /* ~20% wider than a 900px layout */
+  margin: 0 auto;
+}
+    .page-header {
+      max-width: 52rem;
+    }
+
+    .eyebrow {
+      font-family: var(--font-sans);
+      font-size: 0.75rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      opacity: 0.6;
+      margin: 0 0 0.75rem;
+    }
+
+    .title {
+      font-family: var(--font-serif);
+      font-weight: 600;
+      margin: 0 0 0.5rem;
+      line-height: 1.1;
+      font-size: clamp(2.2rem, 3.6vw, 3rem);
+    }
+
+    .lede {
+      font-family: var(--font-serif);
+      font-size: 1.1rem;
+      line-height: 1.7;
+      margin: 0;
+      opacity: 0.9;
+    }
+
+    .divider {
+      border: 0;
+      height: 1px;
+      background: linear-gradient(
+        to right,
+        transparent,
+        rgba(0, 0, 0, 0.16),
+        transparent
+      );
+      margin: 1.75rem 0 1.5rem;
+    }
+
+  .section {
+  margin: 1.25rem 0 1.5rem;
+  max-width: 100%;
+}
+
+.section--narrow {
+  max-width: 46rem;
+}
+
+
+.section-title {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  opacity: 0.75;
+  margin: 0 0 0.75rem;
+}
+
+.links {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+  font-family: var(--font-sans);
+}
+
+.links a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+    /* Thumbnails */
+    .thumb {
+      width: 96px;
+      height: 64px;
+      object-fit: cover;
+      border-radius: 14px;
+      border: 1px solid rgba(0,0,0,0.10);
+      background: rgba(0,0,0,0.02);
+      display: block;
+    }
+
+    .thumb--featured {
+      width: 160px;
+      height: 110px;
+      border-radius: 16px;
+    }
+
+    /* Featured card */
+    .card {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 1.15rem;
+      align-items: start;
+
+      border: 1px solid var(--rule, #e7e7e7);
+      border-radius: 18px;
+      background: rgba(0, 0, 0, 0.02);
+      padding: clamp(1rem, 2.2vw, 1.4rem);
+    }
+
+    .card__title {
+      margin: 0.2rem 0 0.25rem;
+      font-family: var(--font-serif);
+      font-weight: 650;
+      line-height: 1.2;
+      font-size: clamp(1.5rem, 2.2vw, 1.9rem);
+    }
+
+    .card,
+.row {
+  width: 100%;
+}
+
+    /* Rows list */
+    .list {
+      display: grid;
+      gap: 0.85rem;
+    }
+
+    .row {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: 1.25rem;
+      align-items: start;
+
+      border: 1px solid rgba(0, 0, 0, 0.08);
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.65);
+      padding: 1rem 1.1rem;
+    }
+
+    .row:hover {
+      background: rgba(255, 255, 255, 0.95);
+    }
+
+    .row__media {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .row__title {
+      margin: 0.2rem 0 0.25rem;
+      font-family: var(--font-serif);
+      font-weight: 600;
+      line-height: 1.2;
+      font-size: 1.35rem;
+    }
+
+    .kicker {
+      font-family: var(--font-sans);
+      font-size: 0.8rem;
+      opacity: 0.72;
+      margin: 0 0 0.2rem;
+    }
+
+    .meta {
+      font-family: var(--font-sans);
+      font-size: 0.95rem;
+      opacity: 0.75;
+      margin: 0 0 0.5rem;
+    }
+
+    .summary {
+      margin: 0.5rem 0 0;
+      line-height: 1.7;
+      opacity: 0.92;
+      max-width: 85ch;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      font-family: var(--font-sans);
+      text-decoration: none;
+      margin-top: 0.75rem;
+      white-space: nowrap;
+    }
+
+    .cta:hover {
+      text-decoration: underline;
+    }
+
+    .cta--small {
+      margin-top: 0.25rem;
+    }
+
+    @media (max-width: 720px) {
+      .card {
+        grid-template-columns: 1fr;
+      }
+      .thumb--featured {
+        width: 100%;
+        height: 180px;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .row {
+        grid-template-columns: auto 1fr;
+      }
+      .row__action {
+        grid-column: 1 / -1;
+        margin-top: 0.25rem;
+      }
+    }
+  </style>
+</BaseLayout>

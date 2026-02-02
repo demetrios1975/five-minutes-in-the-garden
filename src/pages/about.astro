@@ -1,0 +1,287 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="About — Five Minutes in the Garden">
+  <main class="page">
+    <header class="page-header">
+      <p class="eyebrow">About</p>
+      <h1 class="title">A daily pause in Scripture &amp; prayer</h1>
+      <p class="lede">
+        Five Minutes in the Garden is a short daily devotional—an invitation to slow down,
+        read Scripture, reflect, and pray.
+      </p>
+    </header>
+
+    <hr class="divider" />
+
+    <section class="section" aria-label="What this is">
+      <h2 class="section-title">What this is</h2>
+      <p>
+        Each episode is designed to be simple and steady: a brief reading, a devotional
+        reflection, and a closing prayer. Nothing complicated—just a small, faithful
+        rhythm you can return to each day.
+      </p>
+    </section>
+
+    <section class="section" aria-label="Scripture notes">
+      <h2 class="section-title">A note on Scripture</h2>
+      <p>
+        Episodes draw from the Scriptures in a way meant to be reverent and pastoral.
+        This is not a replacement for the life of the Church, confession, or the counsel
+        of your priest—only a gentle companion for daily remembrance.
+      </p>
+    </section>
+
+    <section class="section section--wide" aria-label="Listen">
+      <h2 class="section-title">Listen</h2>
+      <p class="muted">Choose your preferred platform:</p>
+
+      <section class="listen listen--about" aria-label="Podcast links">
+        <nav class="listen__links">
+          <a
+            class="listen__btn listen__btn--spotify"
+            href="https://t.co/u24wLdImfj"
+            target="_blank"
+            rel="noopener"
+          >
+            Spotify →
+          </a>
+
+          <a
+            class="listen__btn listen__btn--apple"
+            href="https://tinyurl.com/FiveMinutesonApple"
+            target="_blank"
+            rel="noopener"
+          >
+            Apple Podcasts →
+          </a>
+
+          <a
+            class="listen__btn listen__btn--amazon"
+            href="https://tinyurl.com/5MinutesInTheGarden"
+            target="_blank"
+            rel="noopener"
+          >
+            Amazon Music →
+          </a>
+
+          <a
+            class="listen__btn listen__btn--audible"
+            href="https://audible.com/pd/B0F2JBFZZ2"
+            target="_blank"
+            rel="noopener"
+          >
+            Audible →
+          </a>
+
+          <a
+            class="listen__btn listen__btn--youtube"
+            href="https://tinyurl.com/5-min-on-YouTube"
+            target="_blank"
+            rel="noopener"
+          >
+            YouTube →
+          </a>
+        </nav>
+      </section>
+    </section>
+
+    <hr class="divider" />
+
+    <section class="section" aria-label="Explore">
+      <h2 class="section-title">Explore</h2>
+      <nav class="links">
+        <a href="/episodes">Browse all episodes →</a>
+        <a href="/contact">Contact →</a>
+        <a href="/">Home →</a>
+      </nav>
+    </section>
+  </main>
+
+  <style>
+    .page {
+      max-width: min(900px, 92vw);
+      margin: 0 auto;
+      padding: 1.5rem 0 3rem;
+    }
+
+    .page-header {
+      max-width: 46rem;
+    }
+
+    .eyebrow {
+      font-family: var(--font-sans);
+      font-size: 0.75rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      opacity: 0.6;
+      margin: 0 0 0.75rem;
+    }
+
+    .title {
+      font-family: var(--font-serif);
+      font-weight: 600;
+      letter-spacing: 0.01em;
+      margin: 0 0 0.75rem;
+      line-height: 1.15;
+      font-size: clamp(2rem, 3.2vw, 2.6rem);
+    }
+
+    .lede {
+      font-family: var(--font-serif);
+      font-size: 1.15rem;
+      line-height: 1.7;
+      margin: 0;
+      opacity: 0.95;
+    }
+
+    .divider {
+      border: 0;
+      height: 1px;
+      background: linear-gradient(
+        to right,
+        transparent,
+        rgba(0, 0, 0, 0.16),
+        transparent
+      );
+      margin: 1.75rem 0 1.5rem;
+    }
+
+    .section {
+      margin: 1.25rem 0 1.5rem;
+      max-width: 46rem;
+    }
+
+    .section-title {
+      font-family: var(--font-sans);
+      font-size: 0.85rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      opacity: 0.75;
+      margin: 0 0 0.75rem;
+    }
+
+    .section p {
+      line-height: 1.75;
+      margin: 0.75rem 0 0;
+    }
+
+    .muted {
+      opacity: 0.8;
+    }
+
+    .section--wide {
+  max-width: 80rem; /* try 56–64rem depending on taste */
+    }
+
+    /* -----------------------------
+       LISTEN BUTTONS
+       ----------------------------- */
+
+    .listen {
+      margin-top: 0.75rem;
+    }
+
+    .listen__links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+      margin-top: 0.75rem;
+    }
+
+    .listen__btn {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.55rem 1rem;
+      border-radius: 999px;
+      border: 1px solid var(--btn-border, rgba(0, 0, 0, 0.18));
+      text-decoration: none;
+      font-family: var(--font-serif);
+
+      /* critical: prevent global "a:hover { opacity: ... }" from washing them out */
+      opacity: 1 !important;
+
+      background: var(--btn-bg);
+      color: var(--btn-fg);
+
+      transition: transform 150ms ease, box-shadow 150ms ease;
+      box-shadow: none;
+      will-change: transform;
+    }
+
+    /* Hover: keep SAME bg/fg; only move + shadow */
+    .listen__btn:hover,
+    .listen__btn:focus-visible {
+      transform: translateY(-1px);
+      box-shadow: 0 10px 22px rgba(0, 0, 0, 0.12);
+      opacity: 1 !important;
+      background: var(--btn-bg);
+      color: var(--btn-fg);
+      border-color: var(--btn-border, rgba(0, 0, 0, 0.18));
+      outline: none;
+    }
+
+    /* Platform colors */
+    .listen__btn--spotify {
+      --btn-bg: #1db954;
+      --btn-fg: #0b1f14;
+      --btn-border: rgba(34, 197, 94, 0.65);
+    }
+
+    .listen__btn--apple {
+      --btn-bg: #ede9fe;
+      --btn-fg: #3b0764;
+      --btn-border: rgba(168, 85, 247, 0.55);
+    }
+
+    .listen__btn--amazon {
+      --btn-bg: #e0f2fe;
+      --btn-fg: #0c4a6e;
+      --btn-border: rgba(59, 130, 246, 0.55);
+    }
+
+    .listen__btn--audible {
+      --btn-bg: #ffedd5;
+      --btn-fg: #7c2d12;
+      --btn-border: rgba(249, 115, 22, 0.55);
+    }
+
+    .listen__btn--youtube {
+      --btn-bg: #ef4444;
+      --btn-fg: #ffffff;
+      --btn-border: rgba(239, 68, 68, 0.55);
+    }
+
+    /* -----------------------------
+       EXPLORE LINKS
+       ----------------------------- */
+
+    .links {
+      display: grid;
+      gap: 0.75rem;
+      margin-top: 0.75rem;
+      font-family: var(--font-sans);
+    }
+
+    .links a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .links a:hover {
+      text-decoration: underline;
+    }
+
+    .page {
+  max-width: min(900px, 92vw);
+  margin: 0 auto;
+  padding: 1.5rem 0 3rem;
+
+  font-size: 1.25rem; /* 👈 +25% */
+}
+
+
+  </style>
+</BaseLayout>

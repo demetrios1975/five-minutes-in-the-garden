@@ -1,0 +1,374 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+
+export async function getStaticPaths() {
+  const episodes = await getCollection("episodes");
+  return episodes.map((ep) => ({
+    params: { slug: ep.slug },
+    props: { ep },
+  }));
+}
+
+type Props = {
+  ep: CollectionEntry<"episodes">;
+};
+
+const { ep } = Astro.props;
+const { Content } = await ep.render();
+
+// For previous / next navigation
+const all = (await getCollection("episodes")) as CollectionEntry<"episodes">[];
+all.sort((a, b) => b.data.episode - a.data.episode);
+
+const idx = all.findIndex((x) => x.slug === ep.slug);
+const nextEp = idx > 0 ? all[idx - 1] : null;
+const prevEp = idx < all.length - 1 ? all[idx + 1] : null;
+
+// Platform links (only show what exists)
+const platforms = [
+  { label: "Spotify", url: ep.data.spotify },
+  { label: "Apple Podcasts", url: ep.data.apple },
+  { label: "Amazon Music", url: ep.data.amazon },
+  { label: "Audible", url: ep.data.audible },
+  { label: "YouTube", url: ep.data.youtube },
+].filter((p) => p.url);
+---
+
+<BaseLayout title={`Episode ${ep.data.episode} — ${ep.data.title}`}>
+  <main class="wrap">
+    <!-- Header -->
+     {ep.data.cover && (
+  <img
+    src={ep.data.cover}
+    alt={`Episode ${ep.data.episode} artwork`}
+    class="episode-art"
+  />
+)}
+
+    <p class="episode-kicker">Episode {ep.data.episode}</p>
+    <h1 class="episode-title">{ep.data.title}</h1>
+    <p class="episode-meta">{ep.data.passage} · {ep.data.date}</p>
+
+    {ep.data.summary && <p class="episode-lede">{ep.data.summary}</p>}
+
+    <hr class="divider" />
+
+    <!-- Listen links -->
+    {platforms.length > 0 && (
+      <section aria-label="Listen">
+        <p class="section-label">Listen</p>
+        <ul class="listen-links">
+          {platforms.map((p) => (
+            <li>
+              <a
+  href={p.url}
+  target="_blank"
+  rel="noopener noreferrer"
+  data-platform={p.label.toLowerCase()}
+>
+  {p.label} →
+</a>
+
+            </li>
+          ))}
+        </ul>
+        <hr class="divider" />
+      </section>
+    )}
+
+    <!-- Episode content -->
+    <article class="prose">
+      <Content />
+    </article>
+
+    <!-- Navigation -->
+    <nav class="episode-nav" aria-label="Episode navigation">
+      {prevEp ? (
+        <a href={`/episodes/${prevEp.slug}`}>
+          ← Episode {prevEp.data.episode}: {prevEp.data.title}
+        </a>
+      ) : (
+        <span />
+      )}
+
+      {nextEp ? (
+        <a href={`/episodes/${nextEp.slug}`}>
+          Episode {nextEp.data.episode}: {nextEp.data.title} →
+        </a>
+      ) : (
+        <span />
+      )}
+    </nav>
+  </main>
+
+  <style>
+    /* Page container */
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 42px 22px;
+    }
+
+    /* Header meta */
+    .episode-kicker {
+  font-family: var(--font-sans);
+  font-size: 1.1rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  opacity: 0.8;
+  margin: 0 0 0.5rem;
+}
+
+    .episode-title {
+      font-family: var(--font-serif);
+      font-weight: 700;
+      font-size: clamp(2.1rem, 4vw, 3.1rem);
+      line-height: 1.12;
+      margin: 0 0 0.85rem;
+    }
+
+    .episode-art {
+  margin: 0 auto 2.75rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+
+    .episode-meta {
+      font-family: var(--font-sans);
+      font-size: 0.98rem;
+      opacity: 0.82;
+      margin: 0 0 0.75rem;
+    }
+
+    .episode-lede {
+      font-family: var(--font-serif);
+      font-size: 1.06rem;
+      line-height: 1.7;
+      margin: 0.25rem 0 0;
+      max-width: 72ch;
+      opacity: 0.95;
+    }
+
+    /* Divider */
+    .divider {
+      height: 0;
+      border: 0;
+      border-top: 1px solid rgba(0, 0, 0, 0.1);
+      margin: 1.6rem 0;
+    }
+
+    /* Section label */
+    .section-label {
+      font-family: var(--font-sans);
+      font-size: 0.92rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      opacity: 0.75;
+      margin: 0 0 0.65rem;
+    }
+
+    /* Listen section container */
+section[aria-label="Listen"] {
+  padding: 0.25rem 0;
+}
+
+    /* Listen links: calm pills */
+    .listen-links {
+      list-style: none;
+      padding: 0;
+      margin: 0.35rem 0 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem 0.75rem;
+      font-family: var(--font-sans);
+    }
+
+    .listen-links li {
+      margin: 0;
+    }
+
+    .listen-links a {
+      display: inline-block;
+      padding: 0.35rem 0.6rem;
+      border: 1px solid rgba(0, 0, 0, 0.12);
+      border-radius: 999px;
+      text-decoration: none;
+      color: inherit;
+      background: rgba(0, 0, 0, 0.015);
+      transition: background 120ms ease, border-color 120ms ease, opacity 120ms ease;
+    }
+
+    .listen-links a:hover {
+      background: rgba(0, 0, 0, 0.03);
+      border-color: rgba(0, 0, 0, 0.18);
+    }
+
+    /* Prose / content */
+    .prose {
+      margin-top: 1.35rem;
+      max-width: 72ch;
+      font-family: var(--font-serif);
+      font-size: 1.06rem;
+      line-height: 1.75;
+    }
+
+    .prose :global(p) {
+      margin: 0.9rem 0;
+    }
+
+    /* Section headings from Markdown */
+    .prose :global(h2) {
+      margin: 2.2rem 0 0.7rem;
+      font-family: var(--font-sans);
+      font-size: 0.92rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      opacity: 0.85;
+    }
+
+    /* Scripture blocks (optional) */
+    .prose :global(blockquote) {
+      margin: 1.1rem 0;
+      padding: 0.85rem 1rem;
+      border-left: 3px solid rgba(0, 0, 0, 0.14);
+      background: rgba(0, 0, 0, 0.02);
+      border-radius: 10px;
+    }
+
+    .prose :global(blockquote p) {
+      margin: 0.55rem 0;
+    }
+
+    /* Default link styling inside content */
+    .prose :global(a) {
+      color: inherit;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      text-decoration-thickness: 1px;
+      opacity: 0.95;
+    }
+
+    .prose :global(a:hover) {
+      opacity: 1;
+    }
+
+    /* Optional: soften long italic passages (prayers, reflections) */
+.prose :global(em) {
+  letter-spacing: 0.01em;
+}
+
+
+    /* Verse numbers */
+.prose :global(.verse-num) {
+  font-size: 0.72em;
+  vertical-align: super;
+  opacity: 0.65;
+  margin-right: 0.15em;
+  font-family: var(--font-sans);
+  letter-spacing: 0.02em;
+  font-weight: 600; /* ← add this */
+}
+
+
+
+    /* Nav */
+    .episode-nav {
+      margin-top: 2.25rem;
+      padding-top: 1.35rem;
+      border-top: 1px solid rgba(0, 0, 0, 0.1);
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      font-family: var(--font-sans);
+      font-size: 0.95rem;
+    }
+
+    .episode-nav a {
+      text-decoration: none;
+      color: inherit;
+      opacity: 0.9;
+    }
+
+    .episode-nav a:hover {
+      text-decoration: underline;
+    }
+
+    .episode-nav a:last-child {
+      text-align: right;
+    }
+
+    /* Mobile */
+    @media (max-width: 640px) {
+      .wrap {
+        padding: 32px 18px;
+      }
+      .episode-nav {
+        grid-template-columns: 1fr;
+      }
+      .episode-nav a:last-child {
+        text-align: left;
+      }
+    }
+
+    /* Gentle section framing */
+.prose :global(h2) {
+  position: relative;
+  margin-top: 3.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+/* First paragraph after section header */
+.prose :global(h2 + p) {
+  margin-top: 0.75rem;
+}
+
+/* Optional: slightly soften Scripture block text */
+.prose :global(blockquote) {
+  background: rgba(0, 0, 0, 0.025);
+}
+
+/* Platform brand accents — slightly stronger */
+.listen-links a[data-platform="spotify"] {
+  border-color: #1db954;
+  background: #1db95422;
+}
+
+.listen-links a[data-platform="apple podcasts"] {
+  border-color: #a855f7;
+  background: #a855f722;
+}
+
+.listen-links a[data-platform="amazon music"] {
+  border-color: #00a8e1;
+  background: #00a8e122;
+}
+
+.listen-links a[data-platform="audible"] {
+  border-color: #ff9900;
+  background: #ff990022;
+}
+
+/* YouTube: bolder, white text */
+.listen-links a[data-platform="youtube"] {
+  border-color: #ff0000;
+  background: #ff0000cc;
+  color: #fff;
+}
+
+.listen-links a:hover {
+  transform: translateY(-1px);
+  transition: background 140ms ease, border-color 140ms ease, transform 140ms ease;
+}
+/* Hover: gently strengthen */
+.listen-links a:hover {
+  background-opacity: 1;
+  opacity: 1;
+}
+
+
+  </style>
+</BaseLayout>
