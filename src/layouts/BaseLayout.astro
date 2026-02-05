@@ -1,15 +1,163 @@
 ---
-const { title = "Five Minutes in the Garden" } = Astro.props;
+const {
+  title = "Five Minutes in the Garden",
+  description = "A gentle, daily devotional—an invitation to slow down, read Scripture, reflect, and pray.",
+  image = "/images/five-minutes-in-the-garden-cover.jpg",
+  imageAlt = "Five Minutes in the Garden",
+  canonical,
+  noindex = false,
+
+  ogType = "website",
+  twitterSite,
+  ogImageWidth = 1200,
+  ogImageHeight = 630,
+
+  jsonLd,
+} = Astro.props;
+
+const base = Astro.site ?? Astro.url.origin;
+
+const canonicalUrl = canonical
+  ? new URL(canonical, base).toString()
+  : new URL(Astro.url.pathname, base).toString();
+
+const ogImage = new URL(image, base).toString();
 ---
 
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+
     <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+
+    <meta name="robots" content={noindex ? "noindex,nofollow" : "index,follow"} />
+
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content="Five Minutes in the Garden" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:secure_url" content={ogImage} />
+    <meta property="og:image:alt" content={imageAlt} />
+    <meta property="og:image:width" content={String(ogImageWidth)} />
+    <meta property="og:image:height" content={String(ogImageHeight)} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    {twitterSite && <meta name="twitter:site" content={twitterSite} />}
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <meta name="twitter:image:alt" content={imageAlt} />
+
+    {jsonLd && (
+      <script type="application/ld+json">
+        {JSON.stringify(jsonLd)}
+      </script>
+    )}
+
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#f7f4ee" />
   </head>
+
   <body>
-    <slot />
+    <header class="site-header">
+      <div class="container site-header__inner">
+        <a class="brand" href="/">Five Minutes in the Garden</a>
+
+        <nav class="nav" aria-label="Primary navigation">
+          <a class="nav__link" href="/episodes">Episodes</a>
+          <a class="nav__link" href="/about">About</a>
+          <a class="nav__link" href="/contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container site-main">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p class="muted">© {new Date().getFullYear()} Five Minutes in the Garden</p>
+      </div>
+    </footer>
+
+    <style>
+      :global(:root) {
+        --container: 1100px;
+        --gutter: 18px;
+        --radius: 16px;
+        --rule: rgba(0,0,0,0.12);
+      }
+
+      :global(body) {
+        margin: 0;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+        background: #f7f4ee;
+        color: #111;
+      }
+
+      :global(a) { color: inherit; }
+
+      .container {
+        width: min(var(--container), calc(100% - (var(--gutter) * 2)));
+        margin: 0 auto;
+      }
+
+      .site-header {
+        position: sticky;
+        top: 0;
+        background: rgba(247,244,238,0.86);
+        backdrop-filter: blur(8px);
+        border-bottom: 1px solid var(--rule);
+        z-index: 50;
+      }
+
+      .site-header__inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 0;
+      }
+
+      .brand {
+        font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
+        font-weight: 700;
+        text-decoration: none;
+        letter-spacing: 0.01em;
+      }
+
+      .nav {
+        display: flex;
+        gap: 18px;
+      }
+
+      .nav__link {
+        text-decoration: none;
+        opacity: 0.85;
+      }
+
+      .nav__link:hover {
+        opacity: 1;
+        text-decoration: underline;
+      }
+
+      .site-main {
+        padding: 22px 0 34px;
+      }
+
+      .site-footer {
+        border-top: 1px solid var(--rule);
+        padding: 18px 0 26px;
+      }
+
+      .muted { opacity: 0.75; }
+    </style>
   </body>
 </html>

@@ -21,6 +21,10 @@ const DEFAULT_LINKS: LinkItem[] = [
   { id: "youtube", label: "YouTube", href: "https://tinyurl.com/5-min-on-YouTube" },
 ];
 
+// ✅ add this
+export const EPISODE_LINKS = DEFAULT_LINKS;
+
+
 export function getEpisodeLinks(ep: EpisodeData): LinkItem[] {
   // If an episode has a platform link, use it; otherwise fall back to defaults.
   return DEFAULT_LINKS.map((d) => ({
@@ -44,4 +48,6 @@ export function getPrimaryListenLink(
   if (ep.audible) return { href: ep.audible, label: "Listen on Audible" };
   if (ep.youtube) return { href: ep.youtube, label: "Watch on YouTube" };
   return null;
+
 }
+
