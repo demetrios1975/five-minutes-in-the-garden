@@ -9,6 +9,7 @@ spotify: "https://open.spotify.com/episode/4udFqcRLQddDar0r1hd913"
 apple: "https://podcasts.apple.com/us/podcast/episode-16-welcome-him-in/id1804618601?i=1000747023799"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/82864965-d31a-4392-ba2b-1a543f763ba4"
 audible: "https://www.audible.com/pd/B0GK9FJCK1"
+youtube: "https://youtu.be/6o6ZLjNIw1Y?si=ZcLgdnhSl0C29bW2"
 ---
 
 ## Scripture Reading

@@ -21,7 +21,6 @@ const { Content } = await ep.render();
 // For previous / next navigation
 const all = (await getCollection("episodes")) as CollectionEntry<"episodes">[];
 all.sort((a, b) => b.data.episode - a.data.episode);
-
 const idx = all.findIndex((x) => x.slug === ep.slug);
 const nextEp = idx > 0 ? all[idx - 1] : null;
 const prevEp = idx < all.length - 1 ? all[idx + 1] : null;
@@ -39,21 +38,37 @@ const platforms = [
 <BaseLayout title={`Episode ${ep.data.episode} — ${ep.data.title}`}>
   <main class="wrap">
     <!-- Header -->
-     {ep.data.cover && (
-  <img
-    src={ep.data.cover}
-    alt={`Episode ${ep.data.episode} artwork`}
-    class="episode-art"
-  />
-)}
-
+    {ep.data.cover && (
+      <img
+        src={ep.data.cover}
+        alt={`Episode ${ep.data.episode} artwork`}
+        class="episode-art"
+      />
+    )}
     <p class="episode-kicker">Episode {ep.data.episode}</p>
     <h1 class="episode-title">{ep.data.title}</h1>
     <p class="episode-meta">{ep.data.passage} · {ep.data.date}</p>
-
     {ep.data.summary && <p class="episode-lede">{ep.data.summary}</p>}
 
+    <!-- Embedded Spotify Player (new) -->
+    {ep.data.spotify && (
+      <div class="spotify-player">
+        <iframe
+          title={`Listen to ${ep.data.title} on Spotify – Five Minutes in the Garden`}
+          style="border-radius: 12px;"
+          width="100%"
+          height="152"
+          frameborder="0"
+          allowfullscreen
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"
+          src={`https://open.spotify.com/embed/episode/${ep.data.spotify.split('/episode/')[1].split('?')[0]}`}
+        ></iframe>
+      </div>
+    )}
+
     <hr class="divider" />
+
 
     <!-- Listen links -->
     {platforms.length > 0 && (
@@ -63,14 +78,13 @@ const platforms = [
           {platforms.map((p) => (
             <li>
               <a
-  href={p.url}
-  target="_blank"
-  rel="noopener noreferrer"
-  data-platform={p.label.toLowerCase()}
->
-  {p.label} →
-</a>
-
+                href={p.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                data-platform={p.label.toLowerCase()}
+              >
+                {p.label} →
+              </a>
             </li>
           ))}
         </ul>
@@ -92,7 +106,6 @@ const platforms = [
       ) : (
         <span />
       )}
-
       {nextEp ? (
         <a href={`/episodes/${nextEp.slug}`}>
           Episode {nextEp.data.episode}: {nextEp.data.title} →
@@ -110,18 +123,16 @@ const platforms = [
       margin: 0 auto;
       padding: 42px 22px;
     }
-
     /* Header meta */
     .episode-kicker {
-  font-family: var(--font-sans);
-  font-size: 1.1rem;
-  font-weight: 500;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  opacity: 0.8;
-  margin: 0 0 0.5rem;
-}
-
+      font-family: var(--font-sans);
+      font-size: 1.1rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      opacity: 0.8;
+      margin: 0 0 0.5rem;
+    }
     .episode-title {
       font-family: var(--font-serif);
       font-weight: 700;
@@ -129,20 +140,30 @@ const platforms = [
       line-height: 1.12;
       margin: 0 0 0.85rem;
     }
-
     .episode-art {
+  display: block;
+  width: 100%;
+  max-width: 980px;
+  max-height: 540px;
+  object-fit: cover;
   margin: 0 auto 2.75rem;
+  border-radius: 16px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
 }
-
-
+@media (max-width: 640px) {
+  .episode-art {
+    max-height: 280px;
+  }
+}
+    {entry.data.cover && (
+  
+)}
     .episode-meta {
       font-family: var(--font-sans);
       font-size: 0.98rem;
       opacity: 0.82;
       margin: 0 0 0.75rem;
     }
-
     .episode-lede {
       font-family: var(--font-serif);
       font-size: 1.06rem;
@@ -151,7 +172,6 @@ const platforms = [
       max-width: 72ch;
       opacity: 0.95;
     }
-
     /* Divider */
     .divider {
       height: 0;
@@ -159,7 +179,6 @@ const platforms = [
       border-top: 1px solid rgba(0, 0, 0, 0.1);
       margin: 1.6rem 0;
     }
-
     /* Section label */
     .section-label {
       font-family: var(--font-sans);
@@ -169,12 +188,10 @@ const platforms = [
       opacity: 0.75;
       margin: 0 0 0.65rem;
     }
-
     /* Listen section container */
-section[aria-label="Listen"] {
-  padding: 0.25rem 0;
-}
-
+    section[aria-label="Listen"] {
+      padding: 0.25rem 0;
+    }
     /* Listen links: calm pills */
     .listen-links {
       list-style: none;
@@ -185,11 +202,9 @@ section[aria-label="Listen"] {
       gap: 0.6rem 0.75rem;
       font-family: var(--font-sans);
     }
-
     .listen-links li {
       margin: 0;
     }
-
     .listen-links a {
       display: inline-block;
       padding: 0.35rem 0.6rem;
@@ -200,12 +215,10 @@ section[aria-label="Listen"] {
       background: rgba(0, 0, 0, 0.015);
       transition: background 120ms ease, border-color 120ms ease, opacity 120ms ease;
     }
-
     .listen-links a:hover {
       background: rgba(0, 0, 0, 0.03);
       border-color: rgba(0, 0, 0, 0.18);
     }
-
     /* Prose / content */
     .prose {
       margin-top: 1.35rem;
@@ -214,11 +227,9 @@ section[aria-label="Listen"] {
       font-size: 1.06rem;
       line-height: 1.75;
     }
-
     .prose :global(p) {
       margin: 0.9rem 0;
     }
-
     /* Section headings from Markdown */
     .prose :global(h2) {
       margin: 2.2rem 0 0.7rem;
@@ -228,7 +239,6 @@ section[aria-label="Listen"] {
       text-transform: uppercase;
       opacity: 0.85;
     }
-
     /* Scripture blocks (optional) */
     .prose :global(blockquote) {
       margin: 1.1rem 0;
@@ -237,11 +247,9 @@ section[aria-label="Listen"] {
       background: rgba(0, 0, 0, 0.02);
       border-radius: 10px;
     }
-
     .prose :global(blockquote p) {
       margin: 0.55rem 0;
     }
-
     /* Default link styling inside content */
     .prose :global(a) {
       color: inherit;
@@ -250,30 +258,23 @@ section[aria-label="Listen"] {
       text-decoration-thickness: 1px;
       opacity: 0.95;
     }
-
     .prose :global(a:hover) {
       opacity: 1;
     }
-
     /* Optional: soften long italic passages (prayers, reflections) */
-.prose :global(em) {
-  letter-spacing: 0.01em;
-}
-
-
+    .prose :global(em) {
+      letter-spacing: 0.01em;
+    }
     /* Verse numbers */
-.prose :global(.verse-num) {
-  font-size: 0.72em;
-  vertical-align: super;
-  opacity: 0.65;
-  margin-right: 0.15em;
-  font-family: var(--font-sans);
-  letter-spacing: 0.02em;
-  font-weight: 600; /* ← add this */
-}
-
-
-
+    .prose :global(.verse-num) {
+      font-size: 0.72em;
+      vertical-align: super;
+      opacity: 0.65;
+      margin-right: 0.15em;
+      font-family: var(--font-sans);
+      letter-spacing: 0.02em;
+      font-weight: 600;
+    }
     /* Nav */
     .episode-nav {
       margin-top: 2.25rem;
@@ -285,21 +286,17 @@ section[aria-label="Listen"] {
       font-family: var(--font-sans);
       font-size: 0.95rem;
     }
-
     .episode-nav a {
       text-decoration: none;
       color: inherit;
       opacity: 0.9;
     }
-
     .episode-nav a:hover {
       text-decoration: underline;
     }
-
     .episode-nav a:last-child {
       text-align: right;
     }
-
     /* Mobile */
     @media (max-width: 640px) {
       .wrap {
@@ -312,63 +309,74 @@ section[aria-label="Listen"] {
         text-align: left;
       }
     }
-
     /* Gentle section framing */
-.prose :global(h2) {
-  position: relative;
-  margin-top: 3.25rem;
-  padding-top: 1.25rem;
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
-}
+    .prose :global(h2) {
+      position: relative;
+      margin-top: 3.25rem;
+      padding-top: 1.25rem;
+      border-top: 1px solid rgba(0, 0, 0, 0.08);
+    }
+    /* First paragraph after section header */
+    .prose :global(h2 + p) {
+      margin-top: 0.75rem;
+    }
+    /* Optional: slightly soften Scripture block text */
+    .prose :global(blockquote) {
+      background: rgba(0, 0, 0, 0.025);
+    }
+    /* Platform brand accents — slightly stronger */
+    .listen-links a[data-platform="spotify"] {
+      border-color: #1db954;
+      background: #1db95422;
+    }
+    .listen-links a[data-platform="apple podcasts"] {
+      border-color: #a855f7;
+      background: #a855f722;
+    }
+    .listen-links a[data-platform="amazon music"] {
+      border-color: #00a8e1;
+      background: #00a8e122;
+    }
+    .listen-links a[data-platform="audible"] {
+      border-color: #ff9900;
+      background: #ff990022;
+    }
+    /* YouTube: bolder, white text */
+    .listen-links a[data-platform="youtube"] {
+      border-color: #ff0000;
+      background: #ff0000cc;
+      color: #fff;
+    }
+    .listen-links a:hover {
+      transform: translateY(-1px);
+      transition: background 140ms ease, border-color 140ms ease, transform 140ms ease;
+    }
+    /* Hover: gently strengthen */
+    .listen-links a:hover {
+      background-opacity: 1;
+      opacity: 1;
+    }
 
-/* First paragraph after section header */
-.prose :global(h2 + p) {
-  margin-top: 0.75rem;
-}
+    /* Spotify Player styles (already in your file, kept here for completeness) */
+    .spotify-player {
+      margin: 1.8rem 0 2.2rem;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+      background: rgba(0, 0, 0, 0.02); /* subtle backdrop if iframe has transparency */
+    }
+    .spotify-player iframe {
+      display: block;
+    }
+    /* Optional: taller player variant if you prefer more artwork */
+    .spotify-player.tall iframe {
+      height: 352px;
+    }
 
-/* Optional: slightly soften Scripture block text */
-.prose :global(blockquote) {
-  background: rgba(0, 0, 0, 0.025);
+  @media (max-width: 640px) {
+  .spotify-player {
+    margin: 1.5rem 0 2rem;
+  }
 }
-
-/* Platform brand accents — slightly stronger */
-.listen-links a[data-platform="spotify"] {
-  border-color: #1db954;
-  background: #1db95422;
-}
-
-.listen-links a[data-platform="apple podcasts"] {
-  border-color: #a855f7;
-  background: #a855f722;
-}
-
-.listen-links a[data-platform="amazon music"] {
-  border-color: #00a8e1;
-  background: #00a8e122;
-}
-
-.listen-links a[data-platform="audible"] {
-  border-color: #ff9900;
-  background: #ff990022;
-}
-
-/* YouTube: bolder, white text */
-.listen-links a[data-platform="youtube"] {
-  border-color: #ff0000;
-  background: #ff0000cc;
-  color: #fff;
-}
-
-.listen-links a:hover {
-  transform: translateY(-1px);
-  transition: background 140ms ease, border-color 140ms ease, transform 140ms ease;
-}
-/* Hover: gently strengthen */
-.listen-links a:hover {
-  background-opacity: 1;
-  opacity: 1;
-}
-
-
   </style>
 </BaseLayout>

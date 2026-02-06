@@ -5,11 +5,11 @@ passage: "John 20:11–18 (Septuagint)"
 date: "2026-01-27"
 cover: "/episode-art/episode-15.jpg"
 summary: "We have walked through promise and presence, pruning and hope. Today, we arrive at fulfillment.."
-spotify: "https://creators.spotify.com/pod/profile/demetrios-niapas/episodes/Episode-15---The-King-in-the-Garden-e3e99sk"
+spotify: "https://open.spotify.com/episode/0QPYkL3a9HT8i14cZM6Sdb?si=iK-mXWDSRy2VCf7JETvARQ"
 apple: "https://podcasts.apple.com/us/podcast/episode-15-the-king-in-the-garden/id1804618601?i=1000746909997"
 amazon: "https://podcasts.apple.com/us/podcast/episode-15-the-king-in-the-garden/id1804618601?i=1000746909997"
 audible: "https://www.audible.com/podcast/Five-Minutes-in-the-Garden-A-Daily-Discussion-of-Gods-Word/B0F2JBFZZ2?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/673wvkaU_7A?si=pskhciwCiUJuxcMU"
 ---
 
 ## Scripture Reading

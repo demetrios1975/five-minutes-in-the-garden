@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/66iYobZEaK81KR744vqZxO?si=a07101b768d
 apple: "https://podcasts.apple.com/us/podcast/five-minutes-in-the-garden-a-daily-discussion-of-gods-word/id1804618601"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/five-minutes-in-the-garden-a-daily-discussion-of-gods-word"
 audible: "https://audible.com/pd/B0F2JBFZZ2"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/HOypwRczsUU?si=QwFnQxMoVbRv1MP4"
 ---
 
 ## Scripture Reading
