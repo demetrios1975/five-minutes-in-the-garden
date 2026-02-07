@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/487pFCQQ29iN33OXzlLAsj?si=_Om7CCulRhe
 apple: "https://podcasts.apple.com/us/podcast/episode-18-new-every-morning/id1804618601?i=1000747390736"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f421c588-c109-455f-92ef-7976872cd220/five-minutes-in-the-garden---a-daily-discussion-of-god's-word-episode-18---new-every-morning"
 audible: "https://www.audible.com/podcast/Episode-18-New-Every-Morning/B0GKPWNVJF"
-youtube: "https://youtu.be/ipT-HGEuDm0?si=Uln8CRBwXiBzlYlM"
+youtube: "https://youtu.be/uCbpSl9H4MI"
 ---
 
 ## Scripture Reading  

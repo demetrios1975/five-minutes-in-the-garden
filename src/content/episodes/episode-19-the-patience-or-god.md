@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0UGVM4GBFXZoyrMIFDvJiH?si=KyJq0tTSQNq
 apple: "https://podcasts.apple.com/us/podcast/episode-19-the-patience-of-god/id1804618601?i=1000747527729&itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1000747527729"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/1449a88c-993f-455c-b57f-3d617ffc9f5a/episode-19-the-patience-of-god"
 audible: "https://www.audible.com/podcast/Episode-19-The-Patience-of-God/B0GKXN66LG?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/kIfB_-2oX-I"
 ---
 
 ## Scripture Reading  
