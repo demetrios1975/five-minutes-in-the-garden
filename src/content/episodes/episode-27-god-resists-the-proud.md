@@ -1,7 +1,7 @@
 ---
 episode: 27
 title: "God Resists the Proud"
-date: "2026-02-07"
+date: "2026-02-08"
 cover: "/episode-art/episode-27.jpg"
 passage: "James 4:6–10 (Septuagint)"
 summary: "As we continue our journey of preparation, we encounter a truth that humbles and heals: God gives grace to the humble."
