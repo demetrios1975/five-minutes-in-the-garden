@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/3Cm93mbQgkuJEaTlLov43w?si=Yk1a6O6FSIe
 apple: "https://podcasts.apple.com/us/podcast/episode-21-a-new-heart-and-a-new-spirit/id1804618601?i=1000747803356"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/694e4ceb-f653-4692-8e0b-3ddb625a2653/episode-21-a-new-heart-and-a-new-spirit"
 audible: "https://www.audible.com/podcast/Episode-21-A-New-Heart-and-a-New-Spirit/B0GL74GNWL?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/cTRhTrXfBms"
 ---
 
 ## Scripture Reading  

@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/7I0Y3p93IFzOw1yTJ1NtIC?si=dIZVxRB9Rhy
 apple: "https://podcasts.apple.com/us/podcast/episode-23-return-to-me-with-all-your-heart/id1804618601?i=1000748281491"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/0918d58b-1784-46b2-bd5a-664a7818b123/episode-23-return-to-me-with-all-your-heart"
 audible: "https://www.audible.com/podcast/Episode-23-Return-to-Me-with-All-Your-Heart/B0GLKKKZQK?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/rlS0R9QXIEU"
 ---
 
 ## Scripture Reading  

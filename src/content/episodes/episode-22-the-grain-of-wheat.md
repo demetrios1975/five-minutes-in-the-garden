@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5C4L2puROGUZlaEaUJDO0B?si=RewtKBWwTaa
 apple: "https://podcasts.apple.com/us/podcast/episode-22-the-grain-of-wheat/id1804618601?i=1000747934857&itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1000747934857"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/917713b6-9e6e-4556-ac81-5cdabbadfdf2/episode-22-the-grain-of-wheat"
 audible: "https://www.audible.com/podcast/Episode-22-The-Grain-of-Wheat/B0GL9NPWDK?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/ZjECx1c2aww"
 ---
 
 ## Scripture Reading  

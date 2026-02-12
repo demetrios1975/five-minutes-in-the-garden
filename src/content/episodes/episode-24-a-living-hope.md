@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0UNICYdVGUTtc2aqgngBz7?si=hsvaYoPERwG
 apple: "https://podcasts.apple.com/us/podcast/episode-24-a-living-hope/id1804618601?i=1000748389235"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/78474a8a-3a6c-47ec-8b63-cc00f6d83083/episode-24-a-living-hope"
 audible: "https://www.audible.com/pd/B0GLR2TPBR?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/CQg7djfiJS0"
 ---
 
 ## Scripture Reading  

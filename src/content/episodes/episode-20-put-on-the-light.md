@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4446jCfSz9uA0l4XUeZ06C?si=V4y6L9-TTZO
 apple: "https://podcasts.apple.com/us/podcast/episode-20-put-on-the-light/id1804618601?i=1000747635262"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/d42c0998-ef0c-401c-9030-b12b93c74c8f/episode-20-put-on-the-light"
 audible: "https://www.audible.com/podcast/Episode-20-Put-On-the-Light/B0GKQLLCVL?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/012z-ZrE9KE"
 ---
 
 ## Scripture Reading  
