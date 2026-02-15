@@ -1,0 +1,154 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const title = "The Nicene Creed";
+const description =
+  "A confession of faith: one God, Father Almighty; one Lord Jesus Christ; and the Holy Spirit—one holy, catholic, and apostolic Church.";
+---
+
+<BaseLayout title={`${title} — Five Minutes in the Garden`} description={description}>
+  <main class="wrap">
+    <header class="page-header">
+      <p class="eyebrow">Creed</p>
+      <h1 class="title">{title}</h1>
+      <p class="lede">
+        A confession of faith received by the Church and prayed across the centuries.
+      </p>
+    </header>
+
+    <hr class="divider" />
+
+    <section class="creed-art">
+  <img 
+    src="/images/iconography/nicene-trinity.jpg" 
+    alt="Icon of the Holy Trinity" 
+    loading="eager"
+  />
+</section>
+
+    <article class="creed" aria-label="The Nicene Creed">
+      <p>I believe in one God, the Father Almighty,<br />
+      Maker of heaven and earth, and of all things visible and invisible.</p>
+
+      <p>And in one Lord Jesus Christ, the only-begotten Son of God,<br />
+      begotten of the Father before all ages;<br />
+      Light of Light, true God of true God;<br />
+      begotten, not made; of one essence with the Father,<br />
+      by whom all things were made.</p>
+
+      <p>Who for us men and for our salvation came down from heaven<br />
+      and was incarnate by the Holy Spirit and the Virgin Mary<br />
+      and became man.</p>
+
+      <p>He was crucified for us under Pontius Pilate,<br />
+      and He suffered and was buried.</p>
+
+      <p>On the third day He rose again, according to the Scriptures.</p>
+
+      <p>He ascended into heaven and is seated at the right hand of the Father.</p>
+
+      <p>He will come again in glory to judge the living and the dead.<br />
+      His kingdom shall have no end.</p>
+
+      <p>And in the Holy Spirit, the Lord, the Giver of Life,<br />
+      who proceeds from the Father,<br />
+      who together with the Father and the Son is worshiped and glorified,<br />
+      who spoke through the prophets.</p>
+
+      <p>In one, holy, catholic, and apostolic Church.</p>
+
+      <p>I acknowledge one baptism for the remission of sins.</p>
+
+      <p>I expect the resurrection of the dead<br />
+      and the life of the ages to come.</p>
+
+      <p class="amen">Amen.</p>
+    </article>
+  </main>
+
+  <style>
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 42px 22px;
+    }
+
+    .page-header {
+      max-width: 72ch;
+    }
+
+    .eyebrow {
+      font-family: var(--font-sans);
+      font-size: 0.92rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      opacity: 0.75;
+      margin: 0 0 0.65rem;
+    }
+
+    .title {
+      font-family: var(--font-serif);
+      font-weight: 700;
+      font-size: clamp(2.1rem, 4vw, 3.1rem);
+      line-height: 1.12;
+      margin: 0 0 0.85rem;
+    }
+
+    .lede {
+      font-family: var(--font-serif);
+      font-size: 1.06rem;
+      line-height: 1.8;
+      margin: 0;
+      opacity: 0.95;
+      max-width: 72ch;
+    }
+
+    .divider {
+      height: 0;
+      border: 0;
+      border-top: 1px solid rgba(0, 0, 0, 0.1);
+      margin: 1.6rem 0;
+    }
+
+    .creed {
+  max-width: 720px;
+  margin: 0 auto;
+  line-height: 1.8;
+  font-size: 1.125rem;
+}
+
+    .creed p {
+  text-indent: 0;
+  margin-bottom: 1.5rem;
+}
+
+    .amen {
+      margin-top: 1.6rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    .creed-art {
+  display: flex;
+  justify-content: center;
+  margin: 3rem 0 3.5rem;
+}
+
+.creed-art img {
+  max-width: 720px;
+  width: 95%;
+  border-radius: 14px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+}
+
+    @media (max-width: 640px) {
+      .wrap {
+        padding: 32px 18px;
+      }
+      .creed {
+        font-size: 1.06rem;
+        line-height: 1.8;
+      }
+    }
+  </style>
+</BaseLayout>
