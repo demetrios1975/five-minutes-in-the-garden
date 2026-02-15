@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2trcDq2RtSVAz3jAdwOiWp?si=dYsZoFWDSTG
 apple: "https://podcasts.apple.com/us/podcast/episode-25-the-fast-that-i-have-chosen/id1804618601?i=1000748529640"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/70cab4ca-0394-4d25-aab3-c8998f39331d/episode-25-the-fast-that-i-have-chosen"
 audible: "https://www.audible.com/pd/B0GLZXQHCB?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/-0qENL-PVGw"
 ---
 
 ## Scripture Reading  

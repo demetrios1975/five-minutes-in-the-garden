@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0LmfP27ZIKfNAFiG1MCT9K?si=Mhk2YyM9TpC
 apple: "https://podcasts.apple.com/us/podcast/episode-26-two-men-went-up-to-pray/id1804618601?i=1000748667510"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/4f900450-033b-49ab-8c2f-82361d989cc5/five-minutes-in-the-garden---a-daily-discussion-of-god's-word-episode-26---two-men-went-up-to-pray"
 audible: "https://www.audible.com/pd/B0GM872FCF?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://youtube.com/@demetrios1975"
+youtube: "https://youtu.be/plKOiZDdMKA"
 ---
 
 ## Scripture Reading  

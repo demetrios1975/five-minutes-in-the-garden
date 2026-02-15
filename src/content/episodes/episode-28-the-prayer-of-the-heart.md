@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5JWWkAkaGme8ZWGS8QbyQ4?si=3eFPkorHQC-
 apple: "https://podcasts.apple.com/us/podcast/episode-28-the-prayer-of-the-heart/id1804618601?i=1000748915734&itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1000748915734"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/ccf7fba6-1a31-4473-897c-9c882f6c5fd2/episode-28-the-prayer-of-the-heart"
 audible: "https://www.audible.com/pd/B0GMJW1JQR?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/-z516HGjHdk"
 ---
 
 ## Scripture Reading  
