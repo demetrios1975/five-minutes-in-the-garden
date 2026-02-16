@@ -1,7 +1,7 @@
 ---
 episode: 35
 title: "Rejoice With Me"
-date: :2026-02-16"
+date: "2026-02-16"
 cover: "/episode-art/episode-35.jpg"
 passage: "Luke 15:6–7 (LXX)"
 spotify: "https://open.spotify.com/episode/4SAjnHLXtJNL3JHFAG3rmw"
