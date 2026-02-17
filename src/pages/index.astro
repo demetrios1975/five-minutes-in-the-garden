@@ -9,6 +9,10 @@ episodes.sort((a, b) => b.data.episode - a.data.episode);
 
 const latest = episodes[0];
 const more = episodes.slice(1, 4);
+
+const tuesday = (await getCollection("tuesday", ({ data }) => !data.draft)) as CollectionEntry<"tuesday">[];
+tuesday.sort((a, b) => (a.data.date < b.data.date ? 1 : -1));
+const latestTuesday = tuesday[0];
 ---
 
 <BaseLayout
@@ -52,6 +56,24 @@ const more = episodes.slice(1, 4);
               <li>🙏 Pray</li>
               <li>⛪ Return</li>
             </ul>
+            {latestTuesday && (
+  <div class="rail-study">
+    <hr class="rail-divider" />
+    <p class="rail-subtitle">In the Study</p>
+
+    <a class="study-card" href={`/tuesday/${latestTuesday.slug}`}>
+      <p class="study-title">{latestTuesday.data.title}</p>
+      {(latestTuesday.data.scripture || latestTuesday.data.date) && (
+        <p class="study-meta">
+          {latestTuesday.data.scripture ? latestTuesday.data.scripture : ""}
+          {latestTuesday.data.scripture && latestTuesday.data.date ? " · " : ""}
+          {latestTuesday.data.date ? latestTuesday.data.date : ""}
+        </p>
+      )}
+      <span class="study-link">Read →</span>
+    </a>
+  </div>
+)}
           </div>
         </aside>
 
@@ -220,6 +242,57 @@ const more = episodes.slice(1, 4);
       display: grid;
       gap: 0.5rem;
     }
+
+    /* LEFT RAIL — TUESDAY FEATURE */
+.rail-divider {
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(0,0,0,0.18),
+    transparent
+  );
+  border: 0;
+  margin: 1rem 0;
+}
+
+.rail-subtitle {
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  opacity: 0.65;
+  margin: 0 0 0.6rem;
+}
+
+.study-card {
+  display: block;
+  padding: 12px;
+  border-radius: 14px;
+  border: 1px solid rgba(0,0,0,0.08);
+  text-decoration: none;
+  color: inherit;
+  background: rgba(255,255,255,0.6);
+}
+
+.study-card:hover {
+  background: rgba(255,255,255,0.9);
+}
+
+.study-title {
+  margin: 0 0 0.35rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.study-meta {
+  margin: 0 0 0.55rem;
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+.study-link {
+  font-size: 0.9rem;
+}
 
     /* CENTER */
     .intro {
