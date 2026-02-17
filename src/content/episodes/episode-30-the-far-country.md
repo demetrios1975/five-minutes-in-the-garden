@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/6n4OCwcOvoOJi2YhyMqWFe?si=W8y52ZW4TvK
 apple: "https://podcasts.apple.com/us/podcast/episode-30-the-far-country/id1804618601?i=1000749259803&itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1000749259803"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/be58fa53-6856-4554-9c9a-f0cce05df1d1/episode-30-the-far-country"
 audible: "https://www.audible.com/pd/B0GMXNDCJH?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/5rshblM7YMM"
 ---
 
 ## Scripture Reading  
