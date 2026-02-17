@@ -1,0 +1,157 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+// Fetch Tuesday posts (hide drafts)
+const posts = await getCollection("tuesday", ({ data }) => !data.draft);
+
+// Sort newest first (date is a YYYY-MM-DD string)
+posts.sort((a, b) => (a.data.date < b.data.date ? 1 : -1));
+---
+
+<BaseLayout
+  title="Tuesday Transformation — Five Minutes in the Garden"
+  description="Weekly teaching and reflection—formation for the mind and heart."
+>
+  <main style="max-width: 980px; margin: 3rem auto; padding: 0 1rem;">
+
+    <!-- HERO -->
+    <div class="tt-hero">
+      <img
+        src="/images/Tuesday/in-the-study.jpg"
+        alt="A quiet study with warm light."
+        loading="lazy"
+      />
+      <div class="tt-hero__overlay">
+        <p class="tt-eyebrow">Tuesday Transformation</p>
+        <h1 class="tt-title">In the Study</h1>
+        <p class="tt-subtitle">
+          A weekly article drawn from the Garden—teaching, doctrine, and the slow work of transformation.
+        </p>
+      </div>
+    </div>
+
+    <!-- ARTICLES LIST -->
+    <section aria-label="Tuesday Transformation articles">
+      {posts.length === 0 && (
+        <p>No Tuesday articles published yet.</p>
+      )}
+
+      <ul class="tt-list">
+        {posts.map((post) => (
+          <li class="tt-card">
+            <a href={`/tuesday/${post.slug}`} class="tt-card__link">
+              <h2 class="tt-card__title">{post.data.title}</h2>
+
+              {(post.data.scripture || post.data.date) && (
+                <p class="tt-card__meta">
+                  {post.data.scripture ? post.data.scripture : ""}
+                  {post.data.scripture && post.data.date ? " • " : ""}
+                  {post.data.date ? post.data.date : ""}
+                </p>
+              )}
+
+              {post.data.description && (
+                <p class="tt-card__desc">{post.data.description}</p>
+              )}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+  </main>
+
+  <style>
+    .tt-hero {
+      position: relative;
+      border-radius: 18px;
+      overflow: hidden;
+      margin-bottom: 2.25rem;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.10);
+    }
+
+    .tt-hero img {
+      width: 100%;
+      height: 320px;
+      object-fit: cover;
+      display: block;
+    }
+
+    .tt-hero__overlay {
+      position: absolute;
+      inset: 0;
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      gap: .35rem;
+      background: linear-gradient(to top, rgba(0,0,0,0.70), rgba(0,0,0,0) 70%);
+      color: #fff;
+    }
+
+    .tt-eyebrow {
+      margin: 0;
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      font-size: .8rem;
+      opacity: .9;
+    }
+
+    .tt-title {
+      margin: 0;
+      font-size: clamp(1.8rem, 3vw, 2.6rem);
+      line-height: 1.1;
+    }
+
+    .tt-subtitle {
+      margin: 0;
+      max-width: 60ch;
+      opacity: .92;
+    }
+
+    .tt-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 1.5rem;
+    }
+
+    .tt-card {
+      border: 1px solid rgba(0,0,0,0.08);
+      background: rgba(0,0,0,0.02);
+      border-radius: 16px;
+      padding: 1.25rem 1.4rem;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+    }
+
+    .tt-card__link {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .tt-card__title {
+      margin: 0 0 .35rem;
+      line-height: 1.2;
+    }
+
+    .tt-card__meta {
+      margin: 0 0 .6rem;
+      opacity: .8;
+    }
+
+    .tt-card__desc {
+      margin: 0;
+      opacity: .9;
+      max-width: 80ch;
+    }
+
+    @media (max-width: 800px) {
+      .tt-hero img {
+        height: 240px;
+      }
+    }
+  </style>
+</BaseLayout>

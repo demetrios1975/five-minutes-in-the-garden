@@ -1,0 +1,152 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("tuesday");
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+
+const posts = await getCollection("tuesday");
+const entry = posts.find((p) => p.slug === slug);
+
+if (!entry) {
+  throw new Error(`Tuesday post not found: ${slug}`);
+}
+
+const { Content } = await entry.render();
+
+// Image paths
+const mirrorImage = "/images/Tuesday/mirror-of-grace.jpg";
+const paulImage = "/images/Tuesday/saint-paul-the-apostle.jpg";
+const potterImage = "/images/Tuesday/the-potter-and-the-clay.jpg";
+---
+
+<BaseLayout title={`${entry.data.title} — Tuesday Transformation`}>
+  <main class="tt-page">
+
+    <!-- HERO IMAGE -->
+    <div class="tt-hero">
+      <img src={mirrorImage} alt="A mirror in a garden with light breaking through." />
+      <div class="tt-hero-overlay">
+        <p class="tt-eyebrow">Tuesday Transformation</p>
+        <h1>{entry.data.title}</h1>
+      </div>
+    </div>
+
+    <!-- 3 COLUMN LAYOUT -->
+    <section class="tt-grid">
+
+      <!-- LEFT COLUMN -->
+      <aside class="tt-side">
+        <img src={paulImage} alt="Saint Paul the Apostle holding a scroll." />
+      </aside>
+
+      <!-- CENTER ARTICLE -->
+      <article class="tt-content">
+        {(entry.data.scripture || entry.data.date) && (
+          <p class="tt-meta">
+            {entry.data.scripture ? entry.data.scripture : ""}
+            {entry.data.scripture && entry.data.date ? " • " : ""}
+            {entry.data.date ? entry.data.date : ""}
+          </p>
+        )}
+
+        <Content />
+      </article>
+
+      <!-- RIGHT COLUMN -->
+      <aside class="tt-side">
+        <img src={potterImage} alt="Hands shaping clay on a potter's wheel." />
+      </aside>
+
+    </section>
+  </main>
+
+  <style>
+    .tt-page {
+      padding: 2rem 1rem 3rem;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .tt-hero {
+      position: relative;
+      margin-bottom: 2.5rem;
+      border-radius: 18px;
+      overflow: hidden;
+    }
+
+    .tt-hero img {
+      width: 100%;
+      height: 350px;
+      object-fit: cover;
+    }
+
+    .tt-hero-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,.7), transparent);
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 1.5rem;
+      color: white;
+    }
+
+    .tt-eyebrow {
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      font-size: .8rem;
+      margin: 0 0 .5rem;
+      opacity: .85;
+    }
+
+    .tt-grid {
+      display: grid;
+      grid-template-columns: 240px 1fr 240px;
+      gap: 2rem;
+    }
+
+    .tt-side img {
+      width: 100%;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,.1);
+      position: sticky;
+      top: 1.5rem;
+    }
+
+    .tt-content {
+      max-width: 720px;
+    }
+
+    .tt-meta {
+      opacity: .75;
+      margin-bottom: 1.5rem;
+    }
+
+    .tt-content :global(p) {
+      line-height: 1.7;
+      margin-bottom: 1rem;
+    }
+
+    .tt-content :global(h2) {
+      margin-top: 2rem;
+    }
+
+    @media (max-width: 1000px) {
+      .tt-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .tt-side img {
+        position: static;
+      }
+    }
+  </style>
+
+</BaseLayout>

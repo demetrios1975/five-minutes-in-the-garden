@@ -8,7 +8,7 @@ const episodes = defineCollection({
     passage: z.string(),
     date: z.string(),
     summary: z.string().optional(),
-    cover: z.string().optional(), // 👈 ADD IT HERE
+    cover: z.string().optional(),
     spotify: z.string().url().optional(),
     apple: z.string().url().optional(),
     amazon: z.string().url().optional(),
@@ -17,7 +17,18 @@ const episodes = defineCollection({
   }),
 });
 
+const tuesday = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    date: z.string(),
+    scripture: z.string().optional(),
+    description: z.string().optional(),
+    draft: z.boolean().optional(),
+  }),
+});
 
 export const collections = {
   episodes,
+  tuesday,
 };
