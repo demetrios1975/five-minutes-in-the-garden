@@ -32,20 +32,20 @@ const ogImage = new URL(image, base).toString();
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
-
     <meta name="robots" content={noindex ? "noindex,nofollow" : "index,follow"} />
 
+    <!-- Open Graph -->
     <meta property="og:type" content={ogType} />
     <meta property="og:site_name" content="Five Minutes in the Garden" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalUrl} />
     <meta property="og:image" content={ogImage} />
-    <meta property="og:image:secure_url" content={ogImage} />
     <meta property="og:image:alt" content={imageAlt} />
     <meta property="og:image:width" content={String(ogImageWidth)} />
     <meta property="og:image:height" content={String(ogImageHeight)} />
 
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     {twitterSite && <meta name="twitter:site" content={twitterSite} />}
     <meta name="twitter:title" content={title} />
@@ -59,34 +59,35 @@ const ogImage = new URL(image, base).toString();
       </script>
     )}
 
+    <!-- Favicons -->
     <link rel="icon" href="/favicon.ico" sizes="any" />
-<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
-<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-<meta name="theme-color" content="#f7f4ee" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#f7f4ee" />
 
-<!-- Google Tag Manager -->
-<script is:inline>
-  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','G-KX43M18QFY');
-</script>
-<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <script is:inline>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','G-KX43M18QFY');
+    </script>
+    <!-- End Google Tag Manager -->
   </head>
 
   <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript>
-  <iframe
-    src="https://www.googletagmanager.com/ns.html?id=G-KX43M18QFY"
-    height="0"
-    width="0"
-    style="display:none;visibility:hidden">
-  </iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <!-- GTM (noscript) -->
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=G-KX43M18QFY"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
+
     <header class="site-header">
       <div class="container site-header__inner">
         <a class="brand" href="/">Five Minutes in the Garden</a>
@@ -133,6 +134,7 @@ const ogImage = new URL(image, base).toString();
         margin: 0 auto;
       }
 
+      /* Header */
       .site-header {
         position: sticky;
         top: 0;
@@ -150,12 +152,12 @@ const ogImage = new URL(image, base).toString();
       }
 
       .brand {
-  font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
-  font-weight: 700;
-  font-size: clamp(1.35rem, 2.2vw, 1.6rem);
-  letter-spacing: 0.02em;
-  text-decoration: none;
-}
+        font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
+        font-weight: 700;
+        font-size: clamp(1.35rem, 2.2vw, 1.6rem);
+        letter-spacing: 0.02em;
+        text-decoration: none;
+      }
 
       .nav {
         display: flex;
@@ -182,6 +184,25 @@ const ogImage = new URL(image, base).toString();
       }
 
       .muted { opacity: 0.75; }
+
+      /* --- Mobile Header Fix --- */
+      @media (max-width: 720px) {
+        .site-header__inner {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 10px;
+        }
+
+        .nav {
+          flex-wrap: wrap;
+          row-gap: 10px;
+          column-gap: 16px;
+        }
+
+        .brand {
+          line-height: 1.05;
+        }
+      }
     </style>
   </body>
 </html>
