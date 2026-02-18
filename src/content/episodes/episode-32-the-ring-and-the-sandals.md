@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5OjBBKM004PLV8umJwL7QV?si=hYxOhEb5RgW
 apple: "https://podcasts.apple.com/us/podcast/episode-32-the-ring-and-the-sandals/id1804618601?i=1000749580770&itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1000749580770"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/c33a2c43-b2f8-4e3f-8de3-ad0c89214c78/episode-32-the-ring-and-the-sandals"
 audible: "https://www.audible.com/podcast/Episode-32-The-Ring-and-the-Sandals/B0GN94W4JR?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/ybJfOkbrNhg"
 ---
 
 ## Scripture Reading  
