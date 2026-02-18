@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5B7vQO92AWFqdqwLOjiWvr?si=bx22q-aYTeK
 apple: "https://podcasts.apple.com/us/podcast/episode-31-coming-to-ourselves/id1804618601?i=1000749347369"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/4c4638ed-d545-4238-a0d8-8522bdbf1536/episode-31-coming-to-ourselves"
 audible: "https://www.audible.com/pd/B0GN37RQNH?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/rjIX66mg2hs"
 ---
 
 ## Scripture Reading  
