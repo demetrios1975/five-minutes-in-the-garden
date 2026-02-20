@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4jQetXNmjp6HyGSH4TAzso?si=4IFv_SppQ7O
 apple: "https://podcasts.apple.com/us/podcast/episode-34-the-coin-that-was-lost/id1804618601?i=1000749820124&itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1000749820124"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/7eed221f-7f32-4e35-a67f-5a03ae73a308/episode-34-the-coin-that-was-lost"
 audible: "https://www.audible.com/pd/B0GNKHTCVW?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/JGV9s3tlEV8"
 ---
 
 ## Scripture Reading  

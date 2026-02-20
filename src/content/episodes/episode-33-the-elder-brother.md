@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5go8U6FVYA63LyQSyqrG0p?si=L65hTh3lSVG
 apple: "https://podcasts.apple.com/us/podcast/episode-33-the-elder-brother/id1804618601?i=1000749725727&itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1000749725727"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/bfebe9ae-ac1d-4f3f-a351-74e7d95328c1/episode-33-the-elder-brother"
 audible: "https://www.audible.com/pd/B0GNHGQC94?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/fERzTnuQRbU"
 ---
 
 ## Scripture Reading  
