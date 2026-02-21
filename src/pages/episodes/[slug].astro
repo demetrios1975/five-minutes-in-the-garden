@@ -27,11 +27,11 @@ const prevEp = idx < all.length - 1 ? all[idx + 1] : null;
 
 // Platform links
 const platforms = [
-  { label: "Spotify", url: ep.data.spotify },
-  { label: "Apple Podcasts", url: ep.data.apple },
-  { label: "Amazon Music", url: ep.data.amazon },
-  { label: "Audible", url: ep.data.audible },
-  { label: "YouTube", url: ep.data.youtube },
+  { key: "spotify", label: "Spotify", url: ep.data.spotify },
+  { key: "apple", label: "Apple Podcasts", url: ep.data.apple },
+  { key: "amazon", label: "Amazon Music", url: ep.data.amazon },
+  { key: "audible", label: "Audible", url: ep.data.audible },
+  { key: "youtube", label: "YouTube", url: ep.data.youtube },
 ].filter((p) => p.url);
 ---
 
@@ -82,13 +82,13 @@ const platforms = [
           {platforms.map((p) => (
             <li>
               <a
-                href={p.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                data-platform={p.label.toLowerCase()}
-              >
-                {p.label} →
-              </a>
+  href={p.url}
+  target="_blank"
+  rel="noopener noreferrer"
+  data-platform={p.key}
+>
+  {p.label} →
+</a>
             </li>
           ))}
         </ul>
@@ -237,5 +237,66 @@ const platforms = [
         text-align: left;
       }
     }
+
+    /* Platform brand accents */
+./* Platform brand accents (matches data-platform keys) */
+
+.listen-links a[data-platform="spotify"] {
+  border-color: #1db954/* Platform brand accents (matches data-platform keys) */
+.listen-links a[data-platform="spotify"] {
+  border-color: #1db954;
+  background: #1db95422;  
+}
+
+.listen-links a[data-platform="apple"] {
+  border-color: #a855f7;
+  background: #a855f722;
+}
+
+.listen-links a[data-platform="amazon"] {
+  border-color: #00a8e1;
+  background: #00a8e122;
+}
+
+.listen-links a[data-platform="audible"] {
+  border-color: #ff9900;
+  background: #ff990022;
+}
+
+.listen-links a[data-platform="youtube"] {
+  border-color: #ff0000;
+  background: #ff0000cc;
+  color: #fff;
+};
+  background: #1db95422;
+}
+
+.listen-links a[data-platform="apple"] {
+  border-color: #a855f7;
+  background: #a855f722;
+}
+
+.listen-links a[data-platform="amazon"] {
+  border-color: #00a8e1;
+  background: #00a8e122;
+}
+
+.listen-links a[data-platform="audible"] {
+  border-color: #ff9900;
+  background: #ff990022;
+}
+
+.listen-links a[data-platform="youtube"] {
+  border-color: #ff0000;
+  background: #ff0000cc;
+  color: #fff;
+}
+
+/* Fallback: if data-platform isn't present/matching, style by URL */
+.listen-links a[href*="open.spotify.com"],
+.listen-links a[href*="spotify.com"] {
+  border-color: #1db954;
+  background: #1db95422;
+}
   </style>
 </BaseLayout>
