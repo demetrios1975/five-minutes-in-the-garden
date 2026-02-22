@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1emo6Y5KSXcBQ808ADZriT?si=0UcADcdLRES
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/67da57c3-0eb9-49f4-9e70-ceb673ebc98f/episode-37-i-was-a-stranger"
 apple: "https://apple.co/3MP7szq"
 audible: "https://www.audible.com/pd/B0GP16H9LG?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/6Kw2iKsnqps"
 draft: false
 ---
 

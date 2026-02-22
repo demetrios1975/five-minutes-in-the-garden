@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/episode/4SAjnHLXtJNL3JHFAG3rmw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/bb943711-8ffd-4e53-a268-a445c1a238dc/episode-35-rejoice-with-me"
 apple: "https://apple.co/4amPWLW"
 audible: "https://www.audible.com/pd/B0GNMBPGMR?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/3S6cNj9xXDY"
 summary: "In Luke 15, Jesus shares parables that reveal the heart of God toward those who are lost and return. One of the most tender is the image of a shepherd rejoicing when a lost sheep is found. This episode of Five Minutes in the Garden invites us to reframe repentance—not as a burden or a shame-filled act—but as something that sparks divine celebration."
 ---
 

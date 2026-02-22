@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5BqM4wSc70JddwgUS9mbmB?si=6XsLyV7OS2K
 apple: "https://apple.co/4kEIRtD"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/d0af52fd-45cd-4401-93e5-22bde2890495/episode-36-the-sheep-and-the-goats"
 audible: "https://www.audible.com/pd/B0GNSDC9KD?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/U8YcKkH2uQ8"
 ---
 
 ## Scripture Reading  
