@@ -25,6 +25,16 @@ const tuesday = defineCollection({
     scripture: z.string().optional(),
     description: z.string().optional(),
     draft: z.boolean().optional(),
+
+    // ✅ NEW FIELDS (this fixes your errors)
+    hero: z.string().optional(),
+    heroAlt: z.string().optional(),
+
+    iconLeft: z.string().optional(),
+    iconLeftAlt: z.string().optional(),
+
+    iconRight: z.string().optional(),
+    iconRightAlt: z.string().optional(),
   }),
 });
 

@@ -1,40 +1,54 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
 
 export async function getStaticPaths() {
   const posts = await getCollection("tuesday");
   return posts.map((post) => ({
     params: { slug: post.slug },
+    props: { post },
   }));
 }
 
-const { slug } = Astro.params;
+type Props = {
+  post: CollectionEntry<"tuesday">;
+};
 
-const posts = await getCollection("tuesday");
-const entry = posts.find((p) => p.slug === slug);
+const { post } = Astro.props;
+const { Content } = await post.render();
 
-if (!entry) {
-  throw new Error(`Tuesday post not found: ${slug}`);
-}
+/**
+ * Frontmatter-driven images (recommended)
+ * Add these to each Tuesday markdown frontmatter:
+ * hero: "/images/tuesday/from-borders-to-bridges-hero.jpg"
+ * iconLeft: "/images/tuesday/icons/matthew-25.jpg"
+ * iconRight: "/images/tuesday/icons/open-door.jpg"
+ */
 
-const { Content } = await entry.render();
+// Fallback images (used only if frontmatter doesn't provide them)
+const fallbackHero = "/images/Tuesday/mirror-of-grace.jpg";
+const fallbackLeft = "/images/Tuesday/saint-paul-the-apostle.jpg";
+const fallbackRight = "/images/Tuesday/the-potter-and-the-clay.jpg";
 
-// Image paths
-const mirrorImage = "/images/Tuesday/mirror-of-grace.jpg";
-const paulImage = "/images/Tuesday/saint-paul-the-apostle.jpg";
-const potterImage = "/images/Tuesday/the-potter-and-the-clay.jpg";
+const heroImage = post.data.hero ?? fallbackHero;
+const leftImage = post.data.iconLeft ?? fallbackLeft;
+const rightImage = post.data.iconRight ?? fallbackRight;
 ---
 
-<BaseLayout title={`${entry.data.title} — Tuesday Transformation`}>
+<BaseLayout title={`${post.data.title} — Tuesday Transformation`}>
   <main class="tt-page">
 
     <!-- HERO IMAGE -->
     <div class="tt-hero">
-      <img src={mirrorImage} alt="A mirror in a garden with light breaking through." />
+      <img
+        src={heroImage}
+        alt={post.data.heroAlt ?? "Tuesday Transformation hero image"}
+        loading="eager"
+      />
       <div class="tt-hero-overlay">
         <p class="tt-eyebrow">Tuesday Transformation</p>
-        <h1>{entry.data.title}</h1>
+        <h1>{post.data.title}</h1>
       </div>
     </div>
 
@@ -43,16 +57,20 @@ const potterImage = "/images/Tuesday/the-potter-and-the-clay.jpg";
 
       <!-- LEFT COLUMN -->
       <aside class="tt-side">
-        <img src={paulImage} alt="Saint Paul the Apostle holding a scroll." />
+        <img
+          src={leftImage}
+          alt={post.data.iconLeftAlt ?? "Tuesday Transformation icon (left)."}
+          loading="lazy"
+        />
       </aside>
 
       <!-- CENTER ARTICLE -->
       <article class="tt-content">
-        {(entry.data.scripture || entry.data.date) && (
+        {(post.data.scripture || post.data.date) && (
           <p class="tt-meta">
-            {entry.data.scripture ? entry.data.scripture : ""}
-            {entry.data.scripture && entry.data.date ? " • " : ""}
-            {entry.data.date ? entry.data.date : ""}
+            {post.data.scripture ? post.data.scripture : ""}
+            {post.data.scripture && post.data.date ? " • " : ""}
+            {post.data.date ? post.data.date : ""}
           </p>
         )}
 
@@ -61,7 +79,11 @@ const potterImage = "/images/Tuesday/the-potter-and-the-clay.jpg";
 
       <!-- RIGHT COLUMN -->
       <aside class="tt-side">
-        <img src={potterImage} alt="Hands shaping clay on a potter's wheel." />
+        <img
+          src={rightImage}
+          alt={post.data.iconRightAlt ?? "Tuesday Transformation icon (right)."}
+          loading="lazy"
+        />
       </aside>
 
     </section>
@@ -85,6 +107,7 @@ const potterImage = "/images/Tuesday/the-potter-and-the-clay.jpg";
       width: 100%;
       height: 350px;
       object-fit: cover;
+      display: block;
     }
 
     .tt-hero-overlay {
@@ -110,6 +133,7 @@ const potterImage = "/images/Tuesday/the-potter-and-the-clay.jpg";
       display: grid;
       grid-template-columns: 240px 1fr 240px;
       gap: 2rem;
+      align-items: start;
     }
 
     .tt-side img {
@@ -118,6 +142,7 @@ const potterImage = "/images/Tuesday/the-potter-and-the-clay.jpg";
       box-shadow: 0 10px 30px rgba(0,0,0,.1);
       position: sticky;
       top: 1.5rem;
+      display: block;
     }
 
     .tt-content {
@@ -148,5 +173,4 @@ const potterImage = "/images/Tuesday/the-potter-and-the-clay.jpg";
       }
     }
   </style>
-
 </BaseLayout>
