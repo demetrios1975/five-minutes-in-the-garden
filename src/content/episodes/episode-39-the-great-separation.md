@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/episode/5nYuy5B3PN4Tzd1Wg8xx2Y?si=CVEHiaeGRgO
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/3f30a3e1-ede9-471e-b51f-dcf85eda832c/episode-39-the-great-separation"
 apple: "https://apple.co/4cbrcYx"
 audible: "https://www.audible.com/pd/B0GPD768TF?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/heg8ob4l4NU"
 summary: "Sometimes what we fail to do carries just as much weight as what we actively choose. In Matthew 25, Jesus describes a final judgment—not based on dramatic evil, but on overlooked compassion. It’s a sobering reminder that neglect has consequences."
 draft: false
 ---

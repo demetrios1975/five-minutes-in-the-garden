@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/episode/1HddRlfPeFEjBAm1yVAiGl?si=uveNuZ1zRJS
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/3862b7ab-3300-430f-8021-f903f2203cb7/episode-40-the-speck-and-the-log"
 apple: "https://apple.co/4cC549F"
 audible: "https://www.audible.com/pd/B0GPHSRBW7?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/OCGUSxbxp3c"
 summary: "As we stand at the edge of the Lenten season, Scripture gently turns our attention inward. It is easier to measure the faults of others than to confront the hidden corners of our own hearts. Yet before we can walk into a season of repentance, Christ calls us to something deeper than observation—He calls us to honest self-examination. Today’s reading from the Gospel of Matthew invites us to lay down the magnifying glass we hold over others and instead pick up the mirror. It is a call to clarity, humility, and mercy."
 draft: false
 ---
