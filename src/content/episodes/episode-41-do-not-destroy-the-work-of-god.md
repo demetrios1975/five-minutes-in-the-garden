@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/episode/5dbNMYKmRw8bH2r00ZM3Qb?si=7L02WV64QLq
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/082d537d-0c75-414c-b8df-bcf7a5a62183/episode-41-do-not-destroy-the-work-of-god"
 apple: "https://apple.co/46jZuoJ"
 audible: "https://www.audible.com/pd/B0GPHTS9WH?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/UGN3NconDnI"
 summary: "As we near the start of Great Lent, today’s reading from St. Paul reminds us of what truly matters. It’s not the food we eat—or don’t eat—that defines our faith. It’s how we love one another, how we build each other up, and how we avoid letting personal conviction become communal division."
 ---
 
