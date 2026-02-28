@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/episode/5vpqEqmWQNVHnfdIJqtaB6?si=gEH0NJtTRwS
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/be9ecad1-ab44-428c-9637-74a6d6226dfa/episode-42-the-athletes-of-god"
 apple: "https://apple.co/3MImdUz"
 audible: "https://www.audible.com/pd/B0GPL4G2XX?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/-HurI8Kmqwc"
 summary: "Today is a day of honor—a day to remember the men and women who trained their bodies and souls in the arena of ascetic struggle. On this Saturday of the Ascetics, we don’t mourn their hardships—we celebrate their perseverance. St. Paul compares the spiritual life to a race, one that requires focus, discipline, and sacrifice. As we prepare for the Fast, we are not entering a season of gloom, but a season of growth. Lent is not a funeral march. It is training camp for the soul. We lace up our spiritual shoes not to impress God, but to pursue Him."
 ---
 

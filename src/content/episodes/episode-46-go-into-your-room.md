@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2Ow8oTCDQD7Y4rKf9RxfjQ?si=ra63sWEZSZ2
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/e99a74fb-d285-4b1a-87f8-f2d19e69a383/episode-46-go-into-your-room"
 apple: "https://apple.co/477vexq"
 audible: "https://www.audible.com/pd/B0GQ4FK26M?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
 

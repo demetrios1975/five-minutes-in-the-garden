@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/episode/4Lf4VbW4tLGjglc1reSh6t?si=lFJfpu0MSVi
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/d0a661f4-1947-4de0-a186-679d347b703b/episode-45-when-you-fast"
 apple: "https://apple.co/4kO7FPS"
 audible: "https://www.audible.com/podcast/Five-Minutes-in-the-Garden-A-Daily-Discussion-of-Gods-Word/B0F2JBFZZ2?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 summary: "Yesterday, we stepped into the wilderness with Christ. Today, we ask a quieter question: How do we fast? Not how long. Not how strictly. Not how visibly. But how does fasting shape the heart? In the Sermon on the Mount, Jesus assumes something important. He doesn’t say “If you fast.” He says, “When you fast.” Lent is not about whether we fast—but about the spirit in which we do it."
 ---
 

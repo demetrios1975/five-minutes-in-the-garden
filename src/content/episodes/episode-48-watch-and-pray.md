@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4ZM2gvJiAWkovVeUZXp1a1?si=1bIyxUBjQia
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/d379ac0c-a652-4e7b-8d55-46c9c76f542d/episode-48-watch-and-pray"
 apple: "https://apple.co/4kZBkpl"
 audible: "https://www.audible.com/pd/B0GQHVWQWF?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
 

@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/7J8oRaR0mWibHqF1DF1LpF?si=xxF7TKZHSkK
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/e90db718-4ed9-4b1f-95a6-97516736ab42/five-minutes-in-the-garden---a-daily-discussion-of-god's-word-episode-47---when-you-give"
 apple: "https://podcasts.apple.com/us/podcast/episode-47-when-you-give/id1804618601?i=1000751730510"
 audible: "https://www.audible.com/pd/B0GQBJPC4D?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 ---
 
 ## Scripture Reading

@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/episode/6x8P3MNwd7V7bnpdIhRIxy?si=GShxEDcMSfm
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/8bf288ef-1191-4c9d-8145-3ba705780dc0/episode-43-the-gate-of-forgiveness"
 apple: "https://apple.co/3OTVHbw"
 audible: "https://www.audible.com/pd/B0GPNFB1BK?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/@Demetrios1975"
+youtube: "https://youtu.be/lfq_MjUR0WI"
 summary: "We’ve journeyed through a season of preparation, and now we arrive at the threshold of Great Lent. Today is known as Forgiveness Sunday—a day that reminds us the fast is not primarily about food, but about the heart. Before we can enter the wilderness, we must first let go of what we’ve been carrying. Jesus makes it clear: if we want to be forgiven, we must forgive. This is the final key that unlocks the gate to the Lenten journey."
 ---
 
