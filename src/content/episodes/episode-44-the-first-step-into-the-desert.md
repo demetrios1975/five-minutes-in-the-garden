@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/episode/6YgTkKODqX6b3Mxp0gVbGQ?si=AJHiNPSiTRO
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/aee7240c-83f6-42b5-995d-8c19c73ec21a/episode-44-the-first-step-into-the-desert"
 apple: "https://apple.co/4tPdxfN"
 audible: "https://www.audible.com/pd/B0GPQGVYC1?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/lKOotQa2PF4"
 summary: "Today, we step across a threshold. After weeks of preparation—of humility, repentance, mercy, and forgiveness—we now enter Great Lent. Not as spectators. Not as observers. But as participants. The Church does not send us into Lent alone. It sends us following Christ—into the wilderness. And so today, we begin where He began."
 ---
 
