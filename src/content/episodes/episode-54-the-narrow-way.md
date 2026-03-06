@@ -8,7 +8,7 @@ cover: "/episode-art/episode-54.jpg"
 spotify: "https://open.spotify.com/episode/46tu9lC7PTCsSfht5Apt0V?si=2qKNrpYySpOnM0wP8UmL9w"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/fd7cb197-27b4-4027-b575-a4ff75bfc7d3/episode-54-the-narrow-way"
 apple: "https://podcasts.apple.com/us/podcast/episode-54-the-narrow-way/id1804618601?i=1000753311177"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/ITEM_NAME/B0GR48J7SS?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
