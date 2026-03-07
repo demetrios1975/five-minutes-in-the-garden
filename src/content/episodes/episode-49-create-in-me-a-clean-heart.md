@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/15izk1YK37nNCNVOjB35b0?si=GwZUnxLPRsW
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/788fc113-af19-4e65-9f72-19be5036e9f4/episode-49-create-in-me-a-clean-heart"
 apple: "https://podcasts.apple.com/us/podcast/episode-49-create-in-me-a-clean-heart/id1804618601?i=1000752075631"
 audible: "https://www.audible.com/pd/B0GQMGYQHB?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/_clUYDGp6jk"
 draft: false
 ---
 
