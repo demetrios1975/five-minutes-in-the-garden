@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/7dRUMsa0LyHDxQXwU4U2B3?si=AjEev0FsTDK
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/cfd68d20-9851-4355-b9cf-16aa0c1578e5/episode-50-entering-the-arena"
 apple: "https://podcasts.apple.com/us/podcast/episode-50-entering-the-arena/id1804618601?i=1000752310578"
 audible: "https://www.audible.com/pd/B0GQQ927WK?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/UReAlVQyf-8"
 draft: false
 ---
 

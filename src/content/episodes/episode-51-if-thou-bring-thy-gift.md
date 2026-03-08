@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/73SQhCNcqvlFzE8IUft78a?si=Tca4ZW-qTDG
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f20f7b73-4a94-496e-9544-69aa634e278f/episode-51-if-thou-bring-thy-gift"
 apple: "https://apple.co/4roNJ8d"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GQLS6CWX?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/9V2OYOd5guo"
 draft: false
 ---
 
