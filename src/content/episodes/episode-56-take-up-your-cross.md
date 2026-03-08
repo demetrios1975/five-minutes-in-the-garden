@@ -8,7 +8,7 @@ cover: "/episode-art/episode-56.jpg"
 spotify: "https://open.spotify.com/episode/7zFF3VlxnHa29HufiXanz1?si=7qpa8BCBSeyP0csAnu0CVQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/74c1bbc6-a2bb-4064-8619-0bc7db8bd094/episode-56-take-up-your-cross"
 apple: "https://podcasts.apple.com/us/podcast/episode-56-take-up-your-cross/id1804618601?i=1000753759835"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/pd/B0GRQ1Q9W8?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
