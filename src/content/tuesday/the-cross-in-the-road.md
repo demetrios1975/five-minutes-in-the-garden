@@ -1,6 +1,7 @@
 ---
 title: "The Cross in the Road"
 date: "2026-03-10"
+series: "Tuesday Transformation"
 scripture: "Luke 9:23"
 description: "Lent places the Cross back in the center of our path, reminding us that the road of Christ is not avoided but walked."
 hero: "/images/Tuesday/the-cross-in-the-road.jpg"
@@ -8,6 +9,10 @@ iconLeft: "/images/Tuesday/saint-paul-the-apostle.jpg"
 iconRight: "/images/Tuesday/the-potter-and-the-clay.jpg"
 draft: false
 ---
+
+## Tuesday Transformation
+
+# The Cross in the Road
 
 There are moments in life when the road ahead seems clear.
 
