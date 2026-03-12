@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/3DtNwhyIN8wORKzaZBmZqS?si=1AwWiHp4Qgi
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/1f60848c-5741-4af2-b2c6-78c7f8f10eea/episode-55-let-us-not-grow-weary"
 apple: "https://apple.co/3Nm5VRF"
 audible: "https://tinyurl.com/5minAudible"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/SXapVTc96dI"
 draft: false
 ---
 

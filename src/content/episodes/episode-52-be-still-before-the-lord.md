@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1JR5vvy5GuS5ljIrAWMDGP?si=faRFhntOQAG
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/8d3e1186-9722-4e4f-adee-772d36997951/episode-52-be-still-before-the-lord"
 apple: "https://podcasts.apple.com/us/podcast/episode-52-be-still-before-the-lord/id1804618601?i=1000752862581"
 audible: "https://www.audible.com/pd/B0GR4GTJQC?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/hv-EXTPIyy4"
 draft: false
 ---
 

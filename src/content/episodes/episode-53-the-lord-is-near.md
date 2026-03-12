@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2ieW3Pl1ZUQCN9Z5pqjV36?si=aRYR0TjRQbW
 amazon: "https://tinyurl.com/Ep53AMZN"
 apple: "https://podcasts.apple.com/us/podcast/episode-53-the-lord-is-near/id1804618601?i=1000753029221"
 audible: "https://www.audible.com/pd/B0GR8QSMYQ?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/rTSMA_7z84w"
 draft: false
 ---
 
