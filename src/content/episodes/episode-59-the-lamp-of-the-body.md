@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4pUnPg6e2qO3b7AHVszI5o?si=PeRJkLbMQpm
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/88826a22-5f63-4aaa-b63f-9a10bda4eb08/episode-59-the-lamp-of-the-body"
 apple: "https://podcasts.apple.com/us/podcast/episode-59-the-lamp-of-the-body/id1804618601?i=1000754435057"
 audible: "https://www.audible.com/pd/B0GRZVG8LX?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/q00IhaeIjQg"
 draft: false
 ---
 
