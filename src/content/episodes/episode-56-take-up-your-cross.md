@@ -1,7 +1,7 @@
 ---
 episode: 56
 title: "Take Up Your Cross"
-passage: "Luke 9:23 (KJV)"
+passage: "Luke 9:23 (LXX)"
 date: "2026-03-07"
 summary: "As Great Lent continues, Christ reminds us what the discipline of the Fast is ultimately for: denying ourselves, taking up our cross daily, and following Him."
 cover: "/episode-art/episode-56.jpg"

@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4H8EMnIK2HtJP43MV9KGc4?si=T5v27Ra6Rwu
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/b75c8e99-c3e4-4e7c-b865-f4e3d83adfc9/episode-58-where-your-treasure-is"
 apple: "https://podcasts.apple.com/us/podcast/episode-58-where-your-treasure-is/id1804618601?i=1000753983393"
 audible: "https://tinyurl.com/5minAudible"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/vh3wn23k9nY"
 draft: false
 ---
 

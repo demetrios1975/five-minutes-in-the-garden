@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1KLcbtFPUvR9QZfnpCsoDC?si=J2XqrZliSd-
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/731c8405-68a7-4900-80d0-811de37690ea/episode-57-joy-in-the-cross"
 apple: "https://podcasts.apple.com/us/podcast/episode-57-joy-in-the-cross/id1804618601?i=1000753859691"
 audible: "https://www.audible.com/pd/B0GRRC6P15?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/tjWVYjwNrPM"
 draft: false
 ---
 
