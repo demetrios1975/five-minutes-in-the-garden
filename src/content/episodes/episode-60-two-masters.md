@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0Z9xoFwrcr60ZjDJF6UMpK?si=X8ZBrovRQQ-
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/7763f036-296e-4678-9946-51f3c7c53636/episode-60-two-masters"
 apple: "https://podcasts.apple.com/us/podcast/episode-60-two-masters/id1804618601?i=1000754632439"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GRW79854?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/Hk5XvDt-HXY"
 draft: false
 ---
 
