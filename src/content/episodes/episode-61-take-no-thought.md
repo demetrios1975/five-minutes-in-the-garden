@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/00iW0xTEZlcP22U4iybzfo?si=TZcxOkGUS5e
 amazon: "https://tinyurl.com/5minsEP61"
 apple: "https://podcasts.apple.com/us/podcast/episode-61-take-no-thought/id1804618601?i=1000754825721"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GRMFC2HL?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/75Dn8Vv5YWU"
 draft: false
 ---
 
