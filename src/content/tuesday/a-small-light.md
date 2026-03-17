@@ -7,7 +7,7 @@ description: "Transformation rarely begins with dramatic change. More often it b
 hero: "/images/Tuesday/a-small-light.jpg"
 iconLeft: "/images/Tuesday/saint-paul-the-apostle.jpg"
 iconRight: "/images/Tuesday/the-potter-and-the-clay.jpg"
-draft: true
+draft: false
 ---
 
 ## Tuesday Transformation
