@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0WhG5jJVlhBjx3hshwQE0M?si=DmWmK_0KRi2
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/1dc3eb70-3ba4-4e39-a844-0e2ea5c970f1/episode-63-seek-first-the-kingdom"
 apple: "https://podcasts.apple.com/us/podcast/episode-63-seek-first-the-kingdom/id1804618601?i=1000755253469"
 audible: "https://www.audible.com/pd/B0GSJZWDFZ?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/47oCO7uD4Lk"
 draft: false
 ---
 

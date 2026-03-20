@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0jR7ljFp5dRfCAEXbXetzw?si=Ry16XiKxQVK
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/758dddd1-3626-49ed-998a-2b9531d6f98d/episode-62-consider-the-birds"
 apple: "https://podcasts.apple.com/us/podcast/episode-62-consider-the-birds/id1804618601?i=1000755072832"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GRG3PGZT?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/J8ZN9oVaLNs"
 draft: false
 ---
 
