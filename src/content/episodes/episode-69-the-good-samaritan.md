@@ -8,7 +8,7 @@ cover: "/episode-art/episode-69.jpg"
 spotify: "https://open.spotify.com/episode/3WVKopqCyf0ZSweLpqUqyb?si=_hIo9WkuR0CAy6njV62lXg"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/170b22a7-4d89-49c2-a4c9-fa5f907ecba1/episode-69-the-good-samaritan"
 apple: "https://podcasts.apple.com/us/podcast/episode-69-the-good-samaritan/id1804618601?i=1000756305514"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/pd/B0GT9JTFQN?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
