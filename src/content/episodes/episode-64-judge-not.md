@@ -8,7 +8,7 @@ cover: "/episode-art/episode-64.jpg"
 spotify: "https://open.spotify.com/episode/1ZFF2J7hpZ9jBNaFsXUeUN?si=SlSSgSOpRiuICGV3JPZgDQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/43a380d3-870e-4264-beee-d184f5b0d0ef/five-minutes-in-the-garden---a-daily-discussion-of-god's-word-episode-64---judge-not"
 apple: "https://podcasts.apple.com/us/podcast/episode-64-judge-not/id1804618601?i=1000755398465"
-audible: "https://tinyurl.com/EP64onAudible"
+audible: "https://www.audible.com/podcast/Episode-64-Judge-Not/B0GSNF2CYM?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://youtu.be/LzzyhT4zmTg"
 draft: false
 ---
