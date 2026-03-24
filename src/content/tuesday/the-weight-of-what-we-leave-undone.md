@@ -7,7 +7,7 @@ description: "In the final judgment, Jesus reveals that love is not measured onl
 hero: "/images/Tuesday/the-weight-of-what-we-leave-undone.jpg"
 iconLeft: "/images/Tuesday/saint-paul-the-apostle.jpg"
 iconRight: "/images/Tuesday/the-potter-and-the-clay.jpg"
-draft: true
+draft: false
 ---
 
 ## Tuesday Transformation
