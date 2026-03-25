@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/6taG73xLzcc9ZJitg8Bv9Y?si=fZCb0XRnTsG
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/7cbb9c9a-63f6-458c-85e4-01950513a29c/episode-67-known-by-their-fruits"
 apple: "https://podcasts.apple.com/us/podcast/episode-67-known-by-their-fruits/id1804618601?i=1000755932881"
 audible: "https://www.audible.com/pd/B0GSZLM2GG?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/Pbg_BVWFSEo"
 draft: false
 ---
 

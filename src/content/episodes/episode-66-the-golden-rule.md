@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0Hirc3JdHpEDMAM97k4ZnK?si=p3z2g3UMRNO
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/634d59f0-aefb-4722-8f4c-4647a17ba095/episode-66-the-golden-rule"
 apple: "https://podcasts.apple.com/us/podcast/episode-66-the-golden-rule/id1804618601?i=1000755738624"
 audible: "https://www.audible.com/pd/B0GSW3C8FX?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/9xozOL-4DcM"
 draft: false
 ---
 

@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5IVCwKK4B9cYRnuWxcBvBS?si=5aQwW275SUG
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/d731a8e4-e166-4d70-9bdf-c21fbe5c088f/episode-68-a-tree-and-its-fruit"
 apple: "https://podcasts.apple.com/us/podcast/episode-68-a-tree-and-its-fruit/id1804618601?i=1000756116057"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GRSP2KJ1?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/A0bsYg1XKO0"
 draft: false
 ---
 
