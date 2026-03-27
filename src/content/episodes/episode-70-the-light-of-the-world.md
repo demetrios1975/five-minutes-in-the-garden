@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/7xMstBxzu7cg09tKOpS7LJ?si=1F_JiMCQTWS
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/e1532f2f-ced2-4073-8595-3fc300fab57c/episode-70-the-light-of-the-world"
 apple: "https://podcasts.apple.com/us/podcast/episode-70-the-light-of-the-world/id1804618601?i=1000756461472"
 audible: "https://www.audible.com/pd/B0GTD1Z9WB?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/cFG2bhhkd3s"
 draft: false
 ---
 
