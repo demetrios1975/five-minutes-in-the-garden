@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0Dvs232bCilppWFU3UsDl8?si=bi9WkwG2QfO
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/five-minutes-in-the-garden-a-daily-discussion-of-gods-word"
 apple: "https://podcasts.apple.com/us/podcast/episode-74-the-widows-offering/id1804618601?i=1000757240104"
 audible: "https://www.audible.com/pd/B0GTVJXYF3?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/OVBy9aTfxJA"
 draft: false
 ---
 
