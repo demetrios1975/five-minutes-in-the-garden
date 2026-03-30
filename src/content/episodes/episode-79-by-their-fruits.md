@@ -88,7 +88,7 @@ We need to remain where life flows.
 
 ## Closing Prayer
 
-[i]Lord,  
+*Lord,  
 You see what is growing in my life, even when I do not fully recognize it.
 
 Search my heart and reveal what is taking root within me.
@@ -112,4 +112,4 @@ And may that fruit point not to me,
 but to You, the true source of all life.
 
 In the name of the Father, and of the Son, and of the Holy Spirit,  
-Amen.[/i]
+Amen.*
