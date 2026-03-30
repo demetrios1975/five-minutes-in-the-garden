@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/51OSsdlZBlLhgeOEg6NEII?si=sCclx0TmTC2
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/52de6435-fd37-4b7b-a68f-a006641661cd/episode-71-the-wise-builder"
 apple: "https://podcasts.apple.com/us/podcast/episode-71-the-wise-builder/id1804618601?i=1000756569364"
 audible: "https://www.audible.com/pd/B0GTFVC149?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/X6KdVzb977k"
 draft: false
 ---
 
