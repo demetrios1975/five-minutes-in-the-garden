@@ -6,9 +6,9 @@ date: "2026-03-30"
 summary: "As we abide in Christ, what grows within us becomes visible over time. Jesus teaches that the fruit of our lives reveals the condition of our hearts."
 cover: "/episode-art/episode-79.jpg"
 spotify: "https://open.spotify.com/episode/0VI2LjK67P2CXKa8IqnfUj?si=G28snYeRSXGSS8f5e7OiLA"
-amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/five-minutes-in-the-garden-a-daily-discussion-of-gods-word"
+amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/376c6513-df74-4ccf-b7a2-08a9c8164d29/episode-79-by-their-fruits"
 apple: "https://podcasts.apple.com/us/podcast/episode-79-by-their-fruits/id1804618601?i=1000758185309"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/pd/B0GVG8LV14?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
