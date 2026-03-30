@@ -90,26 +90,18 @@ We need to remain where life flows.
 
 *Lord,  
 You see what is growing in my life, even when I do not fully recognize it.
-
 Search my heart and reveal what is taking root within me.
-
 Where there is good fruit, strengthen it.  
 Where there is dryness or disorder, begin to restore it.
-
 Help me not to focus only on outward change,  
 but to remain deeply rooted in You.
-
 Teach me to abide faithfully,  
 to return to You daily,  
 and to trust that transformation comes from Your life within me.
-
 Let Your Spirit shape my thoughts, my words, and my actions.
-
 And over time, let my life bear fruit that reflects Your goodness—  
 patience, kindness, humility, and love.
-
 And may that fruit point not to me,  
 but to You, the true source of all life.
-
 In the name of the Father, and of the Son, and of the Holy Spirit,  
 Amen.*
