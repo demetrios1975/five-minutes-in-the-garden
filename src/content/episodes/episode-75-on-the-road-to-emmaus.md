@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/3PgJLDGPqWH2aKOBSSe0MJ?si=Yh7Ft0-QRR6
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/c11d6d23-156c-4c31-84b4-d0b09af4fc46/chapter-75-on-the-road-to-emmaus"
 apple: "https://podcasts.apple.com/us/podcast/chapter-75-on-the-road-to-emmaus/id1804618601?i=1000757470811"
 audible: "https://www.audible.com/pd/B0GTZ5PK1R?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/HUaQ-CzJuMU"
 draft: false
 ---
 
