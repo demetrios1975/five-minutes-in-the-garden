@@ -8,7 +8,7 @@ cover: "/episode-art/episode-81.jpg"
 spotify: "https://open.spotify.com/episode/0BN122b6unzW7q3mfScUBB?si=mC5_Z2V3ST2Rd_zTAOxm4w"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/37bbcecc-f176-408b-a6a0-dfbf664191dc/five-minutes-in-the-garden---a-daily-discussion-of-god's-word-episode-81---rend-your-heart"
 apple: "https://podcasts.apple.com/us/podcast/episode-81-rend-your-heart/id1804618601?i=1000758622208"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/ITEM_NAME/B0GS31QJ8R?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
