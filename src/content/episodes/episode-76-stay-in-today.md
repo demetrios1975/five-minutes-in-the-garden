@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2NdzMOiH3a4jBvfZBUq54V?si=r4-RuBmkSQi
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/e9f1067e-6aae-44b9-a259-6f7d67de0db4/episode-76-stay-in-today"
 apple: "https://podcasts.apple.com/us/podcast/episode-76-stay-in-today/id1804618601?i=1000757682977"
 audible: "https://www.audible.com/pd/B0GV4494C7?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/U1RDlLl3bLs?si=S8JIZo03QmyULYm8"
 draft: false
 ---
 

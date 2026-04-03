@@ -8,7 +8,7 @@ cover: "/episode-art/episode-82.jpg"
 spotify: "https://open.spotify.com/episode/3YM0pLdoLI2xR5rT1BPdHP?si=QRmKgqQSRpiPPJhRC5cQTg"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/e9a19c83-398b-4b19-a675-496ac8b3696e/episode-82-watch-and-be-ready"
 apple: "https://podcasts.apple.com/us/podcast/episode-82-watch-and-be-ready/id1804618601?i=1000758822289"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/pd/B0GVTT9X5D?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
