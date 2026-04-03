@@ -86,28 +86,28 @@ Choose deliberately.
 
 *Lord,  
 You do not call me into a shallow life,  
-but into a life that is full, real, and rooted in You.
+but into a life that is full, real, and rooted in You.*
 
-And yet, I often hesitate.  
+*And yet, I often hesitate.  
 I want the comfort of faith  
-without the cost of commitment.
+without the cost of commitment.*
 
-Give me clarity, Lord.  
+*Give me clarity, Lord.  
 Help me to see what it truly means to follow You—  
-not just in words, but in the quiet choices I make each day.
+not just in words, but in the quiet choices I make each day.*
 
-Strengthen me when the path feels difficult.  
-Give me courage when I am tempted to turn back.
+*Strengthen me when the path feels difficult.  
+Give me courage when I am tempted to turn back.*
 
-And remind me that anything I surrender for Your sake  
-is never truly lost.
+*And remind me that anything I surrender for Your sake  
+is never truly lost.*
 
-Teach me to carry what You have given me,  
-with faith, with trust, and with endurance.
+*Teach me to carry what You have given me,  
+with faith, with trust, and with endurance.*
 
-And as I continue this journey through Lent,  
+*And as I continue this journey through Lent,  
 help me to follow You—not halfway,  
-but fully.
+but fully.*
 
-In the name of the Father, and of the Son, and of the Holy Spirit,  
+*In the name of the Father, and of the Son, and of the Holy Spirit,  
 Amen.*
