@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/6SKP9MjjhGZYpyqR52n3Mk?si=8WTLDAcsTyS
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/4f59061e-7500-4f70-b379-e638f3ce1837/episode-77-peace-i-leave-with-you"
 apple: "https://podcasts.apple.com/us/podcast/episode-77-peace-i-leave-with-you/id1804618601?i=1000757882045"
 audible: "https://www.audible.com/podcast/Five-Minutes-in-the-Garden-A-Daily-Discussion-of-Gods-Word/B0F2JBFZZ2?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/DSzvLuSdTb8"
 draft: false
 ---
 
