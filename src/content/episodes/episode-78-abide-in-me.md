@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5HHTI7OVre2yfSGX9b0RHh?si=2FbAPi5nSUi
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/06564c6d-5c38-489f-b1cb-37b278239123/episode-78-abide-in-me"
 apple: "https://podcasts.apple.com/us/podcast/episode-78-abide-in-me/id1804618601?i=1000758040937"
 audible: "https://www.audible.com/pd/B0GVBQHJL2?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/tUbfyyCvU9c"
 draft: false
 ---
 
