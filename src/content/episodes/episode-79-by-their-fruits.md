@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0VI2LjK67P2CXKa8IqnfUj?si=G28snYeRSXG
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/376c6513-df74-4ccf-b7a2-08a9c8164d29/episode-79-by-their-fruits"
 apple: "https://podcasts.apple.com/us/podcast/episode-79-by-their-fruits/id1804618601?i=1000758185309"
 audible: "https://www.audible.com/pd/B0GVG8LV14?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/UklVSu2dLC4"
 draft: false
 ---
 

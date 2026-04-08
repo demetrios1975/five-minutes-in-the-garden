@@ -13,8 +13,8 @@ draft: false
 ## Tuesday Transformation
 # The Gift Hidden in the Trial
 
-“So in every test, let us say: ‘Thank you, my God, because this was needed for my salvation.’”
-— St. Paisios
+*“So in every test, let us say: ‘Thank you, my God, because this was needed for my salvation.’”
+— St. Paisios*
 
 There is something in us that resists these words.
 

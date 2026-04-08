@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1F6YVzpeAMQ2zk2lvMMGi4?si=lAenZBlhTSa
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/ef85ac66-f762-4206-809a-f4d62d502496/episode-80-well-done"
 apple: "https://podcasts.apple.com/us/podcast/episode-80-well-done/id1804618601?i=1000758394954"
 audible: "https://www.audible.com/pd/B0GVJMRGCD?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/DUqx-CH5Ml4"
 draft: false
 ---
 
