@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/55BuknZF0fx8cFViSwqtLQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/905a8356-e1da-4d32-900e-b526df2ae603/episode-83-count-the-cost"
 apple: "https://podcasts.apple.com/us/podcast/episode-83-count-the-cost/id1804618601?i=1000759020901"
 audible: "https://www.audible.com/pd/B0GVYYK4RL?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/oas5i_FTgG0"
 draft: false
 ---
 

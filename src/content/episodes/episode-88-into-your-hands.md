@@ -8,7 +8,7 @@ cover: "/episode-art/episode-88.jpg"
 spotify: "https://open.spotify.com/episode/4nVAd1mpapwA0wwRdOjyg2?si=UzV0RwOXT8eOsOfkQ2mRHg"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/9c2eb7a5-6a68-4770-b507-3426bb338b2e/episode-88-into-your-hands"
 apple: "https://www.audible.com/podcast/Episode-86-The-Hour-Has-Come/B0GW8SBQ14?source_code=ASSGB149080119000H&share_location=pdp"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/pd/B0GWJLGYYM?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---

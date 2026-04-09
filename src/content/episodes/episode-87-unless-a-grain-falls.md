@@ -8,7 +8,7 @@ cover: "/episode-art/episode-87.jpg"
 spotify: "https://open.spotify.com/episode/2VhHhJlaRLyO8cJ1dOCPuk?si=m8RrOHtaQ2C-qkb72WnpxQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/db8db901-9be6-49b7-8ff8-10305ade54c3/episode-87-unless-a-grain-falls"
 apple: "https://podcasts.apple.com/us/podcast/episode-87-unless-a-grain-falls/id1804618601?i=1000760010916"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/ITEM_NAME/B0GWDX6QFH?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---

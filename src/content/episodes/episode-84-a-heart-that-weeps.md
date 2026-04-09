@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/7z381N8JyUNqJW6N6JIVXT?si=eZvU2SwNRoW
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/76db6817-213d-4df4-bb5c-7f0447fe34d7/episode-84-a-heart-that-weeps"
 apple: "https://podcasts.apple.com/us/podcast/episode-84-a-heart-that-weeps/id1804618601?i=1000759198601"
 audible: "https://www.audible.com/pd/B0GW37H1PF?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/-0FzFSjnXWM"
 draft: false
 ---
 
