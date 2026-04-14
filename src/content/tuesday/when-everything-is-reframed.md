@@ -7,7 +7,7 @@ description: "In the light of the Resurrection, what once felt overwhelming is n
 hero: "/images/Tuesday/when-everything-is-reframed.jpg"
 iconLeft: "/images/Tuesday/saint-paul-the-apostle.jpg"
 iconRight: "/images/Tuesday/the-potter-and-the-clay.jpg"
-draft: true
+draft: false
 ---
 
 ## Tuesday Transformation
