@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4RdhoIuB1YpqmDS0G6Oljt?si=3bw7eeZQQIq
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f3cd2e8b-64a7-4f28-be73-ca5bb5bf1aa8/episode-90-why-do-you-seek-the-living"
 apple: "https://podcasts.apple.com/us/podcast/episode-90-why-do-you-seek-the-living/id1804618601?i=1000760642465"
 audible: "https://www.audible.com/pd/B0GWQVZDZL?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/zfAlFTAYuNw"
 draft: false
 ---
 

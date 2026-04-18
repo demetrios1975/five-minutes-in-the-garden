@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2AxUG2OLvtDmQN8SA4Tjna?si=2FFn2DtjRBS
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/13623a0e-4496-4975-aed4-5f64765545f9/episode-91-he-descended"
 apple: "https://podcasts.apple.com/us/podcast/episode-91-he-descended/id1804618601?i=1000760804020"
 audible: "https://www.audible.com/pd/B0GWV5K83S?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/NRolLXJ078k"
 draft: false
 ---
 
