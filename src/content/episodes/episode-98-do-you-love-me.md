@@ -8,7 +8,7 @@ cover: "/episode-art/episode-98.jpg"
 spotify: "https://open.spotify.com/episode/5q29y2cX13EHxoUT1p5vfm?si=YKiSW1-zTYSIu8xY4RcnpA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/ec35d0e4-3e07-49bf-bab5-cfa23973adc7/episode-98-do-you-love-me"
 apple: "https://podcasts.apple.com/us/podcast/episode-98-do-you-love-me/id1804618601?i=1000762121271"
-audible: "https://www.audible.com/podcast/Five-Minutes-in-the-Garden-A-Daily-Discussion-of-Gods-Word/B0F2JBFZZ2?source_code=ASSGB149080119000H&share_location=pdp"
+audible: "https://www.audible.com/pd/B0GXPGN2GW?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---

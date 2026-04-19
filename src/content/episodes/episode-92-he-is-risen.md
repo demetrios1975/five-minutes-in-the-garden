@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5UiUf1NXFFkMng3wzLB3Ax?si=AXiGf_EvScm
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/dcef3ace-006a-44e5-ac3c-54af2c2b0c7d/episode-92-he-is-risen"
 apple: "https://podcasts.apple.com/us/podcast/episode-92-he-is-risen/id1804618601?i=1000760912811"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GWS6QHWH?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/on0n4rFnwrk"
 draft: false
 ---
 
