@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/6tOOvDQaKlh2T4nli1Pqme?si=w1P8YEGpTKe
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/73529285-8ee9-4a4b-a5b3-15ccd32a8ba8/episode-99-abide-in-my-love"
 apple: "https://podcasts.apple.com/us/podcast/episode-99-abide-in-my-love/id1804618601?i=1000762228638"
 audible: "https://www.audible.com/pd/B0GXS5XHZW?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/chJw1n243HE"
 draft: false
 ---
 

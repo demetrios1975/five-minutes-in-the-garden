@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2OVRYI9tNquAWj01oqFm1C?si=1GbTEI5rQ6K
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f2649009-b7a3-445d-986b-a9499f10a828/episode-93-peace-be-with-you"
 apple: "https://podcasts.apple.com/us/podcast/episode-93-peace-be-with-you/id1804618601?i=1000761072194"
 audible: "https://www.audible.com/pd/B0GX1F1VCC?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/aFCsaULC_pE"
 draft: false
 ---
 

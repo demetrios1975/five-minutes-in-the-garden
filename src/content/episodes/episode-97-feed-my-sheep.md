@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/3kt7Sl0pnx0jBJKhFISYuw?si=ZN3L_gMhS7q
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/cf6c6d9c-804e-49a5-a4ad-6da91695899f/episode-97-feed-my-sheep"
 apple: "https://podcasts.apple.com/us/podcast/episode-97-feed-my-sheep/id1804618601?i=1000761966431"
 audible: "https://www.audible.com/pd/B0GXKJFLMH?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/s-4H4HNCog4"
 draft: false
 ---
 

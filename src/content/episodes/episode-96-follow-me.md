@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/54IJGPyZPWvxKGB4zlsEGN?si=vnrLkPnyR7m
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f8507a25-317c-4512-bfa5-b0383228910c/episode-96-follow-me"
 apple: "https://podcasts.apple.com/us/podcast/episode-96-follow-me/id1804618601?i=1000761788147"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GWTD13YG?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/w6_87nJ4Oo4"
 draft: false
 ---
 

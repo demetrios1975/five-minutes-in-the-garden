@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1yPjRWSNUgZNolMjjo2ndv?si=DHApvMsFS32
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/5b22a66b-3b71-45a7-85fa-d37ce6393343/episode-95-blessed-are-those-who-have-not-seen"
 apple: "https://podcasts.apple.com/us/podcast/episode-95-blessed-are-those-who-have-not-seen/id1804618601?i=1000761504919"
 audible: "https://www.audible.com/pd/B0GXB21881?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/aNF941jhdtA"
 draft: false
 ---
 

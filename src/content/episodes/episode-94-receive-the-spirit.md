@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/3FwyhtKqcvY1Cou5l3MML8?si=AzpVSeZBRNC
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/86a03fd2-b789-4142-8590-f6856fa467c5/episode-94-receive-the-spirit"
 apple: "https://podcasts.apple.com/us/podcast/episode-94-receive-the-spirit/id1804618601?i=1000761274751"
 audible: "https://www.audible.com/pd/B0GX6LG848?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/i5JANEsk9Jk"
 draft: false
 ---
 

@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4SjXpTh44uxWYy4p6ykry6?si=6MAvYbjrQX-
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/37453cd1-9aa6-4e8f-8c73-e8a3f0591c36/episode-100-that-your-joy-may-be-full"
 apple: "https://podcasts.apple.com/us/podcast/episode-100-that-your-joy-may-be-full/id1804618601?i=1000762372303"
 audible: "https://www.audible.com/pd/B0GXVRHQ3H?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/6KOvFn67WE0"
 draft: false
 ---
 
