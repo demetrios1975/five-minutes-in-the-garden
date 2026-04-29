@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5hUG8jBuH5koP1hjMvhNC5?si=9ip8ekJxSKG
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/1df9a468-0471-4109-b022-49803119133f/episode-102-they-devoted-themselves"
 apple: "https://podcasts.apple.com/us/podcast/episode-102-they-devoted-themselves/id1804618601?i=1000763037673"
 audible: "https://www.audible.com/pd/B0GY4KW4HY?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/YQG8_ncnMFA"
 draft: false
 ---
 

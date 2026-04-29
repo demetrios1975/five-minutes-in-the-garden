@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0y6bt0WNGIczHhTSzc4Wpm?si=uKfk8OwSRtu
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/19adf6c8-ef2b-49c9-b5a8-4b65b23ebe9e/episode-103-all-things-in-common"
 apple: "https://podcasts.apple.com/us/podcast/episode-103-all-things-in-common/id1804618601?i=1000763226710"
 audible: "https://www.audible.com/pd/B0GY8TC5LC?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/9CaUvyGzEds"
 draft: false
 ---
 
