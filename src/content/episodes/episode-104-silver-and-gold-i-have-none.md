@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2UOEZaO2JtGcdZpe8dEx0V?si=N-Acau9dQkO
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/db9042d9-5681-49ca-84b8-9a582f85ac75/episode-104-silver-and-gold-have-i-none"
 apple: "https://podcasts.apple.com/us/podcast/episode-104-silver-and-gold-have-i-none/id1804618601?i=1000763397448"
 audible: "https://www.audible.com/pd/B0GYF41ZN3?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/J5MsYRutVFA"
 draft: false
 ---
 
