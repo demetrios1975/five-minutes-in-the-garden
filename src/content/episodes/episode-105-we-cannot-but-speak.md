@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/3y29CIlQTyq9hUvHa1ZH9Q?si=sf_kG256RZ-
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/c585e633-7972-4771-85f9-646df9680dd6/episode-105-we-cannot-but-speak"
 apple: "https://podcasts.apple.com/us/podcast/episode-105-we-cannot-but-speak/id1804618601?i=1000763544850"
 audible: "https://www.audible.com/pd/B0GYJD9B12?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/lj7dT4Uzvjc"
 draft: false
 ---
 
