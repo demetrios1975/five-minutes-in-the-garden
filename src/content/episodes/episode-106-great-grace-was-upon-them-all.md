@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/6gnq7pQpaf2tiGZbHy1asm?si=HERw5f5YTpC
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038-d34fecb03cb5/episode-106-great-grace-was-upon-them-all"
 apple: "https://podcasts.apple.com/us/podcast/episode-106-great-grace-was-upon-them-all/id1804618601?i=1000763650558"
 audible: "https://www.audible.com/pd/B0GYLKMX7X?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/R-vz555QG90"
 draft: false
 ---
 
