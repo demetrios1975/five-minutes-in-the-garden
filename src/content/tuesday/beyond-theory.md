@@ -4,10 +4,10 @@ date: "2026-05-12"
 series: "Tuesday Transformation"
 scripture: "James 1:22"
 description: "Faith was never meant to remain in the mind alone. Christianity is more than ideas to be studied—it is life in Christ."
-hero: "/images/Tuesday/beyond-theory2.jpg"
+hero: "/images/Tuesday/beyond-theory.jpg"
 iconLeft: "/images/Tuesday/saint-paul-the-apostle.jpg"
 iconRight: "/images/Tuesday/the-potter-and-the-clay.jpg"
-draft: true
+draft: false
 ---
 
 ## Tuesday Transformation
