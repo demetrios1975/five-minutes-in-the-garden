@@ -1,138 +1,138 @@
 ---
-title: "Barnabas Took Him"
-episode: 121
-passage: "Acts 9:27"
-date: "2026-05-11"
-summary: "Barnabas bridges the gap between Saul and the disciples, reminding us that encouragement and trust can become part of another person's healing and growth."
-cover: "/episode-art/episode-121.jpg"
-spotify: "https://open.spotify.com/episode/1G9dHjPrdlWysqqrCM85xZ?si=6lkJDxJST_Clfe1KOSLyuQ"
-amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/0038abe1-cb09-43b3-b19f-61f4d65708e5/episode-121-barnabas-took-him"
-apple: "https://podcasts.apple.com/us/podcast/episode-121-barnabas-took-him/id1804618601?i=1000767187979"
+title: "The Church Had Rest"
+episode: 122
+passage: "Acts 9:31"
+date: "2026-05-12"
+summary: "In seasons of peace, God continues to strengthen, comfort, and grow His Church through steady life with Him."
+cover: "/episode-art/episode-122.jpg"
+spotify: "https://open.spotify.com/episode/1SoHmPPYi9NVdZecyWBvrj?si=QWtOJbrZTxSUjaqftUjLMg"
+amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/40910608-85db-4cb5-b649-c3407429b1cb/episode-122-the-church-had-rest"
+apple: "https://podcasts.apple.com/us/podcast/episode-122-the-church-had-rest/id1804618601?i=1000767380335"
 audible: "https://tinyurl.com/5minAudible"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 ---
 
-Saul has changed.
+The early Church has been through much already.
 
-He has encountered Christ.
+Opposition.
 
-He has begun preaching boldly.
+Persecution.
 
-His life is moving in a completely new direction.
+Fear.
 
-But not everyone trusts him yet.
+Rapid change.
 
-The disciples remember who he was.
+And yet, after all the intensity,
+Scripture gives us a quieter moment.
 
-They hesitate to welcome him.
+A moment of rest.
 
-And honestly, that hesitation makes sense.
+Not because God has stopped working—
 
-Then, one man steps forward.
+but because He is allowing His people
+to grow in peace for a season.
 
-Barnabas.
-
-And with one act of courage and compassion,
-he helps bridge the distance between Saul
-and the community he longed to join.
+And sometimes,
+those quieter seasons
+become deeply important.
 
 ## Scripture Reading
 
-> <sup class="verse-num">27</sup> But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus.
+> <sup class="verse-num">31</sup> Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.
 
 ## Devotional Reflection
 
-Barnabas doesn’t ignore Saul’s past.
+We often think growth happens only through struggle.
 
-He simply believes
-that God’s grace is greater than it.
+And certainly, hardship can shape us.
 
-This matters deeply.
+But peace shapes us too.
 
-Because transformation often requires encouragement
-to continue growing.
+Notice what happens in this season of rest:
 
-Sometimes, one person’s willingness to believe in us
-becomes part of how God leads us forward.
+The Church is edified.
 
-And Barnabas becomes exactly that kind of person.
+Strengthened.
 
-A bridge.
+Comforted.
 
-A comfort.
+Growth continues.
 
-A source of encouragement.
+Not through urgency,
 
-Most of us can remember someone
-who encouraged us at the right moment.
+but through steady life with God.
 
-Someone who gave us a chance.
+Some of us struggle with peaceful seasons.
 
-Someone who saw potential
-when we struggled to see it ourselves.
+When things finally quiet down,
+we become restless.
 
-And perhaps we can also remember moments
-when we needed that support
-but feared rejection instead.
+We expect constant pressure.
 
-Barnabas reminds us
-how powerful encouragement can be.
+Constant movement.
 
-Not dramatic encouragement.
+Constant difficulty.
 
-Faithful encouragement.
+But rest is not weakness.
 
-Today, ask yourself:
+And peace is not wasted time.
 
-Who may need encouragement right now?
+God works in stillness
+as surely as He works in struggle.
 
-Who needs someone to believe in them?
+Today, if you are in a quieter season,
+receive it with gratitude.
 
-To include them?
+Don’t rush to fill every silence.
 
-To speak well of them?
+Don’t assume something is wrong
+simply because life feels calm.
 
-To give them room to grow?
+Use this season well.
 
-And if you’re the one feeling uncertain or unseen,
-remember this:
+Pray deeply.
 
-God often sends encouragement
-through ordinary people
-willing to step forward in kindness.
+Strengthen your foundations.
+
+Walk steadily with God.
+
+Because seasons of peace
+often prepare us
+for what comes next.
 
 ## Closing Prayer
 
 *Lord,*
 
-*Thank You for the people*
-*who have encouraged me along the way.*
+*Thank You for moments of peace*
+*and seasons of rest.*
 
-*For those who showed kindness,*
-*offered support,*
-*and helped me move forward*
-*when I needed it most.*
+*After times of pressure and uncertainty,*
+*You allow space for renewal,*
+*healing,*
+*and steady growth.*
 
-*Teach me to become that kind of person for others.*
+*Teach me not to resist those quieter seasons.*
 
-*Give me eyes to notice*
-*those who feel uncertain, excluded, or overlooked.*
+*When life slows down,*
+*help me not to become restless or distracted.*
 
-*Help me to encourage with sincerity,*
-*to speak life where discouragement has settled,*
-*and to create space for others to grow.*
+*Instead, let me use that time wisely—*
+*to draw closer to You,*
+*to strengthen my faith,*
+*and to grow in wisdom and gratitude.*
 
-*And when I struggle to believe in myself,*
-*remind me that Your grace*
-*is still at work within me.*
+*Let Your peace settle deeply within me.*
 
-*Use my words,*
-*my presence,*
-*and my actions*
-*to reflect Your encouragement to others.*
+*And remind me that rest is not the absence of Your work—*
+*it is often where Your work becomes rooted more deeply.*
 
-*Because even small acts of support*
-*can become part of someone’s healing and growth.*
+*Help me to walk steadily,*
+*with reverence for You*
+*and comfort from Your Spirit.*
+
+*And whether life feels quiet or difficult,*
+*keep me close to You in every season.*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit,*
 *Amen.*
