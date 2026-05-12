@@ -7,7 +7,7 @@ description: "Faith was never meant to remain in the mind alone. Christianity is
 hero: "/images/Tuesday/beyond-theory.jpg"
 iconLeft: "/images/Tuesday/saint-paul-the-apostle.jpg"
 iconRight: "/images/Tuesday/the-potter-and-the-clay.jpg"
-draft: true
+draft: false
 ---
 
 ## Tuesday Transformation
