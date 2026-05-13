@@ -38,7 +38,7 @@ and the community he longed to join.
 
 ## Scripture Reading
 
-> <sup class="verse-num">27</sup> But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus.
+<sup class="verse-num">27</sup> But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus.
 
 ## Devotional Reflection
 

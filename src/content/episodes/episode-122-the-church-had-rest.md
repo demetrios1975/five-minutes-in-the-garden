@@ -38,7 +38,7 @@ become deeply important.
 
 ## Scripture Reading
 
-> <sup class="verse-num">31</sup> Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.
+<sup class="verse-num">31</sup> Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.
 
 ## Devotional Reflection
 
