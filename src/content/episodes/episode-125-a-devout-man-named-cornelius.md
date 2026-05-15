@@ -1,142 +1,147 @@
 ---
-title: "Tabitha, Arise"
-episode: 124
-passage: "Acts 9:40"
-date: "2026-05-14"
-summary: "Peter kneels in prayer and speaks words of life, reminding us that no loss or brokenness is beyond the restoring power of Christ."
-cover: "/episode-art/episode-124.jpg"
-spotify: "https://open.spotify.com/episode/4LsMMTCQiVQjmw3nNJxZCR?si=Sehi4hOSTH205izDwTFOpQ"
-amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/829b2113-3ec0-40ac-a2c7-7ffe73eb7110/episode-124-tabitha-arise"
-apple: "https://podcasts.apple.com/us/podcast/episode-124-tabitha-arise/id1804618601?i=1000767733013"
+title: "A Devout Man Named Cornelius"
+episode: 125
+passage: "Acts 10:2"
+date: "2026-05-15"
+summary: "Cornelius reminds us that God sees every sincere prayer, generous act, and faithful desire to know Him more deeply."
+cover: "/episode-art/episode-125.jpg"
+spotify: "https://open.spotify.com/episode/0O0g4xlth1RAcerPTfw2et?si=LHTewcNxTCGyTTspNoSnUQ"
+amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/a9273e89-4361-4a61-8e8c-04e644a546a1/episode-125-a-devout-man-named-cornelius"
+apple: "https://podcasts.apple.com/us/podcast/episode-125-a-devout-man-named-cornelius/id1804618601?i=1000767931294"
 audible: "https://tinyurl.com/5minAudible"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
-draft: true
 ---
 
-Yesterday, we met Tabitha.
+Sometimes, God is at work in a life
+long before the full story becomes visible.
 
-A faithful disciple.
+That is the case with Cornelius.
 
-A woman full of good works.
+He is not part of the Jewish community.
 
-Someone whose quiet kindness
-had touched many lives.
+He does not yet understand everything.
 
-When she died,
-the community grieved deeply.
+And still, Scripture describes him
+with remarkable words.
 
-The widows gathered,
-holding the garments she had made.
+He is devout.
 
-Tangible reminders
-of a life poured out in love.
+He reveres God.
 
-And into that place of sorrow,
-Peter arrives.
+He gives generously.
 
-He kneels.
+He prays continually.
 
-He prays.
+Before he receives greater clarity,
+his heart is already turned toward God.
 
-And then he speaks
-two simple words.
+And that sincere seeking
+does *not* go unnoticed.
 
 ## Scripture Reading
 
-<sup class="verse-num">40</sup> But Peter put them all forth, and kneeled down, and prayed; and turning him to the body said, Tabitha, arise.
+<sup class="verse-num">2</sup> A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God always.
 
 ## Devotional Reflection
 
-Peter doesn’t rely on his own strength.
+Cornelius isn’t presented as perfect.
 
-He prays first.
+He’s presented as sincere.
 
-He turns to God.
+His life is marked by reverence,
+generosity,
+and prayer.
 
-And then, in the name and power of Christ,
-he speaks words of life.
+And God notices.
 
-This is the heart of the Gospel.
+This is deeply encouraging.
 
-Death does not have the final word.
+The quiet habits of devotion;
 
-Loss is real.
+the prayers no one else hears,
 
-Grief is real.
+the generosity no one else sees,
 
-But Christ’s power is greater still.
+the sincere desire to know God more fully;
 
-Most of us carry places
-that feel lifeless.
+*all* of these matter.
 
-Dreams that seem buried.
+Nothing offered to God in faith
+is overlooked.
 
-Relationships that feel broken.
+Cornelius doesn’t have
+the complete picture yet.
 
-Parts of ourselves
-that appear beyond repair.
+That will come.
 
-We may not know
-how restoration will come.
+But he’s already living
+with openness and sincerity.
 
-But Scripture reminds us
-that *nothing* is beyond God’s reach.
+And often,
+this is how spiritual growth unfolds.
 
-Where He speaks life,
-hope returns.
+We respond to what we know.
 
-Today, place before God
-whatever feels lost or depleted.
+We remain faithful
+in the light we have.
 
-Don’t hide it.
+And in time,
+God reveals more.
 
-Don’t assume it is too far gone.
+Understanding grows,
 
-Pray over it.
+but devotion begins with willingness.
 
-Entrust it to the One
-who brings life
-where none seems possible.
+Don’t underestimate
+the value of steady devotion.
 
-And even if restoration unfolds slowly,
-trust that God is able to work
-in ways you cannot yet see.
+A brief prayer.
+
+A generous act.
+
+A sincere desire
+to know God more deeply.
+
+These things shape the soul.
+
+And even when you don’t yet see
+the whole picture,
+continue faithfully.
+
+God sees the seeking heart.
+
+And He responds.
 
 ## Closing Prayer
 
 *Lord,*
 
-*There are places in my life*
-*that feel tired, wounded, or beyond repair.*
+*You see every sincere prayer,*
+*every quiet act of generosity,*
+*and every desire to know You more deeply.*
 
-*At times I wonder*
-*whether hope is still possible.*
+*Thank You that nothing offered in faith*
+*is unnoticed by You.*
 
-*Yet You are the God*
-*who brings life where none seems to remain.*
+*Strengthen my devotion.*
 
-*Receive what I place before You today.*
+*Help me to remain faithful*
+*in the simple habits that draw me closer to You.*
 
-*Take what feels broken,*
-*what feels buried,*
-*and what feels depleted.*
+*Teach me to pray with sincerity,*
+*to give with an open heart,*
+*and to walk with reverence and gratitude.*
 
-*Breathe Your life into those places.*
+*When I do not yet understand everything,*
+*help me to remain steady*
+*in what I do know.*
 
-*Where grief lingers,*
-*bring comfort.*
+*And as I continue to seek You,*
+*reveal more of Your truth*
+*and more of Your presence.*
 
-*Where hope has faded,*
-*renew it.*
-
-*Where I can see no path forward,*
-*help me trust Your power to restore.*
-
-*Teach me to bring everything to You in prayer,*
-*believing that nothing is beyond Your reach.*
-
-*And let Your life rise within me*
-*where I need it most.*
+*Because You are attentive*
+*to every heart that turns toward You.*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit,*
 *Amen.*
