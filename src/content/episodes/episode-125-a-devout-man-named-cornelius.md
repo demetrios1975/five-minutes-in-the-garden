@@ -8,7 +8,7 @@ cover: "/episode-art/episode-125.jpg"
 spotify: "https://open.spotify.com/episode/0O0g4xlth1RAcerPTfw2et?si=LHTewcNxTCGyTTspNoSnUQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/a9273e89-4361-4a61-8e8c-04e644a546a1/episode-125-a-devout-man-named-cornelius"
 apple: "https://podcasts.apple.com/us/podcast/episode-125-a-devout-man-named-cornelius/id1804618601?i=1000767931294"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-125-A-Devout-Man-Named-Cornelius/B0H1XRGD1S?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 ---
 
