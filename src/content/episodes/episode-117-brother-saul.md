@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5Xwk6zKQOaspigCaugWqsY?si=l3GtsOgiSuW
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/6e9ea6e6-863f-4473-91bb-0b2b84e26c50/episode-117-brother-saul"
 apple: "https://podcasts.apple.com/us/podcast/episode-117-brother-saul/id1804618601?i=1000766597347"
 audible: "https://www.audible.com/pd/B0GZW4QXCG?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/2ZJf-zbO-JA"
 draft: false
 ---
 

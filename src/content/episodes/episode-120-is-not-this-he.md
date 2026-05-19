@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/15K94bB0g1znd2NncA9Uea?si=KvIvkMgLReC
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/e7e7b972-73bf-434f-a7e4-a1cc6f9abcde/episode-120-is-not-this-he"
 apple: "https://podcasts.apple.com/us/podcast/episode-120-is-not-this-he/id1804618601?i=1000767035389"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GWPVHL69?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/tRYQjiFQzf4"
 draft: false
 ---
 

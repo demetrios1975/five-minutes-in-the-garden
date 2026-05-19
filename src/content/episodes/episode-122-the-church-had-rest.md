@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1SoHmPPYi9NVdZecyWBvrj?si=QWtOJbrZTxS
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/40910608-85db-4cb5-b649-c3407429b1cb/episode-122-the-church-had-rest"
 apple: "https://podcasts.apple.com/us/podcast/episode-122-the-church-had-rest/id1804618601?i=1000767380335"
 audible: "https://www.audible.com/podcast/episode-122-The-Church-Had-Rest/B0GRV3N6G3?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/Tz9VpX2rps8"
 ---
 
 The early Church has been through much already.

@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/6yDy5m02tijpCz5UR3YGA7?si=gYKtaWXTQY6
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/48f31657-1306-41a7-aef2-71c7092d554e/episode-111-he-preached-unto-him-jesus"
 apple: "https://podcasts.apple.com/us/podcast/episode-111-he-preached-unto-him-jesus/id1804618601?i=1000765286612"
 audible: "https://www.audible.com/pd/B0GZ848HZN?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/y68zWgReZL4"
 draft: false
 ---
 

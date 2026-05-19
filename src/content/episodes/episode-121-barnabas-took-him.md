@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1G9dHjPrdlWysqqrCM85xZ?si=6lkJDxJST_C
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/0038abe1-cb09-43b3-b19f-61f4d65708e5/episode-121-barnabas-took-him"
 apple: "https://podcasts.apple.com/us/podcast/episode-121-barnabas-took-him/id1804618601?i=1000767187979"
 audible: "https://www.audible.com/podcast/Episode-121-Barnabas-Took-Him/B0GRWQY8Z5?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/uSZ39TujiME"
 ---
 
 Saul has changed.

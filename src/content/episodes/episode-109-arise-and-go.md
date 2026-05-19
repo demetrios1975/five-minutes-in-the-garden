@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/48mr4DI7Uq8gqMJxGA0Qj4?si=o7zkVsMdT9m
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/a08cf05a-65be-4878-9689-4ecf9eba8e1c/episode-109-arise-and-go"
 apple: "https://podcasts.apple.com/us/podcast/episode-109-arise-and-go/id1804618601?i=1000764286076"
 audible: "https://www.audible.com/pd/B0GYXZ24N4?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/yy9WByJ9r5A"
 draft: false
 ---
 

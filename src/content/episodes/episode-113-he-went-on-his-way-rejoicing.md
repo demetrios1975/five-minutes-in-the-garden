@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/77ZeevpLK6HfqlAsufMnzv?si=35H1eXOXQDS
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/76b64416-0c71-4909-b59e-bc1f4d2321da/episode-113-he-went-on-his-way-rejoicing"
 apple: "https://podcasts.apple.com/us/podcast/episode-113-he-went-on-his-way-rejoicing/id1804618601?i=1000765875195"
 audible: "https://www.audible.com/pd/B0GZC6B637?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/MSTgjhe4qcg"
 draft: false
 ---
 

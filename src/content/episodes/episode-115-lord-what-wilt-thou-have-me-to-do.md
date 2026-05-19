@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/6bQfVBxmXBW6reaez5MQFW?si=0pHGoih-TVy
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/c3775b7c-3c66-4b87-b0ca-601a15cd1297/episode-115-lord-what-wilt-thou-have-me-to-do"
 apple: "https://podcasts.apple.com/us/podcast/episode-115-lord-what-wilt-thou-have-me-to-do/id1804618601?i=1000766207690"
 audible: "https://www.audible.com/pd/B0GZKQYV5S?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/sKAlcMvwCug"
 draft: false
 ---
 

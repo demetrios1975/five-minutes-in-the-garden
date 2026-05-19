@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/58uvGUptH8zHAkvx6xfe1n?si=_KpCYizSRkW
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/ea2fddd0-b7f2-43a2-8aa7-98f0991b4162/episode-110-understandest-thou-what-thou-readest"
 apple: "https://podcasts.apple.com/us/podcast/episode-110-understandest-thou-what-thou-readest/id1804618601?i=1000764668280"
 audible: "https://www.audible.com/pd/B0GZ3QZMVH?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/fzeIA_ihXdc"
 draft: false
 ---
 

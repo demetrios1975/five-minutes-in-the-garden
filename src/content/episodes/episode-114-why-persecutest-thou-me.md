@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4FonRLyZG71yesyG5CUVbT?si=qoJEO3IPSWO
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/55605e7e-a31e-4b25-9a90-0d6a44d53a0a/episode-114-why-persecutest-thou-me"
 apple: "https://podcasts.apple.com/us/podcast/episode-114-why-persecutest-thou-me/id1804618601?i=1000766022250"
 audible: "https://www.audible.com/pd/B0GZH5XZ6B?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/X3iZ33KbVWQ"
 draft: false
 ---
 

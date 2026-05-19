@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/3eTNqmTgO5HNh8hYDMFmw1?si=NydnhtQMSC-
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/55bbc803-0646-420c-8d3f-d7ea6474c416/episode-118-he-received-his-sight"
 apple: "https://podcasts.apple.com/us/podcast/episode-118-he-received-his-sight/id1804618601?i=1000766766802"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GXXFHR1Q?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/YwwPHRbHMJc"
 draft: false
 ---
 

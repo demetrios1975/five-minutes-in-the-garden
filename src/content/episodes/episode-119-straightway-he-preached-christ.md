@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0XiMiOfan6ZjUBtJwMcdFU?si=r6W9znzrTbS
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/1c107bce-ce40-40b5-a68c-5ce330747abd/episode-119-straightway-he-preached-christ"
 apple: "https://podcasts.apple.com/us/podcast/episode-119-straightway-he-preached-christ/id1804618601?i=1000766944859"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GX7F6DPK?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/DYBnrpyt4WE"
 draft: false
 ---
 

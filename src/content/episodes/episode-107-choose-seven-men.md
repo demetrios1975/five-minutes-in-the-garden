@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4R8QHXbUgXWxaiiCmpT3vX?si=-llYLV5bT9G
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/29e8f0fd-1d77-4d58-b46c-bb59a3ed4840/episode-107-choose-seven-men"
 apple: "https://podcasts.apple.com/us/podcast/episode-107-choose-seven-men/id1804618601?i=1000763781838"
 audible: "https://www.audible.com/pd/B0GYP2BL1Z?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/4Ubci7Uzbj4"
 draft: false
 ---
 
