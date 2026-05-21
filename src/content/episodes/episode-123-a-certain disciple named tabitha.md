@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2yVaFsazzBaxXbt0Az0aoe?si=-pJOMPq5RgG
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/5d93bd91-d9f0-4c88-86a0-8739eb5d73da/episode-123-a-certain-disciple-named-tabitha"
 apple: "https://podcasts.apple.com/us/podcast/episode-123-a-certain-disciple-named-tabitha/id1804618601?i=1000767554983"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0GZ33CZWX?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/s_jXVC6VCWg"
 ---
 
 The book of Acts is filled with dramatic moments.
