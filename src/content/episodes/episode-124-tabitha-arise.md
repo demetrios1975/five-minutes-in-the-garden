@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4LsMMTCQiVQjmw3nNJxZCR?si=Sehi4hOSTH2
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/829b2113-3ec0-40ac-a2c7-7ffe73eb7110/episode-124-tabitha-arise"
 apple: "https://podcasts.apple.com/us/podcast/episode-124-tabitha-arise/id1804618601?i=1000767733013"
 audible: "https://www.audible.com/podcast/Episode-124-Tabitha-Arise/B0H1ST1M5Z?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/n0H6zCsSbmQ"
 ---
 
 Yesterday, we met Tabitha.
