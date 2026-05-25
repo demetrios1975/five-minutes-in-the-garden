@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/15RCxJWl7ev2hN7yzhCcUp?si=6KvlX6p9TU6
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/5b051217-5ed5-49f9-9a7f-8a3e7a268944/episode-127-what-god-hath-cleansed"
 apple: "https://podcasts.apple.com/us/podcast/episode-127-what-god-hath-cleansed/id1804618601?i=1000768236916"
 audible: "https://www.audible.com/pd/B0H23HWMFC?source_code=ASSGB149080119000H&share_location=pdphttps://www.audible.com/pd/B0H23HWMFC?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/_xjBIB0oWic"
 draft: false
 ---
 

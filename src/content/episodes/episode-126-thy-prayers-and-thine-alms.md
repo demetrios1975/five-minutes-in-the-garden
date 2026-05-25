@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/3JH72fOQLcxt2Swu8aLdkP?si=N1KboqWOR--
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/be00c9de-aa12-401d-a924-91bad11b53b4/episode-126-thy-prayers-and-thine-alms"
 apple: "https://podcasts.apple.com/us/podcast/episode-126-thy-prayers-and-thine-alms/id1804618601?i=1000768099376"
 audible: "https://www.audible.com/pd/B0H228KT7B?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/f4xRWyU23rc"
 ---
 
 Yesterday, we met Cornelius.
