@@ -7,7 +7,7 @@ description: "The faith is not something we invent for ourselves. It is somethin
 hero: "/images/Tuesday/the-faith-we-receive.jpg"
 iconLeft: "/images/Tuesday/saint-paul-the-apostle.jpg"
 iconRight: "/images/Tuesday/the-potter-and-the-clay.jpg"
-draft: true
+draft: false
 ---
 
 ## Tuesday Transformation
