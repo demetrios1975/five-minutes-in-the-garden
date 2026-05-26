@@ -37,7 +37,7 @@ he speaks words filled with wonder and gratitude.
 
 ## Scripture Reading
 
-> <sup class="verse-num">11</sup> And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.
+<sup class="verse-num">11</sup> And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.
 
 ## Devotional Reflection
 

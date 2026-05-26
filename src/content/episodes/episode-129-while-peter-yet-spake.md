@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5UnIYXfFQmTw4FKqB9ZdmJ?si=rh9NTbYPSJe
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f205cb75-61fe-4d4d-95aa-f4ad6b022d7d/episode-129-while-peter-yet-spake"
 apple: "https://podcasts.apple.com/us/podcast/episode-129-while-peter-yet-spake/id1804618601?i=1000768537178"
 audible: "https://www.audible.com/pd/B0H29DB4YF?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/PQjlH1tzKsI"
 draft: true
 ---
 

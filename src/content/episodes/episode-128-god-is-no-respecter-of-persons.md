@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2rA0ln3AMtQehUJvdHsBH7?si=vofNOCKxTvy
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/379b906d-e58c-4d48-83f4-a8582573e18d/episode-128-god-is-no-respecter-of-persons"
 apple: "https://podcasts.apple.com/us/podcast/episode-128-god-is-no-respecter-of-persons/id1804618601?i=1000768369687"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0H1T5WZQX?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/YsFSUhb22Ww"
 draft: true   
 ---
 
