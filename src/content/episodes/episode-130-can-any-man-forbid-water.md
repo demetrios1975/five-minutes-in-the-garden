@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5mFZuf7vcnIjizZ7cwPML9?si=T71Pv5xURoW
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/6636b975-eb9d-4e50-bd3a-f9a184598374/episode-130-can-any-man-forbid-water"
 apple: "https://podcasts.apple.com/us/podcast/episode-130-can-any-man-forbid-water/id1804618601?i=1000768716307"
 audible: "https://www.audible.com/pd/B0H2DNR7R6?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/wwoAc9ahKO0"
 draft: false
 ---
 
