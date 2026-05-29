@@ -8,7 +8,7 @@ cover: "/episode-art/episode-138.jpg"
 spotify: "https://open.spotify.com/episode/3q4xvUu5zuiN2DoCQUUOe9?si=qyaK7OBITkqafkK-bSOdpA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/e9017665-0bf5-4f57-b3c6-aed9189cd47f/episode-138-whose-heart-the-lord-opened"
 apple: "https://podcasts.apple.com/us/podcast/episode-138-whose-heart-the-lord-opened/id1804618601?i=1000769978747"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/pd/B0H381SSGD?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
