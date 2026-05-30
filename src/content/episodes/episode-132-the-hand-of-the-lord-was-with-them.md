@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4Bk4nfrApAK5ZvgD3L6MIq?si=S7H78O7NSVu
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/99c151ba-fd9f-4f80-abb9-c0196db0afd4/episode-132-the-hand-of-the-lord-was-with-them"
 apple: "https://podcasts.apple.com/us/podcast/episode-132-the-hand-of-the-lord-was-with-them/id1804618601?i=1000769058828"
 audible: "https://www.audible.com/pd/B0H2MTTPXH?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/rFEERdQum-U"
 draft: true
 ---
 
