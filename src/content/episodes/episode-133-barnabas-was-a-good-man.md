@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/64Fk8IcwjGoHJhLQVLBLkY?si=OmK7gIn6So2
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/c835a40f-1e91-4c0a-a244-eacb77f3ebb2/episode-133-barnabas-was-a-good-man"
 apple: "https://tinyurl.com/FiveMinutesonApple"
 audible: "https://podcasts.apple.com/us/podcast/episode-133-barnabas-was-a-good-man/id1804618601?i=1000769205235"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/wB43aA2KCC0"
 draft: true
 ---
 
