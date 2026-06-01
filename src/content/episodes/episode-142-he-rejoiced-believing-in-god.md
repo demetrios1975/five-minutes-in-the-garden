@@ -74,8 +74,6 @@ now rejoices.
 Because trust in God
 begins to displace despair.
 
-### Reflection: Where Lasting Joy Comes From
-
 Many people search constantly
 for peace and joy.
 
@@ -104,8 +102,6 @@ That hope is real.
 And even in difficult seasons,
 
 that kind of joy can remain.
-
-### Application: Let Faith Reshape the Heart
 
 Today,
 bring your anxieties
