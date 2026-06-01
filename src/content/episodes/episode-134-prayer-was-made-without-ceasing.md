@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2Kcxr8e7Nb3rU3mjYjPE94?si=2L8t-XcqSVC
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/7f3b6896-0ab3-4186-8ca5-f95b9103d0bb/episode-134-prayer-was-made-without-ceasing"
 apple: "https://podcasts.apple.com/us/podcast/episode-134-prayer-was-made-without-ceasing/id1804618601?i=1000769320385"
 audible: "https://www.audible.com/pd/B0H2S42YCG?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/NAuxaxwqGWg"
 draft: true
 ---
 
