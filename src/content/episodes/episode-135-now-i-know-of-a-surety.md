@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0w4P6QZpO070EtWpfy1t4S?si=YcUalPSrRr2
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/5d67556a-2b97-487c-8271-d752d1adf4f4/episode-135-now-i-know-of-a-surety"
 apple: "https://podcasts.apple.com/us/podcast/episode-135-now-i-know-of-a-surety/id1804618601?i=1000769462132"
 audible: "https://www.audible.com/pd/B0H2VY8BS2?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/fFhDixoGNI0"
 draft: true
 ---
 

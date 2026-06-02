@@ -7,7 +7,7 @@ description: "The witness of Saint Demetrius of Philadelphia reminds us that fai
 hero: "/images/Tuesday/faithfulness-in-uncertain-times.jpg"
 iconLeft: "/images/Tuesday/saint-paul-the-apostle.jpg"
 iconRight: "/images/Tuesday/the-potter-and-the-clay.jpg"
-draft: true
+draft: false
 ---
 
 ## Tuesday Transformation
