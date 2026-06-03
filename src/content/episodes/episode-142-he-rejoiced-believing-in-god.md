@@ -8,7 +8,7 @@ cover: "/episode-art/episode-142.jpg"
 spotify: "https://open.spotify.com/episode/6kYt6AVSxrklahziBljQtD?si=O6TGm7LxS_mLJhbxOn8xZg"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/84ecf2d2-5d3a-4d11-acae-ac722cd6f463/episode-142-he-rejoiced-believing-in-god"
 apple: "https://podcasts.apple.com/us/podcast/episode-142-he-rejoiced-believing-in-god/id1804618601?i=1000770552772"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/pd/B0H3QDL75H?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: true
 ---
