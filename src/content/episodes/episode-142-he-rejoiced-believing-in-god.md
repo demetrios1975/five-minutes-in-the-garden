@@ -10,7 +10,7 @@ amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/
 apple: "https://podcasts.apple.com/us/podcast/episode-142-he-rejoiced-believing-in-god/id1804618601?i=1000770552772"
 audible: "https://www.audible.com/pd/B0H3QDL75H?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
-draft: true
+draft: false
 ---
 
 The jailer’s night began in fear.

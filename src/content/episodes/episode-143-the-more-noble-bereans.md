@@ -8,9 +8,9 @@ cover: "/episode-art/episode-143.jpg"
 spotify: "https://open.spotify.com/episode/3SI7UgGtgHE01mN3uODcXl?si=tZH3rPC_R--OL_VFR4uvXw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/54d22f3f-c539-4e73-92fb-29c6b9f2225a/episode-143-the-more-noble-bereans"
 apple: "https://podcasts.apple.com/us/podcast/episode-143-the-more-noble-bereans/id1804618601?i=1000770746525"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/pd/B0H3WCPZCK?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
-draft: true
+draft: false
 ---
 
 Paul continues his journey,

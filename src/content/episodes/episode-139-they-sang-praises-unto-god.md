@@ -10,7 +10,7 @@ amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/
 apple: "https://podcasts.apple.com/us/podcast/episode-139-they-sang-praises-unto-god/id1804618601?i=1000770152895"
 audible: "https://www.audible.com/pd/B0H39RBJXQ?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
-draft: true
+draft: false
 ---
 
 Paul and Silas have been beaten and imprisoned.

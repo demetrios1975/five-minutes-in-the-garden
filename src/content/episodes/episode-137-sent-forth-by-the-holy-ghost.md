@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4rXJdia02EwMKlutBGZhHX?si=G3wSVVFZSkC
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f8771560-28d0-494c-aa0c-1b793a48fc01/episode-137-sent-forth-by-the-holy-ghost"
 apple: "https://podcasts.apple.com/us/podcast/episode-137-sent-forth-by-the-holy-ghost/id1804618601?i=1000769801470"
 audible: "https://www.audible.com/pd/B0H34CW249?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/YnFpSozNMBs"
 draft: true
 
 ---

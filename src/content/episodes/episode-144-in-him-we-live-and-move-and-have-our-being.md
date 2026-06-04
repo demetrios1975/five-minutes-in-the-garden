@@ -10,7 +10,7 @@ amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/
 apple: "https://podcasts.apple.com/us/podcast/episode-144-in-him-we-live-and-move-and-have-our-being/id1804618601?i=1000770923443"
 audible: "https://tinyurl.com/5minAudible"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
-draft: true
+draft: false
 ---
 
 As Paul speaks in Athens,
@@ -170,4 +170,5 @@ within the care of God.
 *and have my being.*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit,*
+
 *Amen.*
