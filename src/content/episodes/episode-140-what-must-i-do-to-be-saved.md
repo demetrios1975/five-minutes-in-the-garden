@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/7wjqVg6dYUF9xZwY4d5pZG?si=fB7pcfi9Tia
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/171068d2-db3f-4a87-9166-da826b6ef32f/episode-140-what-must-i-do-to-be-saved"
 apple: "https://podcasts.apple.com/us/podcast/episode-140-what-must-i-do-to-be-saved/id1804618601?i=1000770312380"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0H3CBK182?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/ZrNVFPYGRfs"
 draft: false
 ---
 

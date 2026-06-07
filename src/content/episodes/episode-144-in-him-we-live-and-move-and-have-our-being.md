@@ -8,9 +8,9 @@ cover: "/episode-art/episode-144.jpg"
 spotify: "https://open.spotify.com/episode/4bC3VNYfprJGCTNI2EbhjP?si=cRNwzXfdTISFXYMoFdDuoA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/448eaa82-7208-4c01-b7bd-bb93f9f1f6fe/episode-144-in-him-we-live-and-move-and-have-our-being"
 apple: "https://podcasts.apple.com/us/podcast/episode-144-in-him-we-live-and-move-and-have-our-being/id1804618601?i=1000770923443"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/pd/B0H49G6VXW?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
-draft: false
+draft: true
 ---
 
 As Paul speaks in Athens,
