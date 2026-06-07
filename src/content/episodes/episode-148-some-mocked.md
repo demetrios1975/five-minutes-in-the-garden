@@ -6,9 +6,9 @@ date: "2026-06-07"
 summary: "The value of God’s truth does not depend on how people respond to it. Our calling is to remain faithful and trust God with the results."
 cover: "/episode-art/episode-148.jpg"
 spotify: "https://open.spotify.com/episode/6oVGJ1iqYvCkdqrCxZtVVK?si=3alh6A48RbGcgemB_aHeig"
-amazon: "https://tinyurl.com/5MinutesInTheGarden"
-apple: "https://tinyurl.com/FiveMinutesonApple"
-audible: "https://tinyurl.com/5minAudible"
+amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/five-minutes-in-the-garden-a-daily-discussion-of-gods-word"
+apple: "https://podcasts.apple.com/us/podcast/episode-148-some-mocked/id1804618601?i=1000771532892"
+audible: "https://www.audible.com/pd/B0H4CZCZH3?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
