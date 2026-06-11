@@ -7,10 +7,10 @@ summary: "Our hope rests not in our own strength, but in the faithfulness of God
 cover: "/episode-art/episode-151.jpg"
 spotify: "https://open.spotify.com/episode/5uRLA66kk8qbzgrtf29lHv?si=Znpf7mtbSsSx-AIA1iujJA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/eccfffbc-15bf-4768-9313-738305c21e2b/episode-151-he-which-hath-begun-a-good-work-in-you"
-apple: "https://tinyurl.com/FiveMinutesonApple"
-audible: "https://podcasts.apple.com/us/podcast/episode-151-he-which-hath-begun-a-good-work-in-you/id1804618601?i=1000772007707"
+apple: "https://podcasts.apple.com/us/podcast/episode-151-he-which-hath-begun-a-good-work-in-you/id1804618601?i=1000772007707"
+audible: "https://www.audible.com/pd/B0H4QWM925?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
-draft: true
+draft: false
 ---
 
 As we begin a new journey

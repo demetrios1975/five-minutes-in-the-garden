@@ -10,7 +10,7 @@ amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/
 apple: "https://podcasts.apple.com/us/podcast/episode-149-we-will-hear-thee-again-of-this-matter/id1804618601?i=1000771661544"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0H3W9WTF9?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
-draft: true
+draft: false
 ---
 
 Paul has been speaking in Athens.
