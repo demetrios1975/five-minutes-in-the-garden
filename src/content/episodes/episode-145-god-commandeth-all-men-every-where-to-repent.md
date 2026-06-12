@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5E0FoaEeGg95EF4QLS7ISa?si=q7rYh-trSwi
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/3c448a67-764e-4109-be0b-ff0fb8a1b201/episode-145-god-commandeth-all-men-every-where-to-repent"
 apple: "https://podcasts.apple.com/us/podcast/episode-145-god-commandeth-all-men-every-where-to-repent/id1804618601?i=1000771136873"
 audible: "https://www.audible.com/pd/B0H4248DNY?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/2W79CfCdoiY"
 draft: false
 ---
 
