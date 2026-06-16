@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/6oVGJ1iqYvCkdqrCxZtVVK?si=3alh6A48RbG
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/five-minutes-in-the-garden-a-daily-discussion-of-gods-word"
 apple: "https://podcasts.apple.com/us/podcast/episode-148-some-mocked/id1804618601?i=1000771532892"
 audible: "https://www.audible.com/pd/B0H4CZCZH3?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/enDxF3kGXEc"
 draft: false
 ---
 

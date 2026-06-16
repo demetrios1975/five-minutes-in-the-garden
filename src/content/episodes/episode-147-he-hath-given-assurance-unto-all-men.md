@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5yKHLW09U1Pus9LTLn30pA?si=3oEn6u2nQXq
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/731acd41-e324-418d-9e2f-6c3400adefe5/episode-147-he-hath-given-assurance-unto-all-men"
 apple: "https://podcasts.apple.com/us/podcast/episode-147-he-hath-given-assurance-unto-all-men/id1804618601?i=1000771436988"
 audible: "https://www.audible.com/pd/B0H46L85LY?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/kXWMbfyc3YU"
 draft: true
 ---
 
