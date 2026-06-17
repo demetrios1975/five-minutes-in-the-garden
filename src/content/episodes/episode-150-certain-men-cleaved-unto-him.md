@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/0piUOr7uRALfyyJfFc7NKo?si=AKeYK_ZFTou
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/ab95a7c6-8474-4de6-a963-9b84fa77dd90/episode-150-certain-men-cleaved-unto-him"
 apple: "https://podcasts.apple.com/us/podcast/episode-150-certain-men-cleaved-unto-him/id1804618601?i=1000771840409"
 audible: "https://www.audible.com/pd/B0H4LMZH7B?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/ofDoJQ5x-ek"
 draft: false
 ---
 
