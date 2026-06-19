@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/2TF3ADfSEnQmvxeOIreEXP?si=yIJcQHdvTKm
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/ebdb40aa-b217-4ffa-8943-d7118cdb7f4c/episode-152-for-me-to-live-is-christ"
 apple: "https://podcasts.apple.com/us/podcast/episode-152-for-me-to-live-is-christ/id1804618601?i=1000772187183"
 audible: "https://www.audible.com/pd/B0H4V9M4T5?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/FSJgcJkxF5w"
 draft: false
 ---
 
