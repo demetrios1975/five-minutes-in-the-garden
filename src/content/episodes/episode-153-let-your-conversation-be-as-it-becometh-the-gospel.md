@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4H97vYKjHU5DkYEdtj9XdK?si=ceWbyqYxRdS
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/afe91560-924f-46b6-af68-1c42ef624e68/episode-153-let-your-conversation-be-as-it-becometh-the-gospel"
 apple: "https://podcasts.apple.com/us/podcast/episode-153-let-your-conversation-be-as-it-becometh/id1804618601?i=1000772342412"
 audible: "https://www.audible.com/pd/B0H4ZJ63NJ?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/GT78s-2qfHE?si=kPvvFpzDXF4o0mYQ"
 draft: false
 ---
 
