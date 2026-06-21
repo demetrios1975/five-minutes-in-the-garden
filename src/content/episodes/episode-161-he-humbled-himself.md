@@ -8,7 +8,7 @@ cover: "/episode-art/episode-161.jpg"
 spotify: "https://open.spotify.com/episode/5mZ7zaM5vv1USGfqahG7RG?si=ZRy2kXp6QOiO7f1ehQvCoA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/650a6f02-b847-4957-a1d5-44e5c78b3c36/episode-161-he-humbled-himself"
 apple: "https://podcasts.apple.com/us/podcast/episode-161-he-humbled-himself/id1804618601?i=1000773511632"
-audible: "https://www.audible.com/pd/B0H658ZD6W?source_code=ASSGB149080119000H&share_location=pdp"
+audible: "https://tinyurl.com/5minAudible"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---

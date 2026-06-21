@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4SC5MKUBK55C7qIK1npXqq?si=yHJs7ID-Rxi
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/e075114f-d975-493a-9ea2-76b3e054773a/episode-154-stand-fast-in-one-spirit"
 apple: "https://podcasts.apple.com/us/podcast/episode-154-stand-fast-in-one-spirit/id1804618601?i=1000772514066"
 audible: "https://www.audible.com/podcast/ITEM_NAME/B0H3XK6N1V?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/CEfkpK027KM"
 draft: false
 ---
 
