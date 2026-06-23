@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1xAkuzQrduoOAWFr4Q0bus?si=7j3MK2lFT4S
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/650a6f02-b847-4957-a1d5-44e5c78b3c36/episode-161-he-humbled-himself"
 apple: "https://podcasts.apple.com/us/podcast/episode-162-wherefore-god-also-hath-highly-exalted-him/id1804618601?i=1000773592562"
 audible: "https://tinyurl.com/5minAudible"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://www.audible.com/podcast/Episode-162-Wherefore-God-Also-Hath-Highly-Exalted-Him/B0H54T1XSG?source_code=ASSGB149080119000H&share_location=pdp"
 draft: false
 ---
 
