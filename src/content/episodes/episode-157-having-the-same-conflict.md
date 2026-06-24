@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5vtDFLIBVDolEACwlgfvBV?si=8nC4VLCYRoC
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/2f41b462-77cd-4d39-9981-97b046d560f9/episode-157-having-the-same-conflict"
 apple: "https://podcasts.apple.com/us/podcast/episode-157-having-the-same-conflict/id1804618601?i=1000772936797"
 audible: "https://www.audible.com/pd/B0H5K54LC7?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/qXNw1vhvoO4"
 draft: false
 ---
 
