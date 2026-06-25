@@ -8,7 +8,7 @@ cover: "/episode-art/episode-163.jpg"
 spotify: "https://open.spotify.com/episode/30IAizDttRR4BZJgjAd6Zg?si=tvuP5WMuQqqcHd2vBm0Gug"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/bb438e4d-696a-4d92-b79e-511bc22c167f/episode-163-that-at-the-name-of-jesus"
 apple: "https://podcasts.apple.com/us/podcast/episode-163-that-at-the-name-of-jesus/id1804618601?i=1000773708566"
-audible: "https://www.audible.com/pd/B0H69VLBB2?source_code=ASSGB149080119000H&share_location=pdp"
+audible: "https://www.audible.com/podcast/Episode-163-That-at-the-Name-of-Jesus/B0H69VLBB2?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 
 draft: false
