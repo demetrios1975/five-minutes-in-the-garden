@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/3nlBWzp2jW0RahJhaQY8q8?si=lGWEIxrJTWC
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/88c7331e-ab1f-4358-a9f8-57a746c4ea89/episode-158-let-this-mind-be-in-you"
 apple: "https://podcasts.apple.com/us/podcast/episode-158-let-this-mind-be-in-you/id1804618601?i=1000773098536"
 audible: "https://www.audible.com/pd/B0H5QS6DXB?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/C5sHnZUJWqQ"
 draft: false
 ---
 
