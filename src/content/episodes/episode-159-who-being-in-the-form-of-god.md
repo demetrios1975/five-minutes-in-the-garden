@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/62fUD2YQsalZCSEubzmIbS?si=PUklmJ1FSDe
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/4daaa8e1-7127-4890-aff5-daca19184c85/episode-159-who-being-in-the-form-of-god"
 apple: "https://podcasts.apple.com/us/podcast/episode-159-who-being-in-the-form-of-god/id1804618601?i=1000773247245"
 audible: "https://www.audible.com/pd/B0H5WRSSHN?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/N9Zq3uCoH9g"
 draft: false
 ---
 
