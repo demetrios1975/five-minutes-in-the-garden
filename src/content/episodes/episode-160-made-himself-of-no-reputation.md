@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/6m4p1cP0lZTXoKPzRVeilH?si=bns7RaP2RO6
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/5a3c985f-4e53-46a5-9cd4-231de98e7bc8/episode-160-made-himself-of-no-reputation"
 apple: "https://podcasts.apple.com/us/podcast/episode-160-made-himself-of-no-reputation/id1804618601?i=1000773391318"
 audible: "https://www.audible.com/pd/B0H629RN1Z?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/8z3aNgc5biY"
 draft: false
 ---
 
