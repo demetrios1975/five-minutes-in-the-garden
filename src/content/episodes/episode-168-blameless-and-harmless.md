@@ -8,7 +8,7 @@ cover: "/episode-art/episode-168.jpg"
 spotify: "https://open.spotify.com/episode/4CZUYPgqGIzsqEVZAeyJz9?si=7vM2vsT_TwG-mwjH7uCF7g"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/c9494760-71f4-46d9-a760-dfe6723b4ddf/episode-168-blameless-and-harmless"
 apple: "https://podcasts.apple.com/us/podcast/episode-168-blameless-and-harmless/id1804618601?i=1000774457602"
-audible: "https://www.audible.com/pd/B0H6SFC965?source_code=ASSGB149080119000H&share_location=pdp"
+audible: "https://www.audible.com/podcast/Episode-168-Blameless-and-Harmless/B0H6SFC965?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
