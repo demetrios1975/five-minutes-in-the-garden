@@ -8,7 +8,7 @@ cover: "/episode-art/episode-171.jpg"
 spotify: "https://open.spotify.com/episode/3CktAB4WH0FjdXy0FdMIbl?si=rp7Ah44CQLeWAQkdVBfYcw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/1adb841c-f77c-4eb7-adc3-d0d2b1dd64bf/episode-171-do-ye-also-joy"
 apple: "https://podcasts.apple.com/us/podcast/episode-171-do-ye-also-joy/id1804618601?i=1000774823958&itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1000774823958"
-audible: "https://www.audible.com/pd/B0H71G27YQ?source_code=ASSGB149080119000H&share_location=pdp"
+audible: "https://www.audible.com/podcast/Episode-171-Do-Ye-Also-Joy/B0H71G27YQ?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---

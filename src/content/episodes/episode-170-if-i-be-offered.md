@@ -7,7 +7,7 @@ summary: "Paul reminds us that a life offered faithfully to God is never wasted.
 cover: "/episode-art/episode-170.jpg"
 spotify: "https://open.spotify.com/episode/0lTmFG5wKRjXM0ouVpNbM5?si=Cspak9a4RzmFfCZEl82IGA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/9822befa-e9a0-4e19-8ab9-6a641768f67b/episode-170-if-i-be-offered"
-apple: "https://podcasts.apple.com/us/podcast/episode-170-if-i-be-offered/id1804618601?i=1000774669109"
+apple: "https://www.audible.com/podcast/Episode-170-If-I-Be-Offered/B0H6X1XNNG?source_code=ASSGB149080119000H&share_location=pdp"
 audible: "https://tinyurl.com/5minAudible"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
