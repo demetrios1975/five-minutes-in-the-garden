@@ -8,7 +8,7 @@ cover: "/episode-art/episode-172.jpg"
 spotify: "https://open.spotify.com/episode/2KsZxQUvY8wDcbnNmwsICi?si=NW3vIoLKSRy1fwBU5ekQxg"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/d6f5e214-eec0-4233-aa33-bed375f3e506/episode-172-i-trust-in-the-lord-jesus"
 apple: "https://podcasts.apple.com/us/podcast/episode-172-i-trust-in-the-lord-jesus/id1804618601?i=1000774951204"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-172-I-Trust-in-the-Lord-Jesus/B0H74BVLDS?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---

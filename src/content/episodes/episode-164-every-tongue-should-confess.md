@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/46TYCQSlca0HbKGCSjDxw8?si=md2w77g4SAq
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f696ca10-6d3e-491a-ba68-266ad3ca0f1f/episode-164-every-tongue-should-confess"
 apple: "https://podcasts.apple.com/us/podcast/episode-164-every-tongue-should-confess/id1804618601?i=1000773864228"
 audible: "https://www.audible.com/podcast/Episode-164-Every-Tongue-Should-Confess/B0H6G35JHK?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/PhCTPEsgz6Q"
 draft: false
 ---
 
