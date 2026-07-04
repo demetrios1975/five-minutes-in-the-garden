@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1FKunyzlB47pt8NibNwqmP?si=g_Cqr9SXRw2
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/245ec18f-06c6-4901-8805-89eb59a17088/episode-165-work-out-your-own-salvation"
 apple: "https://podcasts.apple.com/us/podcast/episode-165-work-out-your-own-salvation/id1804618601?i=1000774016064"
 audible: "https://www.audible.com/podcast/Episode-165-Work-Out-Your-Own-Salvation/B0H6JK1YC3?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/P6h4xvPDOBc"
 draft: false
 ---
 

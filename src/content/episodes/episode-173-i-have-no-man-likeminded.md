@@ -8,7 +8,7 @@ cover: "/episode-art/episode-173.jpg"
 spotify: "https://open.spotify.com/episode/5RTMWUBKWfYnLPJdgkls7C?si=6NQJ4ML2S4CYcgPJfG2WxQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/01645914-a714-4720-9a22-cb2eccac52c7/episode-173-i-have-no-man-likeminded"
 apple: "https://podcasts.apple.com/us/podcast/episode-173-i-have-no-man-likeminded/id1804618601?i=1000775139436"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/ITEM_NAME/B0H7BG2RC8?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
