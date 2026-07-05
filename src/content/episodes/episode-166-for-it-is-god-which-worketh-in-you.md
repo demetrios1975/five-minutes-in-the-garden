@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1DXzhWxkASZDMIKFdoqzV0?si=Kzs6fttaTQi
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/8037e54a-5052-404b-9683-a9f1da77f146/episode-166-for-it-is-god-which-worketh-in-you"
 apple: "https://podcasts.apple.com/us/podcast/episode-166-for-it-is-god-which-worketh-in-you/id1804618601?i=1000774163188"
 audible: "https://www.audible.com/podcast/Episode-166-For-It-Is-God-Which-Worketh-in-You/B0H4T6J934?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/Or-fDrTTyHY"
 draft: false
 ---
 
