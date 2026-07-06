@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/1nGHQ6vFYvEc4LhSRqRxFL?si=HBjZ5vGUTt2
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/5e893897-3517-4553-8121-c3c9b557b7bd/episode-167-do-all-things-without-murmurings-and-disputings"
 apple: "https://podcasts.apple.com/us/podcast/episode-167-do-all-things-without-murmurings-and/id1804618601?i=1000774320967"
 audible: "https://www.audible.com/podcast/Episode-167-Do-All-Things-Without-Murmurings-and-Disputings/B0H6PPRL8D?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/_MHQgfm8KxQ"
 draft: false
 ---
 

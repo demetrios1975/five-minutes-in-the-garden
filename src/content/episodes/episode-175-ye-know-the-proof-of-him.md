@@ -8,7 +8,7 @@ cover: "/episode-art/episode-175.jpg"
 spotify: "https://open.spotify.com/episode/3ECkOhqNCVau3tZAiEhdYp?si=iVxEci_lQU29rwZQyCKtMQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/160e3291-b21c-410f-8464-0c641577c8fe/episode-175-ye-know-the-proof-of-him"
 apple: "https://podcasts.apple.com/us/podcast/episode-175-ye-know-the-proof-of-him/id1804618601?i=1000775429305"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-175-Ye-Know-the-Proof-of-Him/B0H7MLYNT5?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
