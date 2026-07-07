@@ -1,6 +1,6 @@
 ---
 title: "The Quiet Preparation of God"
-date: "2026-06-30"
+date: "2026-07-07"
 series: "Tuesday Transformation"
 scripture: "Luke 1:76–79"
 description: "The Nativity of St. John the Baptist reminds us that God often accomplishes His greatest work long before anyone else can see it. Seasons of silence are often seasons of preparation."
