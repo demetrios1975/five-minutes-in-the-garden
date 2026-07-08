@@ -8,7 +8,7 @@ cover: "/episode-art/episode-177.jpg"
 spotify: "https://open.spotify.com/episode/3oi6B2zt0Hujawhyz3ovBx?si=L710NPZzQFSlUPGwXCXQLA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/deed7952-37bc-4c78-9837-557f32744144/episode-177-my-brother-and-companion-in-labour"
 apple: "https://podcasts.apple.com/us/podcast/episode-177-my-brother-and-companion-in-labour/id1804618601?i=1000775618177"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-177-My-Brother-and-Companion-in-Labour/B0H7L5N1VH?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
