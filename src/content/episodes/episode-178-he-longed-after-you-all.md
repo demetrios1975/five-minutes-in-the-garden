@@ -8,7 +8,7 @@ cover: "/episode-art/episode-178.jpg"
 spotify: "https://open.spotify.com/episode/3HRtj6eWVAJjpwpJ6ueAW1?si=ErfYix-3T8CsiKg-fzyacg"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/48609351-bee0-4312-9320-a86435e9ad68/episode-178-he-longed-after-you-all"
 apple: "https://podcasts.apple.com/us/podcast/episode-178-he-longed-after-you-all/id1804618601?i=1000775767677"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-178-He-Longed-After-You-All/B0H7PW8GG5?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
