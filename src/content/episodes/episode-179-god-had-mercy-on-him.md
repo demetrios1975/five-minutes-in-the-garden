@@ -8,7 +8,7 @@ cover: "/episode-art/episode-179.jpg"
 spotify: "https://open.spotify.com/episode/0hWstWS8cYe1tzyeoLJLdg?si=EmkWw9A3QIO04T6GKVwXkw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/3fa50142-8199-4d81-834a-8f579141679b/episode-179-god-had-mercy-on-him"
 apple: "https://podcasts.apple.com/us/podcast/episode-179-god-had-mercy-on-him/id1804618601?i=1000775933105"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-179-God-Had-Mercy-on-Him/B0H832RXQS?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
