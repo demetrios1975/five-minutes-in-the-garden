@@ -8,7 +8,7 @@ cover: "/episode-art/episode-180.jpg"
 spotify: "https://open.spotify.com/episode/1ulNksIlakKDQvF2UP2kdV?si=3TH0p34CQF-lup8Hg-Jr_Q"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/73a445c6-4959-4a3c-b210-c38c401078bd/episode-180-receive-him-therefore-in-the-lord"
 apple: "https://podcasts.apple.com/us/podcast/episode-180-receive-him-therefore-in-the-lord/id1804618601?i=1000776094752"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-180-Receive-Him-Therefore-in-the-Lord/B0H8351YNM?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
