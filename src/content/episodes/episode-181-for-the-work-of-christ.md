@@ -8,7 +8,7 @@ cover: "/episode-art/episode-181.jpg"
 spotify: "https://open.spotify.com/episode/7h3TpJqgCidbClm4LBM07d?si=BDg3i6ObSWGSDfjthK0EcA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/4098d36f-a9f6-4eb5-b069-68ec65d7b559/episode-181-for-the-work-of-christ"
 apple: "https://podcasts.apple.com/us/podcast/episode-181-for-the-work-of-christ/id1804618601?i=1000776237362"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-181-For-the-Work-of-Christ/B0H7SBYNJV?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
