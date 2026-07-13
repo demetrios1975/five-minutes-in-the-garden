@@ -8,7 +8,7 @@ cover: "/episode-art/episode-182.jpg"
 spotify: "https://open.spotify.com/episode/0fbtqoBhMML1cOH44Aue8A?si=OM1KH1OATWGbihRGYYz6Zg"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/3328e8f2-7310-4cf4-996a-c8d1c808fc76/episode-182-finally-my-brethren-rejoice-in-the-lord"
 apple: "https://podcasts.apple.com/us/podcast/episode-182-finally-my-brethren-rejoice-in-the-lord/id1804618601?i=1000776357512"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-182-Finally-My-Brethren-Rejoice-in-the-Lord/B0H7PP8Q3H?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
