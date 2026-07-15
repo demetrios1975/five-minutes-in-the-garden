@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/39DORbXj7RJRWupov1tZJg?si=XGmqsHrORUG
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/40e55c86-2acf-4da3-9710-407004ea9f10/episode-174-all-seek-their-own"
 apple: "https://podcasts.apple.com/us/podcast/episode-174-all-seek-their-own/id1804618601?i=1000775322040"
 audible: "https://www.audible.com/podcast/Episode-174-All-Seek-Their-Own/B0H7HVT446?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/2X7o96ahFxY"
 draft: false
 ---
 
