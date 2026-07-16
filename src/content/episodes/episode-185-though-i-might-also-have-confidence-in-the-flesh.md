@@ -8,7 +8,7 @@ cover: "/episode-art/episode-185.jpg"
 spotify: "https://open.spotify.com/episode/1lJkCuz977RQrp4YpEXAHA?si=A27PuPgBToue81CpOp3zUw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/34490a58-ec2c-4ee8-bf1c-3dfa61cec2b3/episode-185-though-i-might-also-have-confidence-in-the-flesh"
 apple: "https://podcasts.apple.com/us/podcast/episode-185-though-i-might-also-have-confidence-in-the-flesh/id1804618601?i=1000776732331"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-185-Though-I-Might-Also-Have-Confidence-in-the-Flesh/B0H8KXDPZ1?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
