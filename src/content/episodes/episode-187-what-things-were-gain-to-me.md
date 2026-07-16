@@ -7,7 +7,7 @@ summary: "Paul reminds us that every earthly accomplishment fades beside the sur
 cover: "/episode-art/episode-187.jpg"
 spotify: "https://open.spotify.com/episode/7sNjUJLEAIud30h6EI1tXi?si=uQPzlPuXQ2qczwOyYgZgoQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/686d3b8c-9740-4f79-8a3a-2ba9d4b91495/episode-187-what-things-were-gain-to-me"
-apple: "https://tinyurl.com/FiveMinutesonApple"
+apple: "https://podcasts.apple.com/us/podcast/episode-187-what-things-were-gain-to-me/id1804618601?i=1000777035616"
 audible: "https://tinyurl.com/5minAudible"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
