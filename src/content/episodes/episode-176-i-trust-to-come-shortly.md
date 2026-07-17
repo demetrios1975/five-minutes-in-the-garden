@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4YXEeLa3K7RgMINVvrSuj0?si=_Xn4lHEMSca
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/7768cba4-0133-4446-8b04-7a460984c997/episode-176-i-trust-to-come-shortly"
 apple: "https://podcasts.apple.com/us/podcast/episode-176-i-trust-to-come-shortly/id1804618601?i=1000775508475"
 audible: "https://www.audible.com/podcast/Episode-176-I-Trust-to-Come-Shortly/B0H7NS7QKK?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/hzv6Qvwiynk"
 draft: false
 ---
 
