@@ -8,7 +8,7 @@ cover: "/episode-art/episode-189.jpg"
 spotify: "https://open.spotify.com/episode/1kscVulMAKw7Zcbc9oj4te?si=elGbuDyeSZ6FE4NVhPUHZw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/e63b605f-456b-45e9-a391-45a53f719d3d/episode-189-and-be-found-in-him"
 apple: "https://podcasts.apple.com/us/podcast/episode-189-and-be-found-in-him/id1804618601?i=1000777318642"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-189-And-Be-Found-In-Him/B0H9BSLF14?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
