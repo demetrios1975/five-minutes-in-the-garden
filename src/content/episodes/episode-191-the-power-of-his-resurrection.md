@@ -7,7 +7,7 @@ summary: "Paul reminds us that the resurrection is not only a past event but a p
 cover: "/episode-art/episode-191.jpg"
 spotify: "https://open.spotify.com/episode/5r8TPIpnEbNCOu1xRhcmLO?si=8AJvfBsKQ0y3Ey87VXjQ-w"
 amazon: "https://tinyurl.com/5MinutesInTheGarden"
-apple: "https://tinyurl.com/FiveMinutesonApple"
+apple: "https://podcasts.apple.com/us/podcast/episode-191-the-power-of-his-resurrection/id1804618601?i=1000777552346"
 audible: "https://tinyurl.com/5minAudible"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
