@@ -8,7 +8,7 @@ cover: "/episode-art/episode-190.jpg"
 spotify: "https://open.spotify.com/episode/65cVJDJMOGyO8PTUNv04s0?si=Oz9cpj-lRkGMLGaFmRd0PQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/1a6ec8f3-9bae-4873-99ea-db5ca9a96173/episode-190-that-i-may-know-him"
 apple: "https://podcasts.apple.com/us/podcast/episode-190-that-i-may-know-him/id1804618601?i=1000777406513"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-190-That-I-May-Know-Him/B0H9HNDV1Y?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
