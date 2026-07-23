@@ -7,7 +7,7 @@ summary: "Paul reminds us that the path of Christ is one of daily surrender, whe
 cover: "/episode-art/episode-193.jpg"
 spotify: "https://open.spotify.com/episode/3nPjCpxqCGk9Zor6FA3L9S?si=YWRmOQMBQbK8squSFEUMbg"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/5ead456f-390c-416a-86f0-e57761539bb4/episode-193-conformed-unto-his-death"
-apple: "https://tinyurl.com/FiveMinutesonApple"
+apple: "https://podcasts.apple.com/us/podcast/episode-193-conformed-unto-his-death/id1804618601?i=1000777881130"
 audible: "https://tinyurl.com/5minAudible"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
