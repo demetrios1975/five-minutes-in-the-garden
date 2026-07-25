@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4uL2FJBNy4cAQFclploEWZ?si=jKafnyFjQnu
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/7850e6da-5c63-42db-b99f-83332d35afe4/episode-183-beware-of-dogs"
 apple: "https://podcasts.apple.com/us/podcast/episode-183-beware-of-dogs/id1804618601?i=1000776450151"
 audible: "https://www.audible.com/podcast/Episode-183-Beware-of-Dogs/B0H8L7CHJQ?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/zea0tkw9tOQ"
 draft: false
 ---
 

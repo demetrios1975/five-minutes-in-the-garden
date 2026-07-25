@@ -8,7 +8,7 @@ cover: "/episode-art/episode-194.jpg"
 spotify: "https://open.spotify.com/episode/7qemqwnw04ouqDHUXHy8mN?si=ULZf9A_YSO6BfhStpzPL1A"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/3c6806c4-50bc-4993-9b41-bea781ed77d0/episode-194-the-hope-of-the-resurrection"
 apple: "https://podcasts.apple.com/us/podcast/episode-194-the-hope-of-the-resurrection/id1804618601?i=1000778004493"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-194-The-Hope-of-the-Resurrection/B0HB4BM5LV?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
