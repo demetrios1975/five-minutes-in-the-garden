@@ -8,7 +8,7 @@ cover: "/episode-art/episode-195.jpg"
 spotify: "https://open.spotify.com/episode/3dMY1jkGvEHqnS6lMm8hnR?si=NyM_Wen3QaGxRAKBDfWS_g"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/9265a717-dbb6-4839-bc0b-0d7ac9aa52b4/episode-195-not-already-perfect"
 apple: "https://podcasts.apple.com/us/podcast/episode-195-not-already-perfect/id1804618601?i=1000778171483"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-195-Not-Already-Perfect/B0HB71ZZGJ?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---

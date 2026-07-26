@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/4GSCFzOrYJnQA4MKd5IA60?si=FK5aW0NWSDO
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/5c98e736-67fb-4c60-bf59-8a6cca2b2a3c/episode-184-we-are-the-circumcision"
 apple: "https://podcasts.apple.com/us/podcast/episode-184-we-are-the-circumcision/id1804618601?i=1000776569322"
 audible: "https://www.audible.com/podcast/Episode-184-We-Are-the-Circumcision/B0H8P4Z9BD?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/58VOoqYFlUo"
 draft: false
 ---
 
