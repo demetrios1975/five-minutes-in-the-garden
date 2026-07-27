@@ -8,7 +8,7 @@ cover: "/episode-art/episode-196.jpg"
 spotify: "https://open.spotify.com/episode/77a23Pa77tDEpCxYFyPtNf?si=OHSWr_KrQ_-4qB_4e4J4rw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/4a5c9bbf-1ef6-48a2-8033-d0dace772bda/episode-196-forgetting-those-things-which-are-behind"
 apple: "https://podcasts.apple.com/us/podcast/episode-196-forgetting-those-things-which-are-behind/id1804618601?i=1000778304514"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-196-Forgetting-Those-Things-Which-Are-Behind/B0HBK6H1BQ?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
