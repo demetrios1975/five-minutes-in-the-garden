@@ -8,7 +8,7 @@ cover: "/episode-art/episode-197.jpg"
 spotify: "https://open.spotify.com/episode/4ofgDFPIHJ0C0qif1AWdkC?si=FRYnoLrbTYKehJUoPQ_ZaA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/00a62dea-6e7a-43b6-9a17-275f4d6551ed/episode-197-reaching-forth-unto-those-things-which-are-before"
 apple: "https://podcasts.apple.com/us/podcast/episode-197-reaching-forth-unto-those-things-which/id1804618601?i=1000778393431"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-197-Reaching-Forth-Unto-Those-Things-Which-Are-Before/B0HBMCYWQ9?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
