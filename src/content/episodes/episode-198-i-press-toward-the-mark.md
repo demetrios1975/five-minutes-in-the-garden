@@ -8,7 +8,7 @@ cover: "/episode-art/episode-198.jpg"
 spotify: "https://open.spotify.com/episode/06aZvvrgM0QpySqhVbed6O?si=kngUvf-STYeyh9QaPxxquA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/531fd59d-f64f-4eb6-82e7-ed214f34e910/episode-198-i-press-toward-the-mark"
 apple: "https://podcasts.apple.com/us/podcast/episode-198-i-press-toward-the-mark/id1804618601?i=1000778513794"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-198-I-Press-Toward-the-Mark/B0HBQDB3N4?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---

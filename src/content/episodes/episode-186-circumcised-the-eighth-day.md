@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/269od71Q6FvExxrCc6tpfd?si=i0gB6QXnQn6
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/84849121-b8bb-4261-af97-459776b9bce6/episode-186-circumcised-the-eighth-day"
 apple: "https://podcasts.apple.com/us/podcast/episode-186-circumcised-the-eighth-day/id1804618601?i=1000776881715"
 audible: "https://www.audible.com/podcast/Episode-186-Circumcised-the-Eighth-Day/B0H8YC263P?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/sr1fga5w0vs"
 draft: false
 ---
 
