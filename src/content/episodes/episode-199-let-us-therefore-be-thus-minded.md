@@ -8,7 +8,7 @@ cover: "/episode-art/episode-199.jpg"
 spotify: "https://open.spotify.com/episode/0eDRRNkTQNxJHc2iPKnduv?si=eqDqthRIQRmNsCPMitSROQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/66be0d63-59ff-4821-bdc0-fd53b36fd841/episode-199-let-us-therefore-be-thus-minded"
 apple: "https://podcasts.apple.com/us/podcast/episode-199-let-us-therefore-be-thus-minded/id1804618601?i=1000778657645"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-199-Let-Us-Therefore-Be-Thus-Minded/B0HBWD93QZ?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
