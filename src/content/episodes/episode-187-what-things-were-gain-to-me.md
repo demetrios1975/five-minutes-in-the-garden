@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/7sNjUJLEAIud30h6EI1tXi?si=uQPzlPuXQ2q
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/686d3b8c-9740-4f79-8a3a-2ba9d4b91495/episode-187-what-things-were-gain-to-me"
 apple: "https://podcasts.apple.com/us/podcast/episode-187-what-things-were-gain-to-me/id1804618601?i=1000777035616"
 audible: "https://www.audible.com/podcast/Episode-187-What-Things-Were-Gain-to-Me/B0H94H5YKF?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/D3IxTRqNp3k"
 draft: false
 ---
 

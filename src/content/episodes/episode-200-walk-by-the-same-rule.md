@@ -8,7 +8,7 @@ cover: "/episode-art/episode-200.jpg"
 spotify: "https://open.spotify.com/episode/0jUgQFmGJJRHu4hpwrlQgD?si=V4xDzFamRQWNnAOpE5a_Ew"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/6656cb83-3a7b-429d-a8b5-030c31472f5e/episode-200-walk-by-the-same-rule"
 apple: "https://podcasts.apple.com/us/podcast/episode-200-walk-by-the-same-rule/id1804618601?i=1000778844509"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-200-Walk-by-the-Same-Rule/B0HC2KJG7N?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
