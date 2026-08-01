@@ -8,7 +8,7 @@ cover: "/episode-art/episode-201.jpg"
 spotify: "https://open.spotify.com/episode/70HSnROw4wowCUXdtvGdVD?si=LjCqVV38TPupgv4puEx3rg"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/27af64c2-a40f-4731-892e-ff920d300394/episode-201-followers-together"
 apple: "https://podcasts.apple.com/us/podcast/episode-201-followers-together/id1804618601?i=1000779029218"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-201-Followers-Together/B0HC5Q42R6?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
