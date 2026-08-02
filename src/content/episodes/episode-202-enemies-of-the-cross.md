@@ -8,7 +8,7 @@ cover: "/episode-art/episode-202.jpg"
 spotify: "https://open.spotify.com/episode/0lSDzkD4XZah96eXmL8i50?si=0GVEi5iTQJqy214waWK_3g"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/76f28193-2d4d-4458-b2ee-ff2707eea422/episode-202-enemies-of-the-cross"
 apple: "https://podcasts.apple.com/us/podcast/episode-202-enemies-of-the-cross/id1804618601?i=1000779230886"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-202-Enemies-of-the-Cross/B0HCBKWMPS?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
