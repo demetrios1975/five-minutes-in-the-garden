@@ -8,7 +8,7 @@ cover: "/episode-art/episode-204.jpg"
 spotify: "https://open.spotify.com/episode/0IQ3MlaCdfIWUkKIPV8vjN?si=PIDTApDBS32MafSyfh0Mbw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/c5066b65-cb41-4744-b091-ad5fecdc13dc/episode-204-our-conversation-is-in-heaven"
 apple: "https://podcasts.apple.com/us/podcast/episode-204-our-conversation-is-in-heaven/id1804618601?i=1000779525915"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-204-Our-Conversation-Is-in-Heaven/B0HCLK1561?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---

@@ -8,7 +8,7 @@ cover: "/episode-art/episode-203.jpg"
 spotify: "https://open.spotify.com/episode/46D5appTOl4WEOjyzBzkrG?si=SpRlKwXoRfSyUYvVfbounQ"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/6ceb2ba6-a585-4347-a505-9684da18c904/episode-203-whose-end-is-destruction"
 apple: "https://podcasts.apple.com/us/podcast/episode-203-whose-end-is-destruction/id1804618601?i=1000779393563"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-203-Whose-End-Is-Destruction/B0HCJ2QSR6?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
