@@ -6,10 +6,10 @@ date: "2026-07-20"
 summary: "Paul reminds us that the resurrection is not only a past event but a present reality, as the risen Christ continues to bring new life, hope, and transformation to His people."
 cover: "/episode-art/episode-191.jpg"
 spotify: "https://open.spotify.com/episode/5r8TPIpnEbNCOu1xRhcmLO?si=8AJvfBsKQ0y3Ey87VXjQ-w"
-amazon: "https://tinyurl.com/5MinutesInTheGarden"
+amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/69fe41ff-c458-4d1a-be86-8201ad7b6249/episode-191-the-power-of-his-resurrection"
 apple: "https://podcasts.apple.com/us/podcast/episode-191-the-power-of-his-resurrection/id1804618601?i=1000777552346"
 audible: "https://www.audible.com/podcast/Episode-191-The-Power-of-His-Resurrection/B0H9M9VM9X?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/digYv-2N_Fg"
 draft: false
 ---
 

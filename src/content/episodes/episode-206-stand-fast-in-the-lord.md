@@ -7,8 +7,8 @@ summary: "Paul calls believers to stand firm in the Lord, reminding us that true
 cover: "/episode-art/episode-206.jpg"
 
 spotify: "https://open.spotify.com/episode/7K2pLUMpw9XUum0Hsdue03?si=T7h5gbNvTSe-N3tIgEMIFA"
-amazon: "https://tinyurl.com/5MinutesInTheGarden"
-apple: "https://tinyurl.com/FiveMinutesonApple"
+amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f4c1d5ed-a74c-4274-8241-b2ea6fd3e312/episode-206-stand-fast-in-the-lord"
+apple: "https://podcasts.apple.com/us/podcast/episode-206-stand-fast-in-the-lord/id1804618601?i=1000779814808"
 audible: "https://tinyurl.com/5minAudible"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 
