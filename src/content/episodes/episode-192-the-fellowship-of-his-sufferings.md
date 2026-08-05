@@ -9,7 +9,7 @@ spotify: "https://open.spotify.com/episode/5Y1ko13yGCwgXTIZbBZkHP?si=PDAKhpp9Q4K
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f5e053c5-5ff3-4d9a-91d9-a0f409d6bad3/episode-192-the-fellowship-of-his-sufferings"
 apple: "https://podcasts.apple.com/us/podcast/episode-192-the-fellowship-of-his-sufferings/id1804618601?i=1000777687792"
 audible: "https://www.audible.com/podcast/Episode-192-The-Fellowship-of-His-Sufferings/B0H9S2BJD1?source_code=ASSGB149080119000H&share_location=pdp"
-youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
+youtube: "https://youtu.be/5MP3I9H5rDE"
 draft: false
 ---
 

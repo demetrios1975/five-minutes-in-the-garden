@@ -8,7 +8,7 @@ cover: "/episode-art/episode-205.jpg"
 spotify: "https://open.spotify.com/episode/5nzb8oKcQyRmBcaxZrt2LF?si=c8-Ac9O3R-iWm9Xe6CFVAw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/6dafec11-ecb6-4c74-b2b0-b8741d11f873/episode-205-who-shall-change-our-vile-body"
 applePodcast: "https://podcasts.apple.com/us/podcast/episode-205-who-shall-change-our-vile-body/id1804618601?i=1000779723956"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-205-Who-Shall-Change-Our-Vile-Body/B0HCPZ2KNT?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 draft: false
 ---
