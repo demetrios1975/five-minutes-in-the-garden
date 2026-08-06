@@ -9,7 +9,7 @@ cover: "/episode-art/episode-206.jpg"
 spotify: "https://open.spotify.com/episode/7K2pLUMpw9XUum0Hsdue03?si=T7h5gbNvTSe-N3tIgEMIFA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/f4c1d5ed-a74c-4274-8241-b2ea6fd3e312/episode-206-stand-fast-in-the-lord"
 apple: "https://podcasts.apple.com/us/podcast/episode-206-stand-fast-in-the-lord/id1804618601?i=1000779814808"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-206-Stand-Fast-in-the-Lord/B0HCTFD47C?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 
 draft: false
