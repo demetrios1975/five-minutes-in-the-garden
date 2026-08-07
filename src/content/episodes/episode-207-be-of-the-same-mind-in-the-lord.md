@@ -9,7 +9,7 @@ cover: "/episode-art/episode-207.jpg"
 spotify: "https://open.spotify.com/episode/78GWfvlfKewBcIulza2jM7?si=U-u1W1nnRT6xfdGPz39MWw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/7e0a1987-998f-4254-a1b6-e86a2275196a/episode-207-be-of-the-same-mind-in-the-lord"
 apple: "https://podcasts.apple.com/us/podcast/episode-207-be-of-the-same-mind-in-the-lord/id1804618601?i=1000780015401"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-207-Be-of-the-Same-Mind-in-the-Lord/B0HCZR4QY9?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 
 draft: false
