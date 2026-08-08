@@ -9,7 +9,7 @@ cover: "/episode-art/episode-208.jpg"
 spotify: "https://open.spotify.com/episode/7gWmo98R131uF2aZCPbATX?si=MoTyOiIMTPuGNVS0w2aHgw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/430a2aae-def8-4936-b6e7-2c4196abc0cb/episode-208-help-those-women"
 apple: "https://podcasts.apple.com/us/podcast/episode-208-help-those-women/id1804618601?i=1000780204877"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-208-Help-Those-Women/B0HD77BM8W?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 
 draft: false
