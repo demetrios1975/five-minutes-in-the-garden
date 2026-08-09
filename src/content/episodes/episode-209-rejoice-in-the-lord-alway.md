@@ -9,7 +9,7 @@ cover: "/episode-art/episode-209.jpg"
 spotify: "https://open.spotify.com/episode/3sb0OG6OnFzNH2eCoyqK7Y?si=IUGFxagNR1mj9yqS9hvI3Q"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/0486be62-e9ad-4aec-b3d7-f3aedbaa1a9f/episode-209-rejoice-in-the-lord-alway"
 apple: "https://podcasts.apple.com/us/podcast/episode-209-rejoice-in-the-lord-alway/id1804618601?i=1000780417598"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-209-Rejoice-in-the-Lord-Alway/B0HDCNBKVR?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 
 draft: false

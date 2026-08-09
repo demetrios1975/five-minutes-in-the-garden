@@ -7,7 +7,7 @@ summary: "Paul reminds us that Christian gentleness is not weakness but strength
 cover: "/episode-art/episode-210.jpg"
 spotify: "https://open.spotify.com/episode/1AQpMilxb9RgrlnzDX0Jka?si=Y-XxOIfCQeqmWh38B4I36A"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/31501201-2215-4ea9-b718-b2683a108117/episode-210-let-your-moderation-be-known"
-apple: "https://tinyurl.com/FiveMinutesonApple"
+apple: "https://podcasts.apple.com/us/podcast/episode-210-let-your-moderation-be-known/id1804618601?i=1000781078056"
 audible: "https://tinyurl.com/5minAudible"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 
