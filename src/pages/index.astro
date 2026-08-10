@@ -22,18 +22,26 @@ const latestTuesday = tuesday[0];
 >
   <main class="home">
 
-    <!-- HERO -->
-    <section class="hero" aria-label="Site introduction">
+  <!-- HERO -->
+  <section class="hero" aria-label="Site introduction">
+    <picture class="hero__picture">
+      <source
+        media="(max-width: 768px)"
+        srcset="/images/five-minutes-in-the-garden-mobile.jpg"
+      />
+
       <img
         src="/images/five-minutes-in-the-garden-hero-2026.jpg"
         alt="Five Minutes in the Garden"
         class="hero__image"
         loading="eager"
       />
-    </section>
+    </picture>
+  </section>
 
-    <!-- PAGE FRAME -->
-    <section class="home-frame">
+  <!-- PAGE FRAME -->
+  <section class="home-frame">
+  
       <div class="layout">
 
         <!-- LEFT RAIL -->
@@ -165,21 +173,37 @@ const latestTuesday = tuesday[0];
 
   <style>
     /* HERO */
-    .hero {
-      max-width: min(1100px, 92vw);
-      margin: 0.5rem auto 1.25rem;
-      height: clamp(220px, 32vh, 360px);
-      overflow: hidden;
-      border-radius: 18px;
-    }
 
-    .hero__image {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center 62%;
-      display: block;
-    }
+.hero {
+  width: min(1100px, 92vw);
+  margin: 1.5rem auto 0;
+  padding: 0;
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.hero__picture {
+  display: block;
+  width: 100%;
+}
+
+.hero__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .hero {
+    width: min(92vw, 680px);
+  }
+
+  .hero__image {
+    width: 100%;
+    height: auto;
+  }
+}
 
     /* FRAME */
     .home-frame {
