@@ -43,7 +43,7 @@ Prayer.
 
 ## Scripture Reading
 
-> <sup class="verse-num">6</sup> Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
+<sup class="verse-num">6</sup> Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
 
 ## Devotional Reading
 
