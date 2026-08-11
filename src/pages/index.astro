@@ -171,10 +171,10 @@ const latestTuesday = tuesday[0];
     </section>
   </main>
 
-  <style>
-    /* HERO */
+ <style>
+  /* HERO */
 
-.hero {
+  .hero {
   width: min(1100px, 92vw);
   margin: 1.5rem auto 0;
   padding: 0;
@@ -191,267 +191,275 @@ const latestTuesday = tuesday[0];
   display: block;
   width: 100%;
   height: auto;
+  border-radius: 18px;
 }
 
-/* Mobile */
-@media (max-width: 768px) {
-  .hero {
-    width: min(92vw, 680px);
+  /* FRAME */
+
+  .home-frame {
+    max-width: min(1100px, 92vw);
+    margin: 1.25rem auto 0;
   }
 
-  .hero__image {
-    width: 100%;
-    height: auto;
+  .layout {
+    display: grid;
+    gap: 1.25rem;
   }
-}
 
-    /* FRAME */
-    .home-frame {
-      max-width: min(1100px, 92vw);
-      margin: 0 auto;
-    }
-
+  @media (min-width: 980px) {
     .layout {
-      display: grid;
-      gap: 1.25rem;
+      grid-template-columns: 260px 1fr 280px;
+    }
+  }
+
+  /* MOBILE HERO */
+
+  @media (max-width: 768px) {
+    .hero {
+      width: min(92vw, 680px);
     }
 
-    @media (min-width: 980px) {
-      .layout {
-        grid-template-columns: 260px 1fr 280px;
-      }
-    }
-
-    /* RAILS */
-    .rail {
-      display: none;
-    }
-
-    @media (min-width: 980px) {
-      .rail {
-        display: block;
-        position: sticky;
-        top: 1.25rem;
-      }
-    }
-
-    .rail-card {
-      border: 1px solid #e3e3e3;
-      border-radius: 16px;
-      padding: 16px;
-      background: rgba(0,0,0,0.02);
-    }
-
-    .rail-title {
-      font-size: 0.75rem;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      opacity: 0.75;
-      margin-bottom: 0.75rem;
-    }
-
-    .rail-icon {
+    .hero__image {
       width: 100%;
-      max-height: 160px;
-      object-fit: cover;
-      border-radius: 12px;
-      opacity: 0.85;
+      height: auto;
     }
+  }
 
-    .icon-list {
-      list-style: none;
-      padding: 0;
-      margin: 0.75rem 0 0;
-      display: grid;
-      gap: 0.5rem;
-    }
+  /* RAILS */
 
-    /* LEFT RAIL — TUESDAY FEATURE */
-.rail-divider {
-  height: 1px;
-  background: linear-gradient(
-    to right,
-    transparent,
-    rgba(0,0,0,0.18),
-    transparent
-  );
-  border: 0;
-  margin: 1rem 0;
-}
+  .rail {
+    display: none;
+  }
 
-.rail-subtitle {
-  font-size: 0.75rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  opacity: 0.65;
-  margin: 0 0 0.6rem;
-}
-
-.study-card {
-  display: block;
-  padding: 12px;
-  border-radius: 14px;
-  border: 1px solid rgba(0,0,0,0.08);
-  text-decoration: none;
-  color: inherit;
-  background: rgba(255,255,255,0.6);
-}
-
-.study-card:hover {
-  background: rgba(255,255,255,0.9);
-}
-
-.study-title {
-  margin: 0 0 0.35rem;
-  font-weight: 600;
-  line-height: 1.2;
-}
-
-.study-meta {
-  margin: 0 0 0.55rem;
-  font-size: 0.85rem;
-  opacity: 0.7;
-}
-
-.study-link {
-  font-size: 0.9rem;
-}
-
-    /* CENTER */
-    .intro {
-      max-width: 42rem;
-      margin-bottom: 1.75rem;
-    }
-
-    .intro-eyebrow {
-      font-size: 0.75rem;
-      letter-spacing: 0.16em;
-      text-transform: uppercase;
-      opacity: 0.6;
-      margin-bottom: 0.5rem;
-    }
-
-    .intro-lede {
-      font-size: 1.25rem;
-      line-height: 1.6;
-      margin: 0;
-    }
-
-    .divider {
-      height: 1px;
-      background: linear-gradient(
-        to right,
-        transparent,
-        rgba(0,0,0,0.18),
-        transparent
-      );
-      border: 0;
-      margin: 1.75rem 0;
-    }
-
-    .section-label {
-      font-size: 0.8rem;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      opacity: 0.7;
-      margin-bottom: 1rem;
-    }
-
-    /* FEATURED EPISODE */
-    .episode-feature {
-      border: 1px solid #e5e5e5;
-      border-radius: 16px;
-      padding: 1.1rem;
-      background: rgba(0,0,0,0.02);
-    }
-
-    .episode-kicker {
-      font-size: 0.8rem;
-      opacity: 0.7;
-      margin-bottom: 0.4rem;
-    }
-
-    .episode-title {
-      margin: 0.15rem 0 0.35rem;
-      font-size: 1.5rem;
-      line-height: 1.2;
-    }
-
-    .episode-title a {
-      text-decoration: none;
-      color: inherit;
-    }
-
-    .episode-title a:hover {
-      text-decoration: underline;
-    }
-
-    .episode-meta {
-      opacity: 0.75;
-      margin-bottom: 0.5rem;
-    }
-
-    .episode-summary {
-      margin: 0.6rem 0;
-    }
-
-    .read-link {
-      text-decoration: none;
-    }
-
-    .read-link:hover {
-      text-decoration: underline;
-    }
-
-    /* MORE READINGS */
-    .mini-list {
-      display: grid;
-      gap: 0.65rem;
-      margin-top: 0.75rem;
-    }
-
-    .mini-card {
+  @media (min-width: 980px) {
+    .rail {
       display: block;
-      padding: 12px;
-      border-radius: 14px;
-      border: 1px solid rgba(0,0,0,0.08);
-      text-decoration: none;
-      color: inherit;
-      background: rgba(255,255,255,0.6);
+      position: sticky;
+      top: 1.25rem;
     }
+  }
 
-    .mini-card:hover {
-      background: rgba(255,255,255,0.9);
-    }
+  .rail-card {
+    border: 1px solid #e3e3e3;
+    border-radius: 16px;
+    padding: 16px;
+    background: rgba(0, 0, 0, 0.02);
+  }
 
-    .mini-kicker {
-      font-size: 0.75rem;
-      opacity: 0.7;
-      margin-bottom: 0.2rem;
-    }
+  .rail-title {
+    font-size: 0.75rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.75;
+    margin-bottom: 0.75rem;
+  }
 
-    .mini-title {
-      font-weight: 600;
-      line-height: 1.2;
-    }
+  .rail-icon {
+    width: 100%;
+    max-height: 160px;
+    object-fit: cover;
+    border-radius: 12px;
+    opacity: 0.85;
+  }
 
-    .mini-meta {
-      font-size: 0.85rem;
-      opacity: 0.7;
-    }
+  .icon-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.75rem 0 0;
+    display: grid;
+    gap: 0.5rem;
+  }
 
-    /* LINKS */
-    .home-links {
-      display: grid;
-      gap: 0.75rem;
-    }
+  /* LEFT RAIL — TUESDAY FEATURE */
 
-    .home-links a {
-      text-decoration: none;
-    }
+  .rail-divider {
+    height: 1px;
+    background: linear-gradient(
+      to right,
+      transparent,
+      rgba(0, 0, 0, 0.18),
+      transparent
+    );
+    border: 0;
+    margin: 1rem 0;
+  }
 
-    .home-links a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</BaseLayout>
+  .rail-subtitle {
+    font-size: 0.75rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.65;
+    margin: 0 0 0.6rem;
+  }
+
+  .study-card {
+    display: block;
+    padding: 12px;
+    border-radius: 14px;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    text-decoration: none;
+    color: inherit;
+    background: rgba(255, 255, 255, 0.6);
+  }
+
+  .study-card:hover {
+    background: rgba(255, 255, 255, 0.9);
+  }
+
+  .study-title {
+    margin: 0 0 0.35rem;
+    font-weight: 600;
+    line-height: 1.2;
+  }
+
+  .study-meta {
+    margin: 0 0 0.55rem;
+    font-size: 0.85rem;
+    opacity: 0.7;
+  }
+
+  .study-link {
+    font-size: 0.9rem;
+  }
+
+  /* CENTER */
+
+  .intro {
+    max-width: 42rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .intro-eyebrow {
+    font-size: 0.75rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    margin-bottom: 0.5rem;
+  }
+
+  .intro-lede {
+    font-size: 1.25rem;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .divider {
+    height: 1px;
+    background: linear-gradient(
+      to right,
+      transparent,
+      rgba(0, 0, 0, 0.18),
+      transparent
+    );
+    border: 0;
+    margin: 1.75rem 0;
+  }
+
+  .section-label {
+    font-size: 0.8rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.7;
+    margin-bottom: 1rem;
+  }
+
+  /* FEATURED EPISODE */
+
+  .episode-feature {
+    border: 1px solid #e5e5e5;
+    border-radius: 16px;
+    padding: 1.1rem;
+    background: rgba(0, 0, 0, 0.02);
+  }
+
+  .episode-kicker {
+    font-size: 0.8rem;
+    opacity: 0.7;
+    margin-bottom: 0.4rem;
+  }
+
+  .episode-title {
+    margin: 0.15rem 0 0.35rem;
+    font-size: 1.5rem;
+    line-height: 1.2;
+  }
+
+  .episode-title a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .episode-title a:hover {
+    text-decoration: underline;
+  }
+
+  .episode-meta {
+    opacity: 0.75;
+    margin-bottom: 0.5rem;
+  }
+
+  .episode-summary {
+    margin: 0.6rem 0;
+  }
+
+  .read-link {
+    text-decoration: none;
+  }
+
+  .read-link:hover {
+    text-decoration: underline;
+  }
+
+  /* MORE READINGS */
+
+  .mini-list {
+    display: grid;
+    gap: 0.65rem;
+    margin-top: 0.75rem;
+  }
+
+  .mini-card {
+    display: block;
+    padding: 12px;
+    border-radius: 14px;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    text-decoration: none;
+    color: inherit;
+    background: rgba(255, 255, 255, 0.6);
+  }
+
+  .mini-card:hover {
+    background: rgba(255, 255, 255, 0.9);
+  }
+
+  .mini-kicker {
+    font-size: 0.75rem;
+    opacity: 0.7;
+    margin-bottom: 0.2rem;
+  }
+
+  .mini-title {
+    font-weight: 600;
+    line-height: 1.2;
+  }
+
+  .mini-meta {
+    font-size: 0.85rem;
+    opacity: 0.7;
+  }
+
+  /* LINKS */
+
+  .home-links {
+    display: grid;
+    gap: 0.75rem;
+  }
+
+  .home-links a {
+    text-decoration: none;
+  }
+
+  .home-links a:hover {
+    text-decoration: underline;
+  }
+</style>
