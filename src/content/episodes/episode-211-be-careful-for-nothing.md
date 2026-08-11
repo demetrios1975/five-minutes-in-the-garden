@@ -9,7 +9,7 @@ cover: "/episode-art/episode-211.jpg"
 spotify: "https://open.spotify.com/episode/5a7NtnRRfS5Nxxm6hMSdIG?si=R15lJmTcQpCTNvdZ1kKCPw"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/6932accf-8aaa-4b8d-b0f5-7fae0d807303/episode-211-be-careful-for-nothing"
 apple: "https://podcasts.apple.com/us/podcast/episode-211-be-careful-for-nothing/id1804618601?i=1000781160936"
-audible: "https://www.audible.com/pd/B0HDSWCNNM?source_code=ASSGB149080119000H&share_location=pdp"
+audible: "https://www.audible.com/podcast/Episode-211-Be-Careful-for-Nothing/B0HDKYDJ8W?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 
 draft: false
