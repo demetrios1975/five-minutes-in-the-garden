@@ -9,7 +9,7 @@ cover: "/episode-art/episode-212.jpg"
 spotify: "https://open.spotify.com/episode/3oLdErYWCdTu3ZIgVeTAol?si=beRGFqa_SGm50N5w1xh9AA"
 amazon: "https://music.amazon.com/podcasts/760df990-7206-4e16-948b-b3c3038dcfce/episodes/7e66c0e8-57ff-4de1-be85-0b020c5cc21d/episode-212-the-peace-of-god"
 apple: "https://podcasts.apple.com/us/podcast/episode-212-the-peace-of-god/id1804618601?i=1000781702393"
-audible: "https://tinyurl.com/5minAudible"
+audible: "https://www.audible.com/podcast/Episode-212-The-Peace-of-God/B0HDNNHT46?source_code=ASSGB149080119000H&share_location=pdp"
 youtube: "https://www.youtube.com/playlist?list=PLInIpT4GMkNXlKiTq2oVgSufLf-QaUDnt"
 
 draft: false
